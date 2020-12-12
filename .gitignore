@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 data/geoxwalk_all.xlsx
 data/geoxwalk_all.csv
+notebooks/censusAPI.py

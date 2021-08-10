@@ -1,0 +1,37 @@
+﻿stco,st,co,stco_int,reg,subreg1,subreg2,stco_lbl,co_lbl
+09001,09,001,9001,31CR,CT,CT,"Fairfield County, Connecticut",Fairfield
+09005,09,005,9005,31CR,CT,CT,"Litchfield County, Connecticut",Litchfield
+09009,09,009,9009,31CR,CT,CT,"New Haven County, Connecticut",New Haven
+34003,34,003,34003,31CR,NJ In,North NJ,"Bergen County, New Jersey",Bergen
+34013,34,013,34013,31CR,NJ In,North NJ,"Essex County, New Jersey",Essex
+34017,34,017,34017,31CR,NJ In,North NJ,"Hudson County, New Jersey",Hudson
+34019,34,019,34019,31CR,NJ Out,North NJ,"Hunterdon County, New Jersey",Hunterdon
+34021,34,021,34021,31CR,NJ Out,North NJ,"Mercer County, New Jersey",Mercer
+34023,34,023,34023,31CR,NJ In,North NJ,"Middlesex County, New Jersey",Middlesex
+34025,34,025,34025,31CR,NJ Out,North NJ,"Monmouth County, New Jersey",Monmouth
+34027,34,027,34027,31CR,NJ In,North NJ,"Morris County, New Jersey",Morris
+34029,34,029,34029,31CR,NJ Out,North NJ,"Ocean County, New Jersey",Ocean
+34031,34,031,34031,31CR,NJ In,North NJ,"Passaic County, New Jersey",Passaic
+34035,34,035,34035,31CR,NJ In,North NJ,"Somerset County, New Jersey",Somerset
+34037,34,037,34037,31CR,NJ Out,North NJ,"Sussex County, New Jersey",Sussex
+34039,34,039,34039,31CR,NJ In,North NJ,"Union County, New Jersey",Union
+34041,34,041,34041,31CR,NJ Out,North NJ,"Warren County, New Jersey",Warren
+36005,36,005,36005,31CR,NYC,NYC,"Bronx County, New York",Bronx
+36027,36,027,36027,31CR,Mid Hud,HV,"Dutchess County, New York",Dutchess
+36047,36,047,36047,31CR,NYC,NYC,"Kings County, New York",Brooklyn
+36059,36,059,36059,31CR,LI,LI,"Nassau County, New York",Nassau
+36061,36,061,36061,31CR,NYC,NYC,"New York County, New York",Manhattan
+36071,36,071,36071,31CR,Mid Hud,HV,"Orange County, New York",Orange
+36079,36,079,36079,31CR,Low Hud,HV,"Putnam County, New York",Putnam
+36081,36,081,36081,31CR,NYC,NYC,"Queens County, New York",Queens
+36085,36,085,36085,31CR,NYC,NYC,"Richmond County, New York",Staten Island
+36087,36,087,36087,31CR,Low Hud,HV,"Rockland County, New York",Rockland
+36103,36,103,36103,31CR,LI,LI,"Suffolk County, New York",Suffolk
+36105,36,105,36105,31CR,Mid Hud,HV,"Sullivan County, New York",Sullivan
+36111,36,111,36111,31CR,Mid Hud,HV,"Ulster County, New York",Ulster
+36119,36,119,36119,31CR,Low Hud,HV,"Westchester County, New York",Westchester
+42025,42,025,42025,,PA,PA,"Carbon County, Pennsylvania",Carbon
+42077,42,077,42077,,PA,PA,"Lehigh County, Pennsylvania",Lehigh
+42095,42,095,42095,,PA,PA,"Northampton County, Pennsylvania",Northampton
+42089,42,089,42089,,PA,PA,"Monroe County, Pennsylvania",Monroe
+42103,42,103,42103,,PA,PA,"Pike County, Pennsylvania",Pike

@@ -215,692 +215,691 @@
 213,34021,3402133180,"Hopewell township, Mercer County, New Jersey",5629,6551
 214,34021,3402139510,"Lawrence township, Mercer County, New Jersey",11180,13239
 215,34021,3402157600,"Pennington borough, Mercer County, New Jersey",1040,1083
-216,34021,3402160900,"Princeton borough, Mercer County, New Jersey",3495,3488
-217,34021,3402160900,"Princeton township, Mercer County, New Jersey",6224,6814
-218,34021,3402163850,"Robbinsville township, Mercer County, New Jersey",4163,5277
-219,34021,3402174000,"Trenton city, Mercer County, New Jersey",33843,33035
-220,34021,3402180240,"West Windsor township, Mercer County, New Jersey",7450,9810
-221,34023,3402310750,"Carteret borough, Middlesex County, New Jersey",7320,8148
-222,34023,3402315550,"Cranbury township, Middlesex County, New Jersey",1121,1371
-223,34023,3402318490,"Dunellen borough, Middlesex County, New Jersey",2520,2683
-224,34023,3402319000,"East Brunswick township, Middlesex County, New Jersey",16640,17367
-225,34023,3402320230,"Edison township, Middlesex County, New Jersey",36018,36302
-226,34023,3402330840,"Helmetta borough, Middlesex County, New Jersey",769,920
-227,34023,3402331470,"Highland Park borough, Middlesex County, New Jersey",6071,6203
-228,34023,3402334890,"Jamesburg borough, Middlesex County, New Jersey",2240,2267
-229,34023,3402345690,"Metuchen borough, Middlesex County, New Jersey",5104,5440
-230,34023,3402345900,"Middlesex borough, Middlesex County, New Jersey",5130,5148
-231,34023,3402346620,"Milltown borough, Middlesex County, New Jersey",2670,2698
-232,34023,3402347280,"Monroe township, Middlesex County, New Jersey",13259,18002
-233,34023,3402351210,"New Brunswick city, Middlesex County, New Jersey",13893,15053
-234,34023,3402352560,"North Brunswick township, Middlesex County, New Jersey",13932,15045
-235,34023,3402354705,"Old Bridge township, Middlesex County, New Jersey",21896,24638
-236,34023,3402358200,"Perth Amboy city, Middlesex County, New Jersey",15236,16556
-237,34023,3402359010,"Piscataway township, Middlesex County, New Jersey",16946,17777
-238,34023,3402359280,"Plainsboro township, Middlesex County, New Jersey",9133,10089
-239,34023,3402365790,"Sayreville borough, Middlesex County, New Jersey",15235,16393
-240,34023,3402368550,"South Amboy city, Middlesex County, New Jersey",3110,3576
-241,34023,3402368790,"South Brunswick township, Middlesex County, New Jersey",13862,15708
-242,34023,3402369390,"South Plainfield borough, Middlesex County, New Jersey",7307,8093
-243,34023,3402369420,"South River borough, Middlesex County, New Jersey",5769,5957
-244,34023,3402369810,"Spotswood borough, Middlesex County, New Jersey",3158,3242
-245,34023,3402382000,"Woodbridge township, Middlesex County, New Jersey",35298,36124
-246,34025,3402500000,"County subdivisions not defined, Monmouth County, New Jersey",0,0
-247,34025,3402500070,"Aberdeen township, Monmouth County, New Jersey",6558,7102
-248,34025,3402500730,"Allenhurst borough, Monmouth County, New Jersey",370,365
-249,34025,3402500760,"Allentown borough, Monmouth County, New Jersey",718,735
-250,34025,3402501960,"Asbury Park city, Monmouth County, New Jersey",7744,8076
-251,34025,3402502110,"Atlantic Highlands borough, Monmouth County, New Jersey",2056,2002
-252,34025,3402502440,"Avon-by-the-Sea borough, Monmouth County, New Jersey",1387,1321
-253,34025,3402504930,"Belmar borough, Monmouth County, New Jersey",3996,3931
-254,34025,3402506970,"Bradley Beach borough, Monmouth County, New Jersey",3132,3180
-255,34025,3402507750,"Brielle borough, Monmouth County, New Jersey",2123,2034
-256,34025,3402514560,"Colts Neck township, Monmouth County, New Jersey",3614,3735
-257,34025,3402516660,"Deal borough, Monmouth County, New Jersey",953,926
-258,34025,3402519840,"Eatontown borough, Monmouth County, New Jersey",6341,5723
-259,34025,3402521570,"Englishtown borough, Monmouth County, New Jersey",680,647
-260,34025,3402522440,"Fair Haven borough, Monmouth County, New Jersey",2037,2065
-261,34025,3402522950,"Farmingdale borough, Monmouth County, New Jersey",638,578
-262,34025,3402525200,"Freehold borough, Monmouth County, New Jersey",3821,4249
-263,34025,3402525230,"Freehold township, Monmouth County, New Jersey",11032,13140
-264,34025,3402530690,"Hazlet township, Monmouth County, New Jersey",7406,7417
-265,34025,3402531500,"Highlands borough, Monmouth County, New Jersey",2820,3146
-266,34025,3402532640,"Holmdel township, Monmouth County, New Jersey",5137,5792
-267,34025,3402533300,"Howell township, Monmouth County, New Jersey",16572,17979
-268,34025,3402534200,"Interlaken borough, Monmouth County, New Jersey",397,393
-269,34025,3402536480,"Keansburg borough, Monmouth County, New Jersey",4269,4318
-270,34025,3402536810,"Keyport borough, Monmouth County, New Jersey",3400,3272
-271,34025,3402537560,"Lake Como borough, Monmouth County, New Jersey",1107,1115
-272,34025,3402540770,"Little Silver borough, Monmouth County, New Jersey",2288,2278
-273,34025,3402541010,"Loch Arbour village, Monmouth County, New Jersey",156,159
-274,34025,3402541310,"Long Branch city, Monmouth County, New Jersey",13983,14170
-275,34025,3402542990,"Manalapan township, Monmouth County, New Jersey",11066,13735
-276,34025,3402543050,"Manasquan borough, Monmouth County, New Jersey",3531,3500
-277,34025,3402544070,"Marlboro township, Monmouth County, New Jersey",11896,13436
-278,34025,3402544520,"Matawan borough, Monmouth County, New Jersey",3640,3606
-279,34025,3402545990,"Middletown township, Monmouth County, New Jersey",23841,24959
-280,34025,3402546560,"Millstone township, Monmouth County, New Jersey",2797,3434
-281,34025,3402547130,"Monmouth Beach borough, Monmouth County, New Jersey",1969,1981
-282,34025,3402549890,"Neptune township, Monmouth County, New Jersey",12217,12991
-283,34025,3402549920,"Neptune City borough, Monmouth County, New Jersey",2342,2312
-284,34025,3402554270,"Ocean township, Monmouth County, New Jersey",10756,11541
-285,34025,3402554570,"Oceanport borough, Monmouth County, New Jersey",2114,2390
-286,34025,3402562430,"Red Bank borough, Monmouth County, New Jersey",5450,5381
-287,34025,3402564410,"Roosevelt borough, Monmouth County, New Jersey",351,327
-288,34025,3402565130,"Rumson borough, Monmouth County, New Jersey",2610,2585
-289,34025,3402566240,"Sea Bright borough, Monmouth County, New Jersey",1202,1211
-290,34025,3402566330,"Sea Girt borough, Monmouth County, New Jersey",1285,1291
-291,34025,3402567350,"Shrewsbury borough, Monmouth County, New Jersey",1223,1310
-292,34025,3402567365,"Shrewsbury township, Monmouth County, New Jersey",546,648
-293,34025,3402570110,"Spring Lake borough, Monmouth County, New Jersey",1930,2048
-294,34025,3402570140,"Spring Lake Heights borough, Monmouth County, New Jersey",2950,2972
-295,34025,3402573020,"Tinton Falls borough, Monmouth County, New Jersey",6211,8766
-296,34025,3402574540,"Union Beach borough, Monmouth County, New Jersey",2229,2269
-297,34025,3402574900,"Upper Freehold township, Monmouth County, New Jersey",1501,2458
-298,34025,3402576460,"Wall township, Monmouth County, New Jersey",9957,10883
-299,34025,3402579310,"West Long Branch borough, Monmouth County, New Jersey",2535,2528
-300,34027,3402706610,"Boonton town, Morris County, New Jersey",3352,3398
-301,34027,3402706640,"Boonton township, Morris County, New Jersey",1510,1647
-302,34027,3402709040,"Butler borough, Morris County, New Jersey",2923,3169
-303,34027,3402712100,"Chatham borough, Morris County, New Jersey",3232,3210
-304,34027,3402712130,"Chatham township, Morris County, New Jersey",4019,4128
-305,34027,3402712580,"Chester borough, Morris County, New Jersey",627,647
-306,34027,3402712610,"Chester township, Morris County, New Jersey",2377,2697
-307,34027,3402717650,"Denville township, Morris County, New Jersey",6178,6734
-308,34027,3402718070,"Dover town, Morris County, New Jersey",5568,5783
-309,34027,3402719210,"East Hanover township, Morris County, New Jersey",3895,3976
-310,34027,3402723910,"Florham Park borough, Morris County, New Jersey",3342,4201
-311,34027,3402729550,"Hanover township, Morris County, New Jersey",4818,5526
-312,34027,3402729700,"Harding township, Morris County, New Jersey",1243,1610
-313,34027,3402734980,"Jefferson township, Morris County, New Jersey",7527,8597
-314,34027,3402737110,"Kinnelon borough, Morris County, New Jersey",3123,3600
-315,34027,3402740290,"Lincoln Park borough, Morris County, New Jersey",4110,4145
-316,34027,3402741362,"Long Hill township, Morris County, New Jersey",3206,3226
-317,34027,3402742510,"Madison borough, Morris County, New Jersey",5641,5775
-318,34027,3402745330,"Mendham borough, Morris County, New Jersey",1828,1798
-319,34027,3402745360,"Mendham township, Morris County, New Jersey",1849,2062
-320,34027,3402746860,"Mine Hill township, Morris County, New Jersey",1388,1380
-321,34027,3402747670,"Montville township, Morris County, New Jersey",7541,7823
-322,34027,3402748090,"Morris township, Morris County, New Jersey",8298,8502
-323,34027,3402748210,"Morris Plains borough, Morris County, New Jersey",1994,2197
-324,34027,3402748300,"Morristown town, Morris County, New Jersey",7615,8172
-325,34027,3402748480,"Mountain Lakes borough, Morris County, New Jersey",1357,1363
-326,34027,3402748690,"Mount Arlington borough, Morris County, New Jersey",2039,2545
-327,34027,3402749080,"Mount Olive township, Morris County, New Jersey",9311,11244
-328,34027,3402750130,"Netcong borough, Morris County, New Jersey",1043,1449
-329,34027,3402756460,"Parsippany-Troy Hills township, Morris County, New Jersey",20066,21274
-330,34027,3402758110,"Pequannock township, Morris County, New Jersey",5097,6794
-331,34027,3402761890,"Randolph township, Morris County, New Jersey",8903,9343
-332,34027,3402763300,"Riverdale borough, Morris County, New Jersey",940,1657
-333,34027,3402764050,"Rockaway borough, Morris County, New Jersey",2491,2521
-334,34027,3402764080,"Rockaway township, Morris County, New Jersey",8506,9587
-335,34027,3402764980,"Roxbury township, Morris County, New Jersey",8550,8582
-336,34027,3402775890,"Victory Gardens borough, Morris County, New Jersey",588,566
-337,34027,3402777240,"Washington township, Morris County, New Jersey",5890,6488
-338,34027,3402780390,"Wharton borough, Morris County, New Jersey",2394,2426
-339,34029,3402900000,"County subdivisions not defined, Ocean County, New Jersey",0,0
-340,34029,3402903050,"Barnegat township, Ocean County, New Jersey",6066,9085
-341,34029,3402903130,"Barnegat Light borough, Ocean County, New Jersey",1207,1282
-342,34029,3402903520,"Bay Head borough, Ocean County, New Jersey",1053,1023
-343,34029,3402903940,"Beach Haven borough, Ocean County, New Jersey",2555,2667
-344,34029,3402904180,"Beachwood borough, Ocean County, New Jersey",3623,3826
-345,34029,3402905305,"Berkeley township, Ocean County, New Jersey",22288,23818
-346,34029,3402907420,"Brick township, Ocean County, New Jersey",32689,33677
-347,34029,3402918670,"Eagleswood township, Ocean County, New Jersey",693,760
-348,34029,3402930390,"Harvey Cedars borough, Ocean County, New Jersey",1205,1214
-349,34029,3402934530,"Island Heights borough, Ocean County, New Jersey",807,831
-350,34029,3402934680,"Jackson township, Ocean County, New Jersey",14640,20342
-351,34029,3402937380,"Lacey township, Ocean County, New Jersey",10580,11573
-352,34029,3402937770,"Lakehurst borough, Ocean County, New Jersey",961,943
-353,34029,3402938550,"Lakewood township, Ocean County, New Jersey",21214,26337
-354,34029,3402939390,"Lavallette borough, Ocean County, New Jersey",3210,3207
-355,34029,3402940560,"Little Egg Harbor township, Ocean County, New Jersey",7931,10324
-356,34029,3402941250,"Long Beach township, Ocean County, New Jersey",9023,9216
-357,34029,3402943140,"Manchester township, Ocean County, New Jersey",22681,25886
-358,34029,3402943380,"Mantoloking borough, Ocean County, New Jersey",522,535
-359,34029,3402954300,"Ocean township, Ocean County, New Jersey",2981,4291
-360,34029,3402954450,"Ocean Gate borough, Ocean County, New Jersey",1152,1203
-361,34029,3402958590,"Pine Beach borough, Ocean County, New Jersey",872,903
-362,34029,3402959790,"Plumsted township, Ocean County, New Jersey",2628,3067
-363,34029,3402959880,"Point Pleasant borough, Ocean County, New Jersey",8350,8331
-364,34029,3402959910,"Point Pleasant Beach borough, Ocean County, New Jersey",3558,3373
-365,34029,3402966450,"Seaside Heights borough, Ocean County, New Jersey",2840,3003
-366,34029,3402966480,"Seaside Park borough, Ocean County, New Jersey",2811,2703
-367,34029,3402967110,"Ship Bottom borough, Ocean County, New Jersey",2218,2066
-368,34029,3402969510,"South Toms River borough, Ocean County, New Jersey",1123,1160
-369,34029,3402970320,"Stafford township, Ocean County, New Jersey",11522,13604
-370,34029,3402971640,"Surf City borough, Ocean County, New Jersey",2621,2566
-371,34029,3402973125,"Toms River township, Ocean County, New Jersey",41116,43334
-372,34029,3402974210,"Tuckerton borough, Ocean County, New Jersey",1971,1902
-373,34031,3403106340,"Bloomingdale borough, Passaic County, New Jersey",2940,3089
-374,34031,3403113690,"Clifton city, Passaic County, New Jersey",31060,31946
-375,34031,3403129070,"Haledon borough, Passaic County, New Jersey",2906,2932
-376,34031,3403130570,"Hawthorne borough, Passaic County, New Jersey",7419,7756
-377,34031,3403140620,"Little Falls township, Passaic County, New Jersey",4797,4925
-378,34031,3403153040,"North Haledon borough, Passaic County, New Jersey",2675,3213
-379,34031,3403156550,"Passaic city, Passaic County, New Jersey",20194,20432
-380,34031,3403157000,"Paterson city, Passaic County, New Jersey",47169,47946
-381,34031,3403160090,"Pompton Lakes borough, Passaic County, New Jersey",4024,4341
-382,34031,3403161170,"Prospect Park borough, Passaic County, New Jersey",1889,1931
-383,34031,3403163150,"Ringwood borough, Passaic County, New Jersey",4221,4331
-384,34031,3403173140,"Totowa borough, Passaic County, New Jersey",3630,3918
-385,34031,3403176730,"Wanaque borough, Passaic County, New Jersey",3500,4184
-386,34031,3403177840,"Wayne township, Passaic County, New Jersey",19218,19768
-387,34031,3403179460,"West Milford township, Passaic County, New Jersey",9909,10419
-388,34031,3403182423,"Woodland Park borough, Passaic County, New Jersey",4497,4835
-389,34035,3403504450,"Bedminster township, Somerset County, New Jersey",4467,4349
-390,34035,3403505560,"Bernards township, Somerset County, New Jersey",9485,10103
-391,34035,3403505590,"Bernardsville borough, Somerset County, New Jersey",2807,2871
-392,34035,3403506790,"Bound Brook borough, Somerset County, New Jersey",3802,3816
-393,34035,3403507180,"Branchburg township, Somerset County, New Jersey",5405,5419
-394,34035,3403507720,"Bridgewater township, Somerset County, New Jersey",15879,16657
-395,34035,3403522890,"Far Hills borough, Somerset County, New Jersey",386,418
-396,34035,3403524900,"Franklin township, Somerset County, New Jersey",19789,24426
-397,34035,3403527510,"Green Brook township, Somerset County, New Jersey",1916,2448
-398,34035,3403531890,"Hillsborough township, Somerset County, New Jersey",12854,14030
-399,34035,3403543620,"Manville borough, Somerset County, New Jersey",4296,4277
-400,34035,3403546590,"Millstone borough, Somerset County, New Jersey",173,167
-401,34035,3403547580,"Montgomery township, Somerset County, New Jersey",6130,7902
-402,34035,3403553280,"North Plainfield borough, Somerset County, New Jersey",7393,7848
-403,34035,3403557300,"Peapack and Gladstone borough, Somerset County, New Jersey",871,949
-404,34035,3403561980,"Raritan borough, Somerset County, New Jersey",2644,2847
-405,34035,3403564320,"Rocky Hill borough, Somerset County, New Jersey",295,292
-406,34035,3403568460,"Somerville borough, Somerset County, New Jersey",4882,4951
-407,34035,3403568730,"South Bound Brook borough, Somerset County, New Jersey",1676,1865
-408,34035,3403576940,"Warren township, Somerset County, New Jersey",4718,5258
-409,34035,3403577600,"Watchung borough, Somerset County, New Jersey",2155,2234
-410,34037,3403701330,"Andover borough, Sussex County, New Jersey",273,263
-411,34037,3403701360,"Andover township, Sussex County, New Jersey",1968,2181
-412,34037,3403707300,"Branchville borough, Sussex County, New Jersey",377,386
-413,34037,3403709160,"Byram township, Sussex County, New Jersey",3078,3207
-414,34037,3403724810,"Frankford township, Sussex County, New Jersey",2295,2520
-415,34037,3403724930,"Franklin borough, Sussex County, New Jersey",1997,2136
-416,34037,3403725140,"Fredon township, Sussex County, New Jersey",1019,1289
-417,34037,3403727420,"Green township, Sussex County, New Jersey",1069,1251
-418,34037,3403729220,"Hamburg borough, Sussex County, New Jersey",1233,1476
-419,34037,3403729490,"Hampton township, Sussex County, New Jersey",2026,2200
-420,34037,3403729850,"Hardyston township, Sussex County, New Jersey",2690,3783
-421,34037,3403732910,"Hopatcong borough, Sussex County, New Jersey",6190,6296
-422,34037,3403737440,"Lafayette township, Sussex County, New Jersey",799,919
-423,34037,3403747430,"Montague township, Sussex County, New Jersey",1588,1802
-424,34037,3403751930,"Newton town, Sussex County, New Jersey",3425,3479
-425,34037,3403754660,"Ogdensburg borough, Sussex County, New Jersey",903,905
-426,34037,3403765700,"Sandyston township, Sussex County, New Jersey",907,988
-427,34037,3403769690,"Sparta township, Sussex County, New Jersey",6590,7423
-428,34037,3403770380,"Stanhope borough, Sussex County, New Jersey",1419,1472
-429,34037,3403770890,"Stillwater township, Sussex County, New Jersey",2030,1930
-430,34037,3403771670,"Sussex borough, Sussex County, New Jersey",961,1005
-431,34037,3403775740,"Vernon township, Sussex County, New Jersey",9994,10958
-432,34037,3403776640,"Walpack township, Sussex County, New Jersey",34,15
-433,34037,3403776790,"Wantage township, Sussex County, New Jersey",3663,4173
-434,34039,3403905320,"Berkeley Heights township, Union County, New Jersey",4562,4596
-435,34039,3403913150,"Clark township, Union County, New Jersey",5709,5751
-436,34039,3403915640,"Cranford township, Union County, New Jersey",8560,8816
-437,34039,3403921000,"Elizabeth city, Union County, New Jersey",42838,45516
-438,34039,3403922860,"Fanwood borough, Union County, New Jersey",2615,2686
-439,34039,3403925800,"Garwood borough, Union County, New Jersey",1782,1870
-440,34039,3403931980,"Hillside township, Union County, New Jersey",7388,7536
-441,34039,3403936690,"Kenilworth borough, Union County, New Jersey",2926,2924
-442,34039,3403940350,"Linden city, Union County, New Jersey",15567,15872
-443,34039,3403948510,"Mountainside borough, Union County, New Jersey",2478,2558
-444,34039,3403951810,"New Providence borough, Union County, New Jersey",4485,4537
-445,34039,3403959190,"Plainfield city, Union County, New Jersey",16180,16621
-446,34039,3403961530,"Rahway city, Union County, New Jersey",10381,11300
-447,34039,3403964620,"Roselle borough, Union County, New Jersey",7870,7939
-448,34039,3403964650,"Roselle Park borough, Union County, New Jersey",5258,5231
-449,34039,3403966060,"Scotch Plains township, Union County, New Jersey",8479,8896
-450,34039,3403970020,"Springfield township, Union County, New Jersey",6204,6736
-451,34039,3403971430,"Summit city, Union County, New Jersey",8146,8190
-452,34039,3403974480,"Union township, Union County, New Jersey",20001,20250
-453,34039,3403979040,"Westfield town, Union County, New Jersey",10819,10950
-454,34039,3403981650,"Winfield township, Union County, New Jersey",697,714
-455,34041,3404100670,"Allamuchy township, Warren County, New Jersey",1774,2096
-456,34041,3404101030,"Alpha borough, Warren County, New Jersey",1034,1032
-457,34041,3404104990,"Belvidere town, Warren County, New Jersey",1165,1140
-458,34041,3404106160,"Blairstown township, Warren County, New Jersey",2136,2272
-459,34041,3404124960,"Franklin township, Warren County, New Jersey",1019,1219
-460,34041,3404125320,"Frelinghuysen township, Warren County, New Jersey",755,826
-461,34041,3404128260,"Greenwich township, Warren County, New Jersey",1477,1870
-462,34041,3404128710,"Hackettstown town, Warren County, New Jersey",4347,3755
-463,34041,3404129820,"Hardwick township, Warren County, New Jersey",530,619
-464,34041,3404130090,"Harmony township, Warren County, New Jersey",1076,1109
-465,34041,3404133060,"Hope township, Warren County, New Jersey",747,809
-466,34041,3404133930,"Independence township, Warren County, New Jersey",2210,2325
-467,34041,3404137320,"Knowlton township, Warren County, New Jersey",1135,1212
-468,34041,3404140110,"Liberty township, Warren County, New Jersey",1088,1151
-469,34041,3404141490,"Lopatcong township, Warren County, New Jersey",2429,3420
-470,34041,3404143320,"Mansfield township, Warren County, New Jersey",2415,3316
-471,34041,3404155530,"Oxford township, Warren County, New Jersey",938,1033
-472,34041,3404158350,"Phillipsburg town, Warren County, New Jersey",6651,6607
-473,34041,3404159820,"Pohatcong township, Warren County, New Jersey",1411,1420
-474,34041,3404177270,"Washington borough, Warren County, New Jersey",2876,2897
-475,34041,3404177300,"Washington township, Warren County, New Jersey",2174,2493
-476,34041,3404180570,"White township, Warren County, New Jersey",1770,2304
-477,36005,3600508510,"Bronx borough, Bronx County, New York",490659,511896
-478,36027,3602701693,"Amenia town, Dutchess County, New York",1814,2045
-479,36027,3602705100,"Beacon city, Dutchess County, New York",5406,5715
-480,36027,3602705452,"Beekman town, Dutchess County, New York",4180,4797
-481,36027,3602716408,"Clinton town, Dutchess County, New York",1734,1915
-482,36027,3602720819,"Dover town, Dutchess County, New York",3266,3637
-483,36027,3602721996,"East Fishkill town, Dutchess County, New York",8495,10039
-484,36027,3602725978,"Fishkill town, Dutchess County, New York",7040,9246
-485,36027,3602737209,"Hyde Park town, Dutchess County, New York",7704,8416
-486,36027,3602740299,"La Grange town, Dutchess County, New York",5240,5668
-487,36027,3602747207,"Milan town, Dutchess County, New York",1090,1279
-488,36027,3602751891,"North East town, Dutchess County, New York",1366,1627
-489,36027,3602756825,"Pawling town, Dutchess County, New York",3101,3593
-490,36027,3602758156,"Pine Plains town, Dutchess County, New York",1161,1284
-491,36027,3602758695,"Pleasant Valley town, Dutchess County, New York",3614,4049
-492,36027,3602759641,"Poughkeepsie city, Dutchess County, New York",13153,13984
-493,36027,3602759652,"Poughkeepsie town, Dutchess County, New York",15132,16116
-494,36027,3602760905,"Red Hook town, Dutchess County, New York",3840,4384
-495,36027,3602761357,"Rhinebeck town, Dutchess County, New York",3255,3653
-496,36027,3602770662,"Stanford town, Dutchess County, New York",1712,1913
-497,36027,3602776166,"Union Vale town, Dutchess County, New York",1464,1911
-498,36027,3602778157,"Wappinger town, Dutchess County, New York",10144,10908
-499,36027,3602778388,"Washington town, Dutchess County, New York",2192,2459
-500,36047,3604710022,"Brooklyn borough, Kings County, New York",930866,1000293
-501,36059,3601011,"Albertson CDP, New York",1853,1850
-502,36059,3602968,"Atlantic Beach village, New York",954,1091
-503,36059,3604143,"Baldwin CDP, New York",79992787,80012782
-504,36059,3604550,"Barnum Island CDP, New York",854,889
-505,36059,3604803,"Baxter Estates village, New York",386,411
-506,36059,3604891,"Bay Park CDP, New York",892,903
-507,36059,3605034,"Bayville village, New York",2683,2651
-508,36059,3605639,"Bellerose village, New York",384,378
-509,36059,3605661,"Bellerose Terrace CDP, New York",649,665
-510,36059,3605738,"Bellmore CDP, New York",5724,5807
-511,36059,3606387,"Bethpage CDP, New York",5788,6051
-512,36059,3610132,"Brookville village, New York",648,663
-513,36059,3612419,"Carle Place CDP, New York",1922,1932
-514,36059,3613233,"Cedarhurst village, New York",2366,2375
-515,36059,3613618,"Centre Island village, New York",209,232
-516,36059,3618597,"Cove Neck village, New York",140,148
-517,36059,3621578,"East Atlantic Beach CDP, New York",965,972
-518,36059,3622260,"East Hills village, New York",2275,2301
-519,36059,3622480,"East Massapequa CDP, New York",6535,6796
-520,36059,3622502,"East Meadow CDP, New York",12375,12863
-521,36059,3622623,"East Norwich CDP, New York",950,966
-522,36059,3622876,"East Rockaway village, New York",4003,3997
-523,36059,3623217,"East Williston village, New York",846,864
-524,36059,3624273,"Elmont CDP, New York",10151,10279
-525,36059,3625384,"Farmingdale village, New York",3289,3482
-526,36059,3626264,"Floral Park village, New York",5892,5909
-527,36059,3626352,"Flower Hill village, New York",1514,1523
-528,36059,3627309,"Franklin Square CDP, New York",10364,10313
-529,36059,3627485,"Freeport village, New York",13819,13865
-530,36059,3628178,"Garden City village, New York",7555,7647
-531,36059,3628189,"Garden City Park CDP, New York",2548,2603
-532,36059,3628200,"Garden City South CDP, New York",1411,1429
-533,36059,3629113,"Glen Cove city, New York",9734,10352
-534,36059,3629245,"Glen Head CDP, New York",1717,1784
-535,36059,3629421,"Glenwood Landing CDP, New York",1284,1400
-536,36059,3630169,"Great Neck village, New York",3441,3645
-537,36059,3630191,"Great Neck Estates village, New York",944,937
-538,36059,3630202,"Great Neck Gardens CDP, New York",381,401
-539,36059,3630213,"Great Neck Plaza village, New York",3925,4052
-540,36059,3630598,"Greenvale CDP, New York",372,373
-541,36059,3632094,"Harbor Hills CDP, New York",186,190
-542,36059,3632105,"Harbor Isle CDP, New York",497,495
-543,36059,3633139,"Hempstead village, New York",15579,16034
-544,36059,3634198,"Herricks CDP, New York",1371,1378
-545,36059,3634286,"Hewlett CDP, New York",2735,2708
-546,36059,3634297,"Hewlett Bay Park village, New York",163,145
-547,36059,3634308,"Hewlett Harbor village, New York",437,442
-548,36059,3634319,"Hewlett Neck village, New York",163,159
-549,36059,3634374,"Hicksville CDP, New York",13912,13761
-550,36059,3637583,"Inwood CDP, New York",3132,3153
-551,36059,3637847,"Island Park village, New York",1740,1715
-552,36059,3638539,"Jericho CDP, New York",4600,4782
-553,36059,3639309,"Kensington village, New York",447,448
-554,36059,3639694,"Kings Point village, New York",1455,1386
-555,36059,3640937,"Lake Success village, New York",824,826
-556,36059,3641003,"Lakeview CDP, New York",1569,1552
-557,36059,3641432,"Lattingtown village, New York",688,707
-558,36059,3641487,"Laurel Hollow village, New York",621,635
-559,36059,3641553,"Lawrence village, New York",2287,2280
-560,36059,3642081,"Levittown CDP, New York",17410,17287
-561,36059,3642279,"Lido Beach CDP, New York",1325,1403
-562,36059,3643192,"Locust Valley CDP, New York",1324,1281
-563,36059,3643335,"Long Beach city, New York",16128,16450
-564,36059,3643874,"Lynbrook village, New York",7570,7921
-565,36059,3644787,"Malverne village, New York",3152,3146
-566,36059,3644792,"Malverne Park Oaks CDP, New York",175,189
-567,36059,3644897,"Manhasset CDP, New York",2917,2893
-568,36059,3644908,"Manhasset Hills CDP, New York",1235,1241
-569,36059,3645106,"Manorhaven village, New York",2471,2597
-570,36059,3645986,"Massapequa CDP, New York",7514,7407
-571,36059,3645997,"Massapequa Park village, New York",5809,5844
-572,36059,3646107,"Matinecock village, New York",313,323
-573,36059,3646668,"Merrick CDP, New York",7602,7622
-574,36059,3647405,"Mill Neck village, New York",326,440
-575,36059,3647636,"Mineola village, New York",7650,7701
-576,36059,3649231,"Munsey Park village, New York",833,840
-577,36059,3649330,"Muttontown village, New York",1048,1125
-578,36059,3650067,"New Cassel CDP, New York",3067,3174
-579,36059,3650397,"New Hyde Park village, New York",3353,3371
-580,36059,3651517,"North Bellmore CDP, New York",6634,6818
-581,36059,3653022,"North Hills village, New York",1907,2438
-582,36059,3653231,"North Lynbrook CDP, New York",228,231
-583,36059,3653253,"North Massapequa CDP, New York",6333,6212
-584,36059,3653264,"North Merrick CDP, New York",4004,4125
-585,36059,3653275,"North New Hyde Park CDP, New York",5116,5016
-586,36059,3653748,"North Valley Stream CDP, New York",4951,5548
-587,36059,3653792,"North Wantagh CDP, New York",4374,4321
-588,36059,3654441,"Oceanside CDP, New York",11396,11604
-589,36059,3654551,"Old Bethpage CDP, New York",1843,1927
-590,36059,3654562,"Old Brookville village, New York",760,720
-591,36059,3654705,"Old Westbury village, New York",1109,1172
-592,36059,3655992,"Oyster Bay CDP, New York",2898,2947
-593,36059,3656011,"Oyster Bay Cove village, New York",742,758
-594,36059,3658409,"Plainedge CDP, New York",3052,2936
-595,36059,3658442,"Plainview CDP, New York",8638,9281
-596,36059,3658475,"Plandome village, New York",422,431
-597,36059,3658486,"Plandome Heights village, New York",328,330
-598,36059,3658497,"Plandome Manor village, New York",288,295
-599,36059,3658849,"Point Lookout CDP, New York",792,666
-600,36059,3659520,"Port Washington CDP, New York",5662,6234
-601,36059,3659531,"Port Washington North village, New York",1071,1395
-602,36059,3663264,"Rockville Centre village, New York",9419,9679
-603,36059,3663506,"Roosevelt CDP, New York",4234,4356
-604,36059,3663770,"Roslyn village, New York",1124,1288
-605,36059,3663792,"Roslyn Estates village, New York",410,428
-606,36059,3663803,"Roslyn Harbor village, New York",367,382
-607,36059,3663814,"Roslyn Heights CDP, New York",2226,2263
-608,36059,3664232,"Russell Gardens village, New York",409,359
-609,36059,3664430,"Saddle Rock village, New York",275,280
-610,36059,3664441,"Saddle Rock Estates CDP, New York",139,142
-611,36059,3664842,"Salisbury CDP, New York",4052,4098
-612,36059,3665035,"Sands Point village, New York",902,934
-613,36059,3666047,"Sea Cliff village, New York",2082,2049
-614,36059,3666058,"Seaford CDP, New York",5358,5395
-615,36059,3666102,"Searingtown CDP, New York",1606,1604
-616,36059,3669001,"South Farmingdale CDP, New York",4950,4888
-617,36059,3669023,"South Floral Park village, New York",462,569
-618,36059,3669188,"South Hempstead CDP, New York",1075,1076
-619,36059,3669892,"South Valley Stream CDP, New York",2045,2043
-620,36059,3671267,"Stewart Manor village, New York",726,711
-621,36059,3672554,"Syosset CDP, New York",6354,6339
-622,36059,3673605,"Thomaston village, New York",1000,1004
-623,36059,3676089,"Uniondale CDP, New York",2956201,13416311
-624,36059,3676287,"University Gardens CDP, New York",1696,1695
-625,36059,3676331,"Upper Brookville village, New York",599,611
-626,36059,3676705,"Valley Stream village, New York",12688,12625
-627,36059,3678146,"Wantagh CDP, New York",6250,6250
-628,36059,3679444,"Westbury village, New York",4714,5271
-629,36059,3680225,"West Hempstead CDP, New York",6110,6130
-630,36059,3682117,"Williston Park village, New York",2668,2743
-631,36059,3682744,"Woodbury CDP, New York",2895,3178
-632,36059,3682942,"Woodmere CDP, New York",5462,5570
-633,36059,3682986,"Woodsburgh village, New York",268,300
-634,36059,3605929113,"Glen Cove city, Nassau County, New York",9734,10352
-635,36059,3605934000,"Hempstead town, Nassau County, New York",252286,256734
-636,36059,3605943335,"Long Beach city, Nassau County, New York",16128,16450
-637,36059,3605953000,"North Hempstead town, Nassau County, New York",78927,81961
-638,36059,3605956000,"Oyster Bay town, Nassau County, New York",101076,102849
-639,36061,3606144919,"Manhattan borough, New York County, New York",798144,847090
-640,36071,3607107003,"Blooming Grove town, Orange County, New York",6559,6954
-641,36071,3607115308,"Chester town, Orange County, New York",3984,4372
-642,36071,3607118300,"Cornwall town, Orange County, New York",4852,5136
-643,36071,3607118916,"Crawford town, Orange County, New York",2851,3475
-644,36071,3607119961,"Deerpark town, Orange County, New York",3332,3484
-645,36071,3607129553,"Goshen town, Orange County, New York",4320,4921
-646,36071,3607130631,"Greenville town, Orange County, New York",1365,1653
-647,36071,3607131907,"Hamptonburgh town, Orange County, New York",1532,1819
-648,36071,3607134550,"Highlands town, Orange County, New York",3418,3487
-649,36071,3607147042,"Middletown city, Orange County, New York",10124,10866
-650,36071,3607147713,"Minisink town, Orange County, New York",1245,1561
-651,36071,3607147999,"Monroe town, Orange County, New York",8517,11144
-652,36071,3607148153,"Montgomery town, Orange County, New York",7643,8523
-653,36071,3607148857,"Mount Hope town, Orange County, New York",1714,1955
-654,36071,3607150034,"Newburgh city, Orange County, New York",10476,10505
-655,36071,3607150045,"Newburgh town, Orange County, New York",10122,11313
-656,36071,3607150848,"New Windsor town, Orange County, New York",8759,9862
-657,36071,3607159388,"Port Jervis city, Orange County, New York",3851,3957
-658,36071,3607175781,"Tuxedo town, Orange County, New York",1457,1691
-659,36071,3607177992,"Wallkill town, Orange County, New York",9283,10777
-660,36071,3607178366,"Warwick town, Orange County, New York",11818,12982
-661,36071,3607178839,"Wawayanda town, Orange County, New York",2174,2630
-662,36071,3607182755,"Woodbury town, Orange County, New York",3358,3958
-663,36079,3607912529,"Carmel town, Putnam County, New York",11283,12348
-664,36079,3607939331,"Kent town, Putnam County, New York",5353,5508
-665,36079,3607956748,"Patterson town, Putnam County, New York",3746,4272
-666,36079,3607957584,"Philipstown town, Putnam County, New York",3983,4164
-667,36079,3607960147,"Putnam Valley town, Putnam County, New York",4253,4837
-668,36079,3607968924,"Southeast town, Putnam County, New York",6412,7095
-669,36081,3608160323,"Queens borough, Queens County, New York",817250,835127
-670,36085,3608570915,"Staten Island borough, Richmond County, New York",163993,176656
-671,36087,3608715968,"Clarkstown town, Rockland County, New York",28220,30314
-672,36087,3608732765,"Haverstraw town, Rockland County, New York",11553,12809
-673,36087,3608755211,"Orangetown town, Rockland County, New York",17827,18611
-674,36087,3608760510,"Ramapo town, Rockland County, New York",32422,36754
-675,36087,3608771674,"Stony Point town, Rockland County, New York",4951,5569
-676,36103,3601594,"Amagansett CDP, New York",1664,1790
-677,36103,3602044,"Amityville village, New York",3577,3997
-678,36103,3602374,"Aquebogue CDP, New York",1013,1127
-679,36103,3602737,"Asharoken village, New York",307,302
-680,36103,3603408,"Babylon village, New York",4680,4768
-681,36103,3604055,"Baiting Hollow CDP, New York",962,1208
-682,36103,3604913,"Bayport CDP, New York",3325,3515
-683,36103,3604935,"Bay Shore CDP, New York",8639,9663
-684,36103,3605039,"Baywood CDP, New York",2317,2272
-685,36103,3605672,"Belle Terre village, New York",297,308
-686,36103,3605771,"Bellport village, New York",1139,1170
-687,36103,3607069,"Blue Point CDP, New York",1664,1747
-688,36103,3607157,"Bohemia CDP, New York",3387,3731
-689,36103,3608026,"Brentwood CDP, New York",13039,14202
-690,36103,3608136,"Bridgehampton CDP, New York",1494,2431
-691,36103,3608323,"Brightwaters village, New York",1144,1156
-692,36103,3609000,"Brookhaven CDP, New York",1167,1268
-693,36103,3611781,"Calverton CDP, New York",2735,3224
-694,36103,3613376,"Centereach CDP, New York",8329,10408
-695,36103,3613420,"Center Moriches CDP, New York",2465,2818
-696,36103,3613442,"Centerport CDP, New York",2094,2120
-697,36103,3613552,"Central Islip CDP, New York",9189,9961
-698,36103,3616958,"Cold Spring Harbor CDP, New York",1790,1809
-699,36103,3617530,"Commack CDP, New York",11824,12138
-700,36103,3618146,"Copiague CDP, New York",7415,7919
-701,36103,3618157,"Coram CDP, New York",12880,15437
-702,36103,3619466,"Cutchogue CDP, New York",1680,2062
-703,36103,3619972,"Deer Park CDP, New York",9698,9715
-704,36103,3620379,"Dering Harbor village, New York",32,35
-705,36103,3620687,"Dix Hills CDP, New York",8057,8529
-706,36103,3621985,"East Farmingdale CDP, New York",1723,2114
-707,36103,3622183,"East Hampton village, New York",1745,1836
-708,36103,3622200,"East Hampton North CDP, New York",2251,2545
-709,36103,3622315,"East Islip CDP, New York",4661,4942
-710,36103,3622447,"East Marion CDP, New York",744,953
-711,36103,3622546,"East Moriches CDP, New York",1668,2163
-712,36103,3622612,"East Northport CDP, New York",7086,7288
-713,36103,3622733,"East Patchogue CDP, New York",7760,8685
-714,36103,3622810,"Eastport CDP, New York",637,865
-715,36103,3622832,"East Quogue CDP, New York",2465,3069
-716,36103,3622980,"East Shoreham CDP, New York",1827,2104
-717,36103,3623316,"Eatons Neck CDP, New York",554,575
-718,36103,3624405,"Elwood CDP, New York",3493,3585
-719,36103,3625417,"Farmingville CDP, New York",5170,4884
-720,36103,3625839,"Fire Island CDP, New York",3157,3395
-721,36103,3625923,"Fishers Island CDP, New York",625,660
-722,36103,3626121,"Flanders CDP, New York",1521,1684
-723,36103,3626946,"Fort Salonga CDP, New York",3310,3484
-724,36103,3628997,"Gilgo-Oak Beach-Captree CDP, New York",305,135241
-725,36103,3629509,"Gordon Heights CDP, New York",945,1182
-726,36103,3630235,"Great River CDP, New York",519,517
-727,36103,3630543,"Greenlawn CDP, New York",4644,4722
-728,36103,3630576,"Greenport village, New York",1075,1191
-729,36103,3630581,"Greenport West CDP, New York",1283,1651
-730,36103,3631445,"Halesite CDP, New York",1049,1070
-731,36103,3631896,"Hampton Bays CDP, New York",6875,7873
-732,36103,3632732,"Hauppauge CDP, New York",7153,7566
-733,36103,3632963,"Head of the Harbor village, New York",501,551
-734,36103,3635056,"Holbrook CDP, New York",9157,9820
-735,36103,3635254,"Holtsville CDP, New York",5418,6929
-736,36103,3636233,"Huntington CDP, New York",7273,7482
-737,36103,3637022,"Huntington Bay village, New York",560,578
-738,36103,3637044,"Huntington Station CDP, New York",10028,10523
-739,36103,3637840,"Islandia village, New York",1031,1088
-740,36103,3637869,"Islip CDP, New York",7026,6664
-741,36103,3638022,"Islip Terrace CDP, New York",1784,1764
-742,36103,3638253,"Jamesport CDP, New York",959,1169
-743,36103,3639672,"Kings Park CDP, New York",5574,6469
-744,36103,3640530,"Lake Grove village, New York",3509,3956
-745,36103,3640838,"Lake Ronkonkoma CDP, New York",6949,7199
-746,36103,3641465,"Laurel CDP, New York",686,810
-747,36103,3642554,"Lindenhurst village, New York",9277,9665
-748,36103,3643005,"Lloyd Harbor village, New York",1188,1262
-749,36103,3645139,"Manorville CDP, New York",4243,5303
-750,36103,3646074,"Mastic CDP, New York",4732,4847
-751,36103,3646085,"Mastic Beach CDP, New York",4375,4889
-752,36103,3646140,"Mattituck CDP, New York",2313,2495
-753,36103,3646404,"Medford CDP, New York",6939,8171
-754,36103,3646514,"Melville CDP, New York",5141,7194
-755,36103,3646976,"Middle Island CDP, New York",3900,4479
-756,36103,3647306,"Miller Place CDP, New York",3512,4141
-757,36103,3648054,"Montauk CDP, New York",4815,4666
-758,36103,3648450,"Moriches CDP, New York",1212,1475
-759,36103,3649066,"Mount Sinai CDP, New York",2740,4285
-760,36103,3649424,"Napeague CDP, New York",624,762
-761,36103,3649825,"Nesconset CDP, New York",4227,4711
-762,36103,3650727,"New Suffolk CDP, New York",298,307
-763,36103,3651286,"Nissequogue village, New York",570,646
-764,36103,3651396,"North Amityville CDP, New York",5308,5636
-765,36103,3651418,"Northampton CDP, New York",205,239
-766,36103,3651440,"North Babylon CDP, New York",6271,6378
-767,36103,3651495,"North Bay Shore CDP, New York",3992,4627
-768,36103,3651528,"North Bellport CDP, New York",2520,3652
-769,36103,3652078,"North Great River CDP, New York",1167,1367
-770,36103,3652188,"North Haven village, New York",578,739
-771,36103,3653198,"North Lindenhurst CDP, New York",3883,3898
-772,36103,3653319,"North Patchogue CDP, New York",2781,2432
-773,36103,3653396,"Northport village, New York",3052,3066
-774,36103,3653561,"North Sea CDP, New York",3265,3477
-775,36103,3653775,"Northville CDP, New York",401,772
-776,36103,3653852,"Northwest Harbor CDP, New York",3008,3394
-777,36103,3654056,"Noyack CDP, New York",1993,2881
-778,36103,3654144,"Oakdale CDP, New York",3207,3280
-779,36103,3654430,"Ocean Beach village, New York",595,607
-780,36103,3654617,"Old Field village, New York",346,369
-781,36103,3655321,"Orient CDP, New York",673,772
-782,36103,3656660,"Patchogue village, New York",4902,5023
-783,36103,3656968,"Peconic CDP, New York",682,479
-784,36103,3659157,"Poquott village, New York",378,380
-785,36103,3659355,"Port Jefferson village, New York",3074,3270
-786,36103,3659377,"Port Jefferson Station CDP, New York",2656,2949
-787,36103,3660408,"Quiogue CDP, New York",545,583
-788,36103,3660422,"Quogue village, New York",1322,1623
-789,36103,3661142,"Remsenburg-Speonk CDP, New York",1401,1624
-790,36103,3661665,"Ridge CDP, New York",5922,6235
-791,36103,3661973,"Riverhead CDP, New York",4167,5295
-792,36103,3662066,"Riverside CDP, New York",926,840
-793,36103,3663319,"Rocky Point CDP, New York",3949,5366
-794,36103,3663473,"Ronkonkoma CDP, New York",6660,6724
-795,36103,3664452,"Sagaponack village, New York",734,676
-796,36103,3664485,"Sag Harbor village, New York",1942,1941
-797,36103,3664584,"St. James CDP, New York",4674,4741
-798,36103,3664881,"Saltaire village, New York",401,459
-799,36103,3665409,"Sayville CDP, New York",5721,6220
-800,36103,3666212,"Selden CDP, New York",7083,6739
-801,36103,3666481,"Setauket-East Setauket CDP, New York",5632,5589
-802,36103,3666828,"Shelter Island CDP, New York",964,1136
-803,36103,3666850,"Shelter Island Heights CDP, New York",1374,1583
-804,36103,3667048,"Shinnecock Hills CDP, New York",928,1500
-805,36103,3667070,"Shirley CDP, New York",7774,9022
-806,36103,3667191,"Shoreham village, New York",163,229
-807,36103,3667851,"Smithtown CDP, New York",8956,9031
-808,36103,3668374,"Sound Beach CDP, New York",3640,3001
-809,36103,3668462,"Southampton village, New York",2936,3314
-810,36103,3669254,"South Huntington CDP, New York",3379,3500
-811,36103,3669452,"Southold CDP, New York",3710,3996
-812,36103,3670387,"Springs CDP, New York",3878,4340
-813,36103,3671608,"Stony Brook CDP, New York",4970,5042
-814,36103,3671620,"Stony Brook University CDP, New York",0,26
-815,36103,3673352,"Terryville CDP, New York",3437,3971
-816,36103,3675572,"Tuckahoe CDP, New York",1092,865
-817,36103,3677519,"Village of the Branch village, New York",611,645
-818,36103,3677772,"Wading River CDP, New York",2713,3090
-819,36103,3677805,"Wainscott CDP, New York",764,876
-820,36103,3678575,"Water Mill CDP, New York",1461,2085
-821,36103,3679246,"West Babylon CDP, New York",14571,15091
-822,36103,3679301,"West Bay Shore CDP, New York",1789,1818
-823,36103,3680170,"Westhampton CDP, New York",1601,2120
-824,36103,3680181,"Westhampton Beach village, New York",2279,2376
-825,36103,3680186,"West Hampton Dunes village, New York",172,272
-826,36103,3680258,"West Hills CDP, New York",2008,2037
-827,36103,3680302,"West Islip CDP, New York",9044,9266
-828,36103,3680885,"West Sayville CDP, New York",2014,2124
-829,36103,3681419,"Wheatley Heights CDP, New York",1494,1517
-830,36103,3683294,"Wyandanch CDP, New York",2776,3157
-831,36103,3683426,"Yaphank CDP, New York",1650,1961
-832,36103,3610304000,"Babylon town, Suffolk County, New York",71186,74233
-833,36103,3610310000,"Brookhaven town, Suffolk County, New York",155406,175026
-834,36103,3610322194,"East Hampton town, Suffolk County, New York",19640,21038
-835,36103,3610337000,"Huntington town, Suffolk County, New York",67708,71948
-836,36103,3610338000,"Islip town, Suffolk County, New York",104278,110665
-837,36103,3610359106,"Poospatuck Reservation, Suffolk County, New York",100,124
-838,36103,3610361984,"Riverhead town, Suffolk County, New York",12479,15424
-839,36103,3610366839,"Shelter Island town, Suffolk County, New York",2370,2754
-840,36103,3610367059,"Shinnecock Reservation, Suffolk County, New York",194,256
-841,36103,3610368000,"Smithtown town, Suffolk County, New York",39357,41381
-842,36103,3610368473,"Southampton town, Suffolk County, New York",35836,41759
-843,36103,3610369463,"Southold town, Suffolk County, New York",13769,15377
-844,36105,3610506310,"Bethel town, Sullivan County, New York",3641,3954
-845,36105,3610511759,"Callicoon town, Sullivan County, New York",1797,2003
-846,36105,3610516661,"Cochecton town, Sullivan County, New York",955,1114
-847,36105,3610520104,"Delaware town, Sullivan County, New York",1337,1535
-848,36105,3610525241,"Fallsburg town, Sullivan County, New York",6661,8497
-849,36105,3610526528,"Forestburgh town, Sullivan County, New York",500,550
-850,36105,3610527573,"Fremont town, Sullivan County, New York",1182,1323
-851,36105,3610534473,"Highland town, Sullivan County, New York",1558,1766
-852,36105,3610542235,"Liberty town, Sullivan County, New York",5350,5495
-853,36105,3610543786,"Lumberland town, Sullivan County, New York",1419,1630
-854,36105,3610544809,"Mamakating town, Sullivan County, New York",5629,6251
-855,36105,3610549847,"Neversink town, Sullivan County, New York",1960,2045
-856,36105,3610563176,"Rockland town, Sullivan County, New York",2475,2755
-857,36105,3610573627,"Thompson town, Sullivan County, New York",9258,9130
-858,36105,3610575759,"Tusten town, Sullivan County, New York",1008,1138
-859,36111,3611120247,"Denning town, Ulster County, New York",517,531
-860,36111,3611124691,"Esopus town, Ulster County, New York",3724,3969
-861,36111,3611128255,"Gardiner town, Ulster County, New York",2255,2610
-862,36111,3611132116,"Hardenburgh town, Ulster County, New York",275,344
-863,36111,3611137143,"Hurley town, Ulster County, New York",2946,3069
-864,36111,3611139727,"Kingston city, Ulster County, New York",10637,11147
-865,36111,3611139738,"Kingston town, Ulster County, New York",398,432
-866,36111,3611142994,"Lloyd town, Ulster County, New York",3818,4419
-867,36111,3611145458,"Marbletown town, Ulster County, New York",2846,2989
-868,36111,3611145722,"Marlborough town, Ulster County, New York",3176,3644
-869,36111,3611150562,"New Paltz town, Ulster County, New York",4679,4877
-870,36111,3611154749,"Olive town, Ulster County, New York",2306,2498
-871,36111,3611158552,"Plattekill town, Ulster County, New York",3888,4242
-872,36111,3611163011,"Rochester town, Ulster County, New York",3750,4019
-873,36111,3611163737,"Rosendale town, Ulster County, New York",2857,2897
-874,36111,3611165299,"Saugerties town, Ulster County, New York",8257,9106
-875,36111,3611166597,"Shandaken town, Ulster County, New York",2666,2776
-876,36111,3611166674,"Shawangunk town, Ulster County, New York",3754,4333
-877,36111,3611175935,"Ulster town, Ulster County, New York",5239,5368
-878,36111,3611178828,"Wawarsing town, Ulster County, New York",5821,6211
-879,36111,3611183052,"Woodstock town, Ulster County, New York",3847,4157
-880,36119,3611905320,"Bedford town, Westchester County, New York",6020,6326
-881,36119,3611918410,"Cortlandt town, Westchester County, New York",14065,15962
-882,36119,3611921820,"Eastchester town, Westchester County, New York",13035,13747
-883,36119,3611930367,"Greenburgh town, Westchester County, New York",34084,35452
-884,36119,3611932413,"Harrison town, Westchester County, New York",8680,8956
-885,36119,3611942136,"Lewisboro town, Westchester County, New York",4465,4854
-886,36119,3611944842,"Mamaroneck town, Westchester County, New York",11255,11562
-887,36119,3611948895,"Mount Kisco town, Westchester County, New York",4103,4289
-888,36119,3611949011,"Mount Pleasant town, Westchester County, New York",13985,14826
-889,36119,3611949121,"Mount Vernon city, Westchester County, New York",27048,28990
-890,36119,3611950078,"New Castle town, Westchester County, New York",5843,6037
-891,36119,3611950617,"New Rochelle city, Westchester County, New York",26995,29586
-892,36119,3611951693,"North Castle town, Westchester County, New York",3706,4135
-893,36119,3611953517,"North Salem town, Westchester County, New York",1979,2082
-894,36119,3611955541,"Ossining town, Westchester County, New York",12733,13386
-895,36119,3611956979,"Peekskill city, Westchester County, New York",9053,9709
-896,36119,3611957012,"Pelham town, Westchester County, New York",4246,4483
-897,36119,3611959685,"Pound Ridge town, Westchester County, New York",1868,2108
-898,36119,3611964309,"Rye city, Westchester County, New York",5559,5957
-899,36119,3611964320,"Rye town, Westchester County, New York",15813,16556
-900,36119,3611965442,"Scarsdale town, Westchester County, New York",5795,5647
-901,36119,3611968308,"Somers town, Westchester County, New York",7098,7982
-902,36119,3611981677,"White Plains city, Westchester County, New York",21576,24382
-903,36119,3611984000,"Yonkers city, Westchester County, New York",77589,80389
-904,36119,3611984077,"Yorktown town, Westchester County, New York",12852,13418
+216,34021,3402160900,"Princeton borough, Mercer County, New Jersey",34956224,34886814
+217,34021,3402163850,"Robbinsville township, Mercer County, New Jersey",4163,5277
+218,34021,3402174000,"Trenton city, Mercer County, New Jersey",33843,33035
+219,34021,3402180240,"West Windsor township, Mercer County, New Jersey",7450,9810
+220,34023,3402310750,"Carteret borough, Middlesex County, New Jersey",7320,8148
+221,34023,3402315550,"Cranbury township, Middlesex County, New Jersey",1121,1371
+222,34023,3402318490,"Dunellen borough, Middlesex County, New Jersey",2520,2683
+223,34023,3402319000,"East Brunswick township, Middlesex County, New Jersey",16640,17367
+224,34023,3402320230,"Edison township, Middlesex County, New Jersey",36018,36302
+225,34023,3402330840,"Helmetta borough, Middlesex County, New Jersey",769,920
+226,34023,3402331470,"Highland Park borough, Middlesex County, New Jersey",6071,6203
+227,34023,3402334890,"Jamesburg borough, Middlesex County, New Jersey",2240,2267
+228,34023,3402345690,"Metuchen borough, Middlesex County, New Jersey",5104,5440
+229,34023,3402345900,"Middlesex borough, Middlesex County, New Jersey",5130,5148
+230,34023,3402346620,"Milltown borough, Middlesex County, New Jersey",2670,2698
+231,34023,3402347280,"Monroe township, Middlesex County, New Jersey",13259,18002
+232,34023,3402351210,"New Brunswick city, Middlesex County, New Jersey",13893,15053
+233,34023,3402352560,"North Brunswick township, Middlesex County, New Jersey",13932,15045
+234,34023,3402354705,"Old Bridge township, Middlesex County, New Jersey",21896,24638
+235,34023,3402358200,"Perth Amboy city, Middlesex County, New Jersey",15236,16556
+236,34023,3402359010,"Piscataway township, Middlesex County, New Jersey",16946,17777
+237,34023,3402359280,"Plainsboro township, Middlesex County, New Jersey",9133,10089
+238,34023,3402365790,"Sayreville borough, Middlesex County, New Jersey",15235,16393
+239,34023,3402368550,"South Amboy city, Middlesex County, New Jersey",3110,3576
+240,34023,3402368790,"South Brunswick township, Middlesex County, New Jersey",13862,15708
+241,34023,3402369390,"South Plainfield borough, Middlesex County, New Jersey",7307,8093
+242,34023,3402369420,"South River borough, Middlesex County, New Jersey",5769,5957
+243,34023,3402369810,"Spotswood borough, Middlesex County, New Jersey",3158,3242
+244,34023,3402382000,"Woodbridge township, Middlesex County, New Jersey",35298,36124
+245,34025,3402500000,"County subdivisions not defined, Monmouth County, New Jersey",0,0
+246,34025,3402500070,"Aberdeen township, Monmouth County, New Jersey",6558,7102
+247,34025,3402500730,"Allenhurst borough, Monmouth County, New Jersey",370,365
+248,34025,3402500760,"Allentown borough, Monmouth County, New Jersey",718,735
+249,34025,3402501960,"Asbury Park city, Monmouth County, New Jersey",7744,8076
+250,34025,3402502110,"Atlantic Highlands borough, Monmouth County, New Jersey",2056,2002
+251,34025,3402502440,"Avon-by-the-Sea borough, Monmouth County, New Jersey",1387,1321
+252,34025,3402504930,"Belmar borough, Monmouth County, New Jersey",3996,3931
+253,34025,3402506970,"Bradley Beach borough, Monmouth County, New Jersey",3132,3180
+254,34025,3402507750,"Brielle borough, Monmouth County, New Jersey",2123,2034
+255,34025,3402514560,"Colts Neck township, Monmouth County, New Jersey",3614,3735
+256,34025,3402516660,"Deal borough, Monmouth County, New Jersey",953,926
+257,34025,3402519840,"Eatontown borough, Monmouth County, New Jersey",6341,5723
+258,34025,3402521570,"Englishtown borough, Monmouth County, New Jersey",680,647
+259,34025,3402522440,"Fair Haven borough, Monmouth County, New Jersey",2037,2065
+260,34025,3402522950,"Farmingdale borough, Monmouth County, New Jersey",638,578
+261,34025,3402525200,"Freehold borough, Monmouth County, New Jersey",3821,4249
+262,34025,3402525230,"Freehold township, Monmouth County, New Jersey",11032,13140
+263,34025,3402530690,"Hazlet township, Monmouth County, New Jersey",7406,7417
+264,34025,3402531500,"Highlands borough, Monmouth County, New Jersey",2820,3146
+265,34025,3402532640,"Holmdel township, Monmouth County, New Jersey",5137,5792
+266,34025,3402533300,"Howell township, Monmouth County, New Jersey",16572,17979
+267,34025,3402534200,"Interlaken borough, Monmouth County, New Jersey",397,393
+268,34025,3402536480,"Keansburg borough, Monmouth County, New Jersey",4269,4318
+269,34025,3402536810,"Keyport borough, Monmouth County, New Jersey",3400,3272
+270,34025,3402537560,"Lake Como borough, Monmouth County, New Jersey",1107,1115
+271,34025,3402540770,"Little Silver borough, Monmouth County, New Jersey",2288,2278
+272,34025,3402541010,"Loch Arbour village, Monmouth County, New Jersey",156,159
+273,34025,3402541310,"Long Branch city, Monmouth County, New Jersey",13983,14170
+274,34025,3402542990,"Manalapan township, Monmouth County, New Jersey",11066,13735
+275,34025,3402543050,"Manasquan borough, Monmouth County, New Jersey",3531,3500
+276,34025,3402544070,"Marlboro township, Monmouth County, New Jersey",11896,13436
+277,34025,3402544520,"Matawan borough, Monmouth County, New Jersey",3640,3606
+278,34025,3402545990,"Middletown township, Monmouth County, New Jersey",23841,24959
+279,34025,3402546560,"Millstone township, Monmouth County, New Jersey",2797,3434
+280,34025,3402547130,"Monmouth Beach borough, Monmouth County, New Jersey",1969,1981
+281,34025,3402549890,"Neptune township, Monmouth County, New Jersey",12217,12991
+282,34025,3402549920,"Neptune City borough, Monmouth County, New Jersey",2342,2312
+283,34025,3402554270,"Ocean township, Monmouth County, New Jersey",10756,11541
+284,34025,3402554570,"Oceanport borough, Monmouth County, New Jersey",2114,2390
+285,34025,3402562430,"Red Bank borough, Monmouth County, New Jersey",5450,5381
+286,34025,3402564410,"Roosevelt borough, Monmouth County, New Jersey",351,327
+287,34025,3402565130,"Rumson borough, Monmouth County, New Jersey",2610,2585
+288,34025,3402566240,"Sea Bright borough, Monmouth County, New Jersey",1202,1211
+289,34025,3402566330,"Sea Girt borough, Monmouth County, New Jersey",1285,1291
+290,34025,3402567350,"Shrewsbury borough, Monmouth County, New Jersey",1223,1310
+291,34025,3402567365,"Shrewsbury township, Monmouth County, New Jersey",546,648
+292,34025,3402570110,"Spring Lake borough, Monmouth County, New Jersey",1930,2048
+293,34025,3402570140,"Spring Lake Heights borough, Monmouth County, New Jersey",2950,2972
+294,34025,3402573020,"Tinton Falls borough, Monmouth County, New Jersey",6211,8766
+295,34025,3402574540,"Union Beach borough, Monmouth County, New Jersey",2229,2269
+296,34025,3402574900,"Upper Freehold township, Monmouth County, New Jersey",1501,2458
+297,34025,3402576460,"Wall township, Monmouth County, New Jersey",9957,10883
+298,34025,3402579310,"West Long Branch borough, Monmouth County, New Jersey",2535,2528
+299,34027,3402706610,"Boonton town, Morris County, New Jersey",3352,3398
+300,34027,3402706640,"Boonton township, Morris County, New Jersey",1510,1647
+301,34027,3402709040,"Butler borough, Morris County, New Jersey",2923,3169
+302,34027,3402712100,"Chatham borough, Morris County, New Jersey",3232,3210
+303,34027,3402712130,"Chatham township, Morris County, New Jersey",4019,4128
+304,34027,3402712580,"Chester borough, Morris County, New Jersey",627,647
+305,34027,3402712610,"Chester township, Morris County, New Jersey",2377,2697
+306,34027,3402717650,"Denville township, Morris County, New Jersey",6178,6734
+307,34027,3402718070,"Dover town, Morris County, New Jersey",5568,5783
+308,34027,3402719210,"East Hanover township, Morris County, New Jersey",3895,3976
+309,34027,3402723910,"Florham Park borough, Morris County, New Jersey",3342,4201
+310,34027,3402729550,"Hanover township, Morris County, New Jersey",4818,5526
+311,34027,3402729700,"Harding township, Morris County, New Jersey",1243,1610
+312,34027,3402734980,"Jefferson township, Morris County, New Jersey",7527,8597
+313,34027,3402737110,"Kinnelon borough, Morris County, New Jersey",3123,3600
+314,34027,3402740290,"Lincoln Park borough, Morris County, New Jersey",4110,4145
+315,34027,3402741362,"Long Hill township, Morris County, New Jersey",3206,3226
+316,34027,3402742510,"Madison borough, Morris County, New Jersey",5641,5775
+317,34027,3402745330,"Mendham borough, Morris County, New Jersey",1828,1798
+318,34027,3402745360,"Mendham township, Morris County, New Jersey",1849,2062
+319,34027,3402746860,"Mine Hill township, Morris County, New Jersey",1388,1380
+320,34027,3402747670,"Montville township, Morris County, New Jersey",7541,7823
+321,34027,3402748090,"Morris township, Morris County, New Jersey",8298,8502
+322,34027,3402748210,"Morris Plains borough, Morris County, New Jersey",1994,2197
+323,34027,3402748300,"Morristown town, Morris County, New Jersey",7615,8172
+324,34027,3402748480,"Mountain Lakes borough, Morris County, New Jersey",1357,1363
+325,34027,3402748690,"Mount Arlington borough, Morris County, New Jersey",2039,2545
+326,34027,3402749080,"Mount Olive township, Morris County, New Jersey",9311,11244
+327,34027,3402750130,"Netcong borough, Morris County, New Jersey",1043,1449
+328,34027,3402756460,"Parsippany-Troy Hills township, Morris County, New Jersey",20066,21274
+329,34027,3402758110,"Pequannock township, Morris County, New Jersey",5097,6794
+330,34027,3402761890,"Randolph township, Morris County, New Jersey",8903,9343
+331,34027,3402763300,"Riverdale borough, Morris County, New Jersey",940,1657
+332,34027,3402764050,"Rockaway borough, Morris County, New Jersey",2491,2521
+333,34027,3402764080,"Rockaway township, Morris County, New Jersey",8506,9587
+334,34027,3402764980,"Roxbury township, Morris County, New Jersey",8550,8582
+335,34027,3402775890,"Victory Gardens borough, Morris County, New Jersey",588,566
+336,34027,3402777240,"Washington township, Morris County, New Jersey",5890,6488
+337,34027,3402780390,"Wharton borough, Morris County, New Jersey",2394,2426
+338,34029,3402900000,"County subdivisions not defined, Ocean County, New Jersey",0,0
+339,34029,3402903050,"Barnegat township, Ocean County, New Jersey",6066,9085
+340,34029,3402903130,"Barnegat Light borough, Ocean County, New Jersey",1207,1282
+341,34029,3402903520,"Bay Head borough, Ocean County, New Jersey",1053,1023
+342,34029,3402903940,"Beach Haven borough, Ocean County, New Jersey",2555,2667
+343,34029,3402904180,"Beachwood borough, Ocean County, New Jersey",3623,3826
+344,34029,3402905305,"Berkeley township, Ocean County, New Jersey",22288,23818
+345,34029,3402907420,"Brick township, Ocean County, New Jersey",32689,33677
+346,34029,3402918670,"Eagleswood township, Ocean County, New Jersey",693,760
+347,34029,3402930390,"Harvey Cedars borough, Ocean County, New Jersey",1205,1214
+348,34029,3402934530,"Island Heights borough, Ocean County, New Jersey",807,831
+349,34029,3402934680,"Jackson township, Ocean County, New Jersey",14640,20342
+350,34029,3402937380,"Lacey township, Ocean County, New Jersey",10580,11573
+351,34029,3402937770,"Lakehurst borough, Ocean County, New Jersey",961,943
+352,34029,3402938550,"Lakewood township, Ocean County, New Jersey",21214,26337
+353,34029,3402939390,"Lavallette borough, Ocean County, New Jersey",3210,3207
+354,34029,3402940560,"Little Egg Harbor township, Ocean County, New Jersey",7931,10324
+355,34029,3402941250,"Long Beach township, Ocean County, New Jersey",9023,9216
+356,34029,3402943140,"Manchester township, Ocean County, New Jersey",22681,25886
+357,34029,3402943380,"Mantoloking borough, Ocean County, New Jersey",522,535
+358,34029,3402954300,"Ocean township, Ocean County, New Jersey",2981,4291
+359,34029,3402954450,"Ocean Gate borough, Ocean County, New Jersey",1152,1203
+360,34029,3402958590,"Pine Beach borough, Ocean County, New Jersey",872,903
+361,34029,3402959790,"Plumsted township, Ocean County, New Jersey",2628,3067
+362,34029,3402959880,"Point Pleasant borough, Ocean County, New Jersey",8350,8331
+363,34029,3402959910,"Point Pleasant Beach borough, Ocean County, New Jersey",3558,3373
+364,34029,3402966450,"Seaside Heights borough, Ocean County, New Jersey",2840,3003
+365,34029,3402966480,"Seaside Park borough, Ocean County, New Jersey",2811,2703
+366,34029,3402967110,"Ship Bottom borough, Ocean County, New Jersey",2218,2066
+367,34029,3402969510,"South Toms River borough, Ocean County, New Jersey",1123,1160
+368,34029,3402970320,"Stafford township, Ocean County, New Jersey",11522,13604
+369,34029,3402971640,"Surf City borough, Ocean County, New Jersey",2621,2566
+370,34029,3402973125,"Toms River township, Ocean County, New Jersey",41116,43334
+371,34029,3402974210,"Tuckerton borough, Ocean County, New Jersey",1971,1902
+372,34031,3403106340,"Bloomingdale borough, Passaic County, New Jersey",2940,3089
+373,34031,3403113690,"Clifton city, Passaic County, New Jersey",31060,31946
+374,34031,3403129070,"Haledon borough, Passaic County, New Jersey",2906,2932
+375,34031,3403130570,"Hawthorne borough, Passaic County, New Jersey",7419,7756
+376,34031,3403140620,"Little Falls township, Passaic County, New Jersey",4797,4925
+377,34031,3403153040,"North Haledon borough, Passaic County, New Jersey",2675,3213
+378,34031,3403156550,"Passaic city, Passaic County, New Jersey",20194,20432
+379,34031,3403157000,"Paterson city, Passaic County, New Jersey",47169,47946
+380,34031,3403160090,"Pompton Lakes borough, Passaic County, New Jersey",4024,4341
+381,34031,3403161170,"Prospect Park borough, Passaic County, New Jersey",1889,1931
+382,34031,3403163150,"Ringwood borough, Passaic County, New Jersey",4221,4331
+383,34031,3403173140,"Totowa borough, Passaic County, New Jersey",3630,3918
+384,34031,3403176730,"Wanaque borough, Passaic County, New Jersey",3500,4184
+385,34031,3403177840,"Wayne township, Passaic County, New Jersey",19218,19768
+386,34031,3403179460,"West Milford township, Passaic County, New Jersey",9909,10419
+387,34031,3403182423,"Woodland Park borough, Passaic County, New Jersey",4497,4835
+388,34035,3403504450,"Bedminster township, Somerset County, New Jersey",4467,4349
+389,34035,3403505560,"Bernards township, Somerset County, New Jersey",9485,10103
+390,34035,3403505590,"Bernardsville borough, Somerset County, New Jersey",2807,2871
+391,34035,3403506790,"Bound Brook borough, Somerset County, New Jersey",3802,3816
+392,34035,3403507180,"Branchburg township, Somerset County, New Jersey",5405,5419
+393,34035,3403507720,"Bridgewater township, Somerset County, New Jersey",15879,16657
+394,34035,3403522890,"Far Hills borough, Somerset County, New Jersey",386,418
+395,34035,3403524900,"Franklin township, Somerset County, New Jersey",19789,24426
+396,34035,3403527510,"Green Brook township, Somerset County, New Jersey",1916,2448
+397,34035,3403531890,"Hillsborough township, Somerset County, New Jersey",12854,14030
+398,34035,3403543620,"Manville borough, Somerset County, New Jersey",4296,4277
+399,34035,3403546590,"Millstone borough, Somerset County, New Jersey",173,167
+400,34035,3403547580,"Montgomery township, Somerset County, New Jersey",6130,7902
+401,34035,3403553280,"North Plainfield borough, Somerset County, New Jersey",7393,7848
+402,34035,3403557300,"Peapack and Gladstone borough, Somerset County, New Jersey",871,949
+403,34035,3403561980,"Raritan borough, Somerset County, New Jersey",2644,2847
+404,34035,3403564320,"Rocky Hill borough, Somerset County, New Jersey",295,292
+405,34035,3403568460,"Somerville borough, Somerset County, New Jersey",4882,4951
+406,34035,3403568730,"South Bound Brook borough, Somerset County, New Jersey",1676,1865
+407,34035,3403576940,"Warren township, Somerset County, New Jersey",4718,5258
+408,34035,3403577600,"Watchung borough, Somerset County, New Jersey",2155,2234
+409,34037,3403701330,"Andover borough, Sussex County, New Jersey",273,263
+410,34037,3403701360,"Andover township, Sussex County, New Jersey",1968,2181
+411,34037,3403707300,"Branchville borough, Sussex County, New Jersey",377,386
+412,34037,3403709160,"Byram township, Sussex County, New Jersey",3078,3207
+413,34037,3403724810,"Frankford township, Sussex County, New Jersey",2295,2520
+414,34037,3403724930,"Franklin borough, Sussex County, New Jersey",1997,2136
+415,34037,3403725140,"Fredon township, Sussex County, New Jersey",1019,1289
+416,34037,3403727420,"Green township, Sussex County, New Jersey",1069,1251
+417,34037,3403729220,"Hamburg borough, Sussex County, New Jersey",1233,1476
+418,34037,3403729490,"Hampton township, Sussex County, New Jersey",2026,2200
+419,34037,3403729850,"Hardyston township, Sussex County, New Jersey",2690,3783
+420,34037,3403732910,"Hopatcong borough, Sussex County, New Jersey",6190,6296
+421,34037,3403737440,"Lafayette township, Sussex County, New Jersey",799,919
+422,34037,3403747430,"Montague township, Sussex County, New Jersey",1588,1802
+423,34037,3403751930,"Newton town, Sussex County, New Jersey",3425,3479
+424,34037,3403754660,"Ogdensburg borough, Sussex County, New Jersey",903,905
+425,34037,3403765700,"Sandyston township, Sussex County, New Jersey",907,988
+426,34037,3403769690,"Sparta township, Sussex County, New Jersey",6590,7423
+427,34037,3403770380,"Stanhope borough, Sussex County, New Jersey",1419,1472
+428,34037,3403770890,"Stillwater township, Sussex County, New Jersey",2030,1930
+429,34037,3403771670,"Sussex borough, Sussex County, New Jersey",961,1005
+430,34037,3403775740,"Vernon township, Sussex County, New Jersey",9994,10958
+431,34037,3403776640,"Walpack township, Sussex County, New Jersey",34,15
+432,34037,3403776790,"Wantage township, Sussex County, New Jersey",3663,4173
+433,34039,3403905320,"Berkeley Heights township, Union County, New Jersey",4562,4596
+434,34039,3403913150,"Clark township, Union County, New Jersey",5709,5751
+435,34039,3403915640,"Cranford township, Union County, New Jersey",8560,8816
+436,34039,3403921000,"Elizabeth city, Union County, New Jersey",42838,45516
+437,34039,3403922860,"Fanwood borough, Union County, New Jersey",2615,2686
+438,34039,3403925800,"Garwood borough, Union County, New Jersey",1782,1870
+439,34039,3403931980,"Hillside township, Union County, New Jersey",7388,7536
+440,34039,3403936690,"Kenilworth borough, Union County, New Jersey",2926,2924
+441,34039,3403940350,"Linden city, Union County, New Jersey",15567,15872
+442,34039,3403948510,"Mountainside borough, Union County, New Jersey",2478,2558
+443,34039,3403951810,"New Providence borough, Union County, New Jersey",4485,4537
+444,34039,3403959190,"Plainfield city, Union County, New Jersey",16180,16621
+445,34039,3403961530,"Rahway city, Union County, New Jersey",10381,11300
+446,34039,3403964620,"Roselle borough, Union County, New Jersey",7870,7939
+447,34039,3403964650,"Roselle Park borough, Union County, New Jersey",5258,5231
+448,34039,3403966060,"Scotch Plains township, Union County, New Jersey",8479,8896
+449,34039,3403970020,"Springfield township, Union County, New Jersey",6204,6736
+450,34039,3403971430,"Summit city, Union County, New Jersey",8146,8190
+451,34039,3403974480,"Union township, Union County, New Jersey",20001,20250
+452,34039,3403979040,"Westfield town, Union County, New Jersey",10819,10950
+453,34039,3403981650,"Winfield township, Union County, New Jersey",697,714
+454,34041,3404100670,"Allamuchy township, Warren County, New Jersey",1774,2096
+455,34041,3404101030,"Alpha borough, Warren County, New Jersey",1034,1032
+456,34041,3404104990,"Belvidere town, Warren County, New Jersey",1165,1140
+457,34041,3404106160,"Blairstown township, Warren County, New Jersey",2136,2272
+458,34041,3404124960,"Franklin township, Warren County, New Jersey",1019,1219
+459,34041,3404125320,"Frelinghuysen township, Warren County, New Jersey",755,826
+460,34041,3404128260,"Greenwich township, Warren County, New Jersey",1477,1870
+461,34041,3404128710,"Hackettstown town, Warren County, New Jersey",4347,3755
+462,34041,3404129820,"Hardwick township, Warren County, New Jersey",530,619
+463,34041,3404130090,"Harmony township, Warren County, New Jersey",1076,1109
+464,34041,3404133060,"Hope township, Warren County, New Jersey",747,809
+465,34041,3404133930,"Independence township, Warren County, New Jersey",2210,2325
+466,34041,3404137320,"Knowlton township, Warren County, New Jersey",1135,1212
+467,34041,3404140110,"Liberty township, Warren County, New Jersey",1088,1151
+468,34041,3404141490,"Lopatcong township, Warren County, New Jersey",2429,3420
+469,34041,3404143320,"Mansfield township, Warren County, New Jersey",2415,3316
+470,34041,3404155530,"Oxford township, Warren County, New Jersey",938,1033
+471,34041,3404158350,"Phillipsburg town, Warren County, New Jersey",6651,6607
+472,34041,3404159820,"Pohatcong township, Warren County, New Jersey",1411,1420
+473,34041,3404177270,"Washington borough, Warren County, New Jersey",2876,2897
+474,34041,3404177300,"Washington township, Warren County, New Jersey",2174,2493
+475,34041,3404180570,"White township, Warren County, New Jersey",1770,2304
+476,36005,3600508510,"Bronx borough, Bronx County, New York",490659,511896
+477,36027,3602701693,"Amenia town, Dutchess County, New York",1814,2045
+478,36027,3602705100,"Beacon city, Dutchess County, New York",5406,5715
+479,36027,3602705452,"Beekman town, Dutchess County, New York",4180,4797
+480,36027,3602716408,"Clinton town, Dutchess County, New York",1734,1915
+481,36027,3602720819,"Dover town, Dutchess County, New York",3266,3637
+482,36027,3602721996,"East Fishkill town, Dutchess County, New York",8495,10039
+483,36027,3602725978,"Fishkill town, Dutchess County, New York",7040,9246
+484,36027,3602737209,"Hyde Park town, Dutchess County, New York",7704,8416
+485,36027,3602740299,"La Grange town, Dutchess County, New York",5240,5668
+486,36027,3602747207,"Milan town, Dutchess County, New York",1090,1279
+487,36027,3602751891,"North East town, Dutchess County, New York",1366,1627
+488,36027,3602756825,"Pawling town, Dutchess County, New York",3101,3593
+489,36027,3602758156,"Pine Plains town, Dutchess County, New York",1161,1284
+490,36027,3602758695,"Pleasant Valley town, Dutchess County, New York",3614,4049
+491,36027,3602759641,"Poughkeepsie city, Dutchess County, New York",13153,13984
+492,36027,3602759652,"Poughkeepsie town, Dutchess County, New York",15132,16116
+493,36027,3602760905,"Red Hook town, Dutchess County, New York",3840,4384
+494,36027,3602761357,"Rhinebeck town, Dutchess County, New York",3255,3653
+495,36027,3602770662,"Stanford town, Dutchess County, New York",1712,1913
+496,36027,3602776166,"Union Vale town, Dutchess County, New York",1464,1911
+497,36027,3602778157,"Wappinger town, Dutchess County, New York",10144,10908
+498,36027,3602778388,"Washington town, Dutchess County, New York",2192,2459
+499,36047,3604710022,"Brooklyn borough, Kings County, New York",930866,1000293
+500,36059,3601011,"Albertson CDP, New York",1853,1850
+501,36059,3602968,"Atlantic Beach village, New York",954,1091
+502,36059,3604143,"Baldwin CDP, New York",79992787,80012782
+503,36059,3604550,"Barnum Island CDP, New York",854,889
+504,36059,3604803,"Baxter Estates village, New York",386,411
+505,36059,3604891,"Bay Park CDP, New York",892,903
+506,36059,3605034,"Bayville village, New York",2683,2651
+507,36059,3605639,"Bellerose village, New York",384,378
+508,36059,3605661,"Bellerose Terrace CDP, New York",649,665
+509,36059,3605738,"Bellmore CDP, New York",5724,5807
+510,36059,3606387,"Bethpage CDP, New York",5788,6051
+511,36059,3610132,"Brookville village, New York",648,663
+512,36059,3612419,"Carle Place CDP, New York",1922,1932
+513,36059,3613233,"Cedarhurst village, New York",2366,2375
+514,36059,3613618,"Centre Island village, New York",209,232
+515,36059,3618597,"Cove Neck village, New York",140,148
+516,36059,3621578,"East Atlantic Beach CDP, New York",965,972
+517,36059,3622260,"East Hills village, New York",2275,2301
+518,36059,3622480,"East Massapequa CDP, New York",6535,6796
+519,36059,3622502,"East Meadow CDP, New York",12375,12863
+520,36059,3622623,"East Norwich CDP, New York",950,966
+521,36059,3622876,"East Rockaway village, New York",4003,3997
+522,36059,3623217,"East Williston village, New York",846,864
+523,36059,3624273,"Elmont CDP, New York",10151,10279
+524,36059,3625384,"Farmingdale village, New York",3289,3482
+525,36059,3626264,"Floral Park village, New York",5892,5909
+526,36059,3626352,"Flower Hill village, New York",1514,1523
+527,36059,3627309,"Franklin Square CDP, New York",10364,10313
+528,36059,3627485,"Freeport village, New York",13819,13865
+529,36059,3628178,"Garden City village, New York",7555,7647
+530,36059,3628189,"Garden City Park CDP, New York",2548,2603
+531,36059,3628200,"Garden City South CDP, New York",1411,1429
+532,36059,3629113,"Glen Cove city, New York",9734,10352
+533,36059,3629245,"Glen Head CDP, New York",1717,1784
+534,36059,3629421,"Glenwood Landing CDP, New York",1284,1400
+535,36059,3630169,"Great Neck village, New York",3441,3645
+536,36059,3630191,"Great Neck Estates village, New York",944,937
+537,36059,3630202,"Great Neck Gardens CDP, New York",381,401
+538,36059,3630213,"Great Neck Plaza village, New York",3925,4052
+539,36059,3630598,"Greenvale CDP, New York",372,373
+540,36059,3632094,"Harbor Hills CDP, New York",186,190
+541,36059,3632105,"Harbor Isle CDP, New York",497,495
+542,36059,3633139,"Hempstead village, New York",15579,16034
+543,36059,3634198,"Herricks CDP, New York",1371,1378
+544,36059,3634286,"Hewlett CDP, New York",2735,2708
+545,36059,3634297,"Hewlett Bay Park village, New York",163,145
+546,36059,3634308,"Hewlett Harbor village, New York",437,442
+547,36059,3634319,"Hewlett Neck village, New York",163,159
+548,36059,3634374,"Hicksville CDP, New York",13912,13761
+549,36059,3637583,"Inwood CDP, New York",3132,3153
+550,36059,3637847,"Island Park village, New York",1740,1715
+551,36059,3638539,"Jericho CDP, New York",4600,4782
+552,36059,3639309,"Kensington village, New York",447,448
+553,36059,3639694,"Kings Point village, New York",1455,1386
+554,36059,3640937,"Lake Success village, New York",824,826
+555,36059,3641003,"Lakeview CDP, New York",1569,1552
+556,36059,3641432,"Lattingtown village, New York",688,707
+557,36059,3641487,"Laurel Hollow village, New York",621,635
+558,36059,3641553,"Lawrence village, New York",2287,2280
+559,36059,3642081,"Levittown CDP, New York",17410,17287
+560,36059,3642279,"Lido Beach CDP, New York",1325,1403
+561,36059,3643192,"Locust Valley CDP, New York",1324,1281
+562,36059,3643335,"Long Beach city, New York",16128,16450
+563,36059,3643874,"Lynbrook village, New York",7570,7921
+564,36059,3644787,"Malverne village, New York",3152,3146
+565,36059,3644792,"Malverne Park Oaks CDP, New York",175,189
+566,36059,3644897,"Manhasset CDP, New York",2917,2893
+567,36059,3644908,"Manhasset Hills CDP, New York",1235,1241
+568,36059,3645106,"Manorhaven village, New York",2471,2597
+569,36059,3645986,"Massapequa CDP, New York",7514,7407
+570,36059,3645997,"Massapequa Park village, New York",5809,5844
+571,36059,3646107,"Matinecock village, New York",313,323
+572,36059,3646668,"Merrick CDP, New York",7602,7622
+573,36059,3647405,"Mill Neck village, New York",326,440
+574,36059,3647636,"Mineola village, New York",7650,7701
+575,36059,3649231,"Munsey Park village, New York",833,840
+576,36059,3649330,"Muttontown village, New York",1048,1125
+577,36059,3650067,"New Cassel CDP, New York",3067,3174
+578,36059,3650397,"New Hyde Park village, New York",3353,3371
+579,36059,3651517,"North Bellmore CDP, New York",6634,6818
+580,36059,3653022,"North Hills village, New York",1907,2438
+581,36059,3653231,"North Lynbrook CDP, New York",228,231
+582,36059,3653253,"North Massapequa CDP, New York",6333,6212
+583,36059,3653264,"North Merrick CDP, New York",4004,4125
+584,36059,3653275,"North New Hyde Park CDP, New York",5116,5016
+585,36059,3653748,"North Valley Stream CDP, New York",4951,5548
+586,36059,3653792,"North Wantagh CDP, New York",4374,4321
+587,36059,3654441,"Oceanside CDP, New York",11396,11604
+588,36059,3654551,"Old Bethpage CDP, New York",1843,1927
+589,36059,3654562,"Old Brookville village, New York",760,720
+590,36059,3654705,"Old Westbury village, New York",1109,1172
+591,36059,3655992,"Oyster Bay CDP, New York",2898,2947
+592,36059,3656011,"Oyster Bay Cove village, New York",742,758
+593,36059,3658409,"Plainedge CDP, New York",3052,2936
+594,36059,3658442,"Plainview CDP, New York",8638,9281
+595,36059,3658475,"Plandome village, New York",422,431
+596,36059,3658486,"Plandome Heights village, New York",328,330
+597,36059,3658497,"Plandome Manor village, New York",288,295
+598,36059,3658849,"Point Lookout CDP, New York",792,666
+599,36059,3659520,"Port Washington CDP, New York",5662,6234
+600,36059,3659531,"Port Washington North village, New York",1071,1395
+601,36059,3663264,"Rockville Centre village, New York",9419,9679
+602,36059,3663506,"Roosevelt CDP, New York",4234,4356
+603,36059,3663770,"Roslyn village, New York",1124,1288
+604,36059,3663792,"Roslyn Estates village, New York",410,428
+605,36059,3663803,"Roslyn Harbor village, New York",367,382
+606,36059,3663814,"Roslyn Heights CDP, New York",2226,2263
+607,36059,3664232,"Russell Gardens village, New York",409,359
+608,36059,3664430,"Saddle Rock village, New York",275,280
+609,36059,3664441,"Saddle Rock Estates CDP, New York",139,142
+610,36059,3664842,"Salisbury CDP, New York",4052,4098
+611,36059,3665035,"Sands Point village, New York",902,934
+612,36059,3666047,"Sea Cliff village, New York",2082,2049
+613,36059,3666058,"Seaford CDP, New York",5358,5395
+614,36059,3666102,"Searingtown CDP, New York",1606,1604
+615,36059,3669001,"South Farmingdale CDP, New York",4950,4888
+616,36059,3669023,"South Floral Park village, New York",462,569
+617,36059,3669188,"South Hempstead CDP, New York",1075,1076
+618,36059,3669892,"South Valley Stream CDP, New York",2045,2043
+619,36059,3671267,"Stewart Manor village, New York",726,711
+620,36059,3672554,"Syosset CDP, New York",6354,6339
+621,36059,3673605,"Thomaston village, New York",1000,1004
+622,36059,3676089,"Uniondale CDP, New York",2956201,13416311
+623,36059,3676287,"University Gardens CDP, New York",1696,1695
+624,36059,3676331,"Upper Brookville village, New York",599,611
+625,36059,3676705,"Valley Stream village, New York",12688,12625
+626,36059,3678146,"Wantagh CDP, New York",6250,6250
+627,36059,3679444,"Westbury village, New York",4714,5271
+628,36059,3680225,"West Hempstead CDP, New York",6110,6130
+629,36059,3682117,"Williston Park village, New York",2668,2743
+630,36059,3682744,"Woodbury CDP, New York",2895,3178
+631,36059,3682942,"Woodmere CDP, New York",5462,5570
+632,36059,3682986,"Woodsburgh village, New York",268,300
+633,36059,3605929113,"Glen Cove city, Nassau County, New York",9734,10352
+634,36059,3605934000,"Hempstead town, Nassau County, New York",252286,256734
+635,36059,3605943335,"Long Beach city, Nassau County, New York",16128,16450
+636,36059,3605953000,"North Hempstead town, Nassau County, New York",78927,81961
+637,36059,3605956000,"Oyster Bay town, Nassau County, New York",101076,102849
+638,36061,3606144919,"Manhattan borough, New York County, New York",798144,847090
+639,36071,3607107003,"Blooming Grove town, Orange County, New York",6559,6954
+640,36071,3607115308,"Chester town, Orange County, New York",3984,4372
+641,36071,3607118300,"Cornwall town, Orange County, New York",4852,5136
+642,36071,3607118916,"Crawford town, Orange County, New York",2851,3475
+643,36071,3607119961,"Deerpark town, Orange County, New York",3332,3484
+644,36071,3607129553,"Goshen town, Orange County, New York",4320,4921
+645,36071,3607130631,"Greenville town, Orange County, New York",1365,1653
+646,36071,3607131907,"Hamptonburgh town, Orange County, New York",1532,1819
+647,36071,3607134550,"Highlands town, Orange County, New York",3418,3487
+648,36071,3607147042,"Middletown city, Orange County, New York",10124,10866
+649,36071,3607147713,"Minisink town, Orange County, New York",1245,1561
+650,36071,3607147999,"Monroe town, Orange County, New York",8517,11144
+651,36071,3607148153,"Montgomery town, Orange County, New York",7643,8523
+652,36071,3607148857,"Mount Hope town, Orange County, New York",1714,1955
+653,36071,3607150034,"Newburgh city, Orange County, New York",10476,10505
+654,36071,3607150045,"Newburgh town, Orange County, New York",10122,11313
+655,36071,3607150848,"New Windsor town, Orange County, New York",8759,9862
+656,36071,3607159388,"Port Jervis city, Orange County, New York",3851,3957
+657,36071,3607175781,"Tuxedo town, Orange County, New York",1457,1691
+658,36071,3607177992,"Wallkill town, Orange County, New York",9283,10777
+659,36071,3607178366,"Warwick town, Orange County, New York",11818,12982
+660,36071,3607178839,"Wawayanda town, Orange County, New York",2174,2630
+661,36071,3607182755,"Woodbury town, Orange County, New York",3358,3958
+662,36079,3607912529,"Carmel town, Putnam County, New York",11283,12348
+663,36079,3607939331,"Kent town, Putnam County, New York",5353,5508
+664,36079,3607956748,"Patterson town, Putnam County, New York",3746,4272
+665,36079,3607957584,"Philipstown town, Putnam County, New York",3983,4164
+666,36079,3607960147,"Putnam Valley town, Putnam County, New York",4253,4837
+667,36079,3607968924,"Southeast town, Putnam County, New York",6412,7095
+668,36081,3608160323,"Queens borough, Queens County, New York",817250,835127
+669,36085,3608570915,"Staten Island borough, Richmond County, New York",163993,176656
+670,36087,3608715968,"Clarkstown town, Rockland County, New York",28220,30314
+671,36087,3608732765,"Haverstraw town, Rockland County, New York",11553,12809
+672,36087,3608755211,"Orangetown town, Rockland County, New York",17827,18611
+673,36087,3608760510,"Ramapo town, Rockland County, New York",32422,36754
+674,36087,3608771674,"Stony Point town, Rockland County, New York",4951,5569
+675,36103,3601594,"Amagansett CDP, New York",1664,1790
+676,36103,3602044,"Amityville village, New York",3577,3997
+677,36103,3602374,"Aquebogue CDP, New York",1013,1127
+678,36103,3602737,"Asharoken village, New York",307,302
+679,36103,3603408,"Babylon village, New York",4680,4768
+680,36103,3604055,"Baiting Hollow CDP, New York",962,1208
+681,36103,3604913,"Bayport CDP, New York",3325,3515
+682,36103,3604935,"Bay Shore CDP, New York",8639,9663
+683,36103,3605039,"Baywood CDP, New York",2317,2272
+684,36103,3605672,"Belle Terre village, New York",297,308
+685,36103,3605771,"Bellport village, New York",1139,1170
+686,36103,3607069,"Blue Point CDP, New York",1664,1747
+687,36103,3607157,"Bohemia CDP, New York",3387,3731
+688,36103,3608026,"Brentwood CDP, New York",13039,14202
+689,36103,3608136,"Bridgehampton CDP, New York",1494,2431
+690,36103,3608323,"Brightwaters village, New York",1144,1156
+691,36103,3609000,"Brookhaven CDP, New York",1167,1268
+692,36103,3611781,"Calverton CDP, New York",2735,3224
+693,36103,3613376,"Centereach CDP, New York",8329,10408
+694,36103,3613420,"Center Moriches CDP, New York",2465,2818
+695,36103,3613442,"Centerport CDP, New York",2094,2120
+696,36103,3613552,"Central Islip CDP, New York",9189,9961
+697,36103,3616958,"Cold Spring Harbor CDP, New York",1790,1809
+698,36103,3617530,"Commack CDP, New York",11824,12138
+699,36103,3618146,"Copiague CDP, New York",7415,7919
+700,36103,3618157,"Coram CDP, New York",12880,15437
+701,36103,3619466,"Cutchogue CDP, New York",1680,2062
+702,36103,3619972,"Deer Park CDP, New York",9698,9715
+703,36103,3620379,"Dering Harbor village, New York",32,35
+704,36103,3620687,"Dix Hills CDP, New York",8057,8529
+705,36103,3621985,"East Farmingdale CDP, New York",1723,2114
+706,36103,3622183,"East Hampton village, New York",1745,1836
+707,36103,3622200,"East Hampton North CDP, New York",2251,2545
+708,36103,3622315,"East Islip CDP, New York",4661,4942
+709,36103,3622447,"East Marion CDP, New York",744,953
+710,36103,3622546,"East Moriches CDP, New York",1668,2163
+711,36103,3622612,"East Northport CDP, New York",7086,7288
+712,36103,3622733,"East Patchogue CDP, New York",7760,8685
+713,36103,3622810,"Eastport CDP, New York",637,865
+714,36103,3622832,"East Quogue CDP, New York",2465,3069
+715,36103,3622980,"East Shoreham CDP, New York",1827,2104
+716,36103,3623316,"Eatons Neck CDP, New York",554,575
+717,36103,3624405,"Elwood CDP, New York",3493,3585
+718,36103,3625417,"Farmingville CDP, New York",5170,4884
+719,36103,3625839,"Fire Island CDP, New York",3157,3395
+720,36103,3625923,"Fishers Island CDP, New York",625,660
+721,36103,3626121,"Flanders CDP, New York",1521,1684
+722,36103,3626946,"Fort Salonga CDP, New York",3310,3484
+723,36103,3628997,"Gilgo-Oak Beach-Captree CDP, New York",305,135241
+724,36103,3629509,"Gordon Heights CDP, New York",945,1182
+725,36103,3630235,"Great River CDP, New York",519,517
+726,36103,3630543,"Greenlawn CDP, New York",4644,4722
+727,36103,3630576,"Greenport village, New York",1075,1191
+728,36103,3630581,"Greenport West CDP, New York",1283,1651
+729,36103,3631445,"Halesite CDP, New York",1049,1070
+730,36103,3631896,"Hampton Bays CDP, New York",6875,7873
+731,36103,3632732,"Hauppauge CDP, New York",7153,7566
+732,36103,3632963,"Head of the Harbor village, New York",501,551
+733,36103,3635056,"Holbrook CDP, New York",9157,9820
+734,36103,3635254,"Holtsville CDP, New York",5418,6929
+735,36103,3636233,"Huntington CDP, New York",7273,7482
+736,36103,3637022,"Huntington Bay village, New York",560,578
+737,36103,3637044,"Huntington Station CDP, New York",10028,10523
+738,36103,3637840,"Islandia village, New York",1031,1088
+739,36103,3637869,"Islip CDP, New York",7026,6664
+740,36103,3638022,"Islip Terrace CDP, New York",1784,1764
+741,36103,3638253,"Jamesport CDP, New York",959,1169
+742,36103,3639672,"Kings Park CDP, New York",5574,6469
+743,36103,3640530,"Lake Grove village, New York",3509,3956
+744,36103,3640838,"Lake Ronkonkoma CDP, New York",6949,7199
+745,36103,3641465,"Laurel CDP, New York",686,810
+746,36103,3642554,"Lindenhurst village, New York",9277,9665
+747,36103,3643005,"Lloyd Harbor village, New York",1188,1262
+748,36103,3645139,"Manorville CDP, New York",4243,5303
+749,36103,3646074,"Mastic CDP, New York",4732,4847
+750,36103,3646085,"Mastic Beach CDP, New York",4375,4889
+751,36103,3646140,"Mattituck CDP, New York",2313,2495
+752,36103,3646404,"Medford CDP, New York",6939,8171
+753,36103,3646514,"Melville CDP, New York",5141,7194
+754,36103,3646976,"Middle Island CDP, New York",3900,4479
+755,36103,3647306,"Miller Place CDP, New York",3512,4141
+756,36103,3648054,"Montauk CDP, New York",4815,4666
+757,36103,3648450,"Moriches CDP, New York",1212,1475
+758,36103,3649066,"Mount Sinai CDP, New York",2740,4285
+759,36103,3649424,"Napeague CDP, New York",624,762
+760,36103,3649825,"Nesconset CDP, New York",4227,4711
+761,36103,3650727,"New Suffolk CDP, New York",298,307
+762,36103,3651286,"Nissequogue village, New York",570,646
+763,36103,3651396,"North Amityville CDP, New York",5308,5636
+764,36103,3651418,"Northampton CDP, New York",205,239
+765,36103,3651440,"North Babylon CDP, New York",6271,6378
+766,36103,3651495,"North Bay Shore CDP, New York",3992,4627
+767,36103,3651528,"North Bellport CDP, New York",2520,3652
+768,36103,3652078,"North Great River CDP, New York",1167,1367
+769,36103,3652188,"North Haven village, New York",578,739
+770,36103,3653198,"North Lindenhurst CDP, New York",3883,3898
+771,36103,3653319,"North Patchogue CDP, New York",2781,2432
+772,36103,3653396,"Northport village, New York",3052,3066
+773,36103,3653561,"North Sea CDP, New York",3265,3477
+774,36103,3653775,"Northville CDP, New York",401,772
+775,36103,3653852,"Northwest Harbor CDP, New York",3008,3394
+776,36103,3654056,"Noyack CDP, New York",1993,2881
+777,36103,3654144,"Oakdale CDP, New York",3207,3280
+778,36103,3654430,"Ocean Beach village, New York",595,607
+779,36103,3654617,"Old Field village, New York",346,369
+780,36103,3655321,"Orient CDP, New York",673,772
+781,36103,3656660,"Patchogue village, New York",4902,5023
+782,36103,3656968,"Peconic CDP, New York",682,479
+783,36103,3659157,"Poquott village, New York",378,380
+784,36103,3659355,"Port Jefferson village, New York",3074,3270
+785,36103,3659377,"Port Jefferson Station CDP, New York",2656,2949
+786,36103,3660408,"Quiogue CDP, New York",545,583
+787,36103,3660422,"Quogue village, New York",1322,1623
+788,36103,3661142,"Remsenburg-Speonk CDP, New York",1401,1624
+789,36103,3661665,"Ridge CDP, New York",5922,6235
+790,36103,3661973,"Riverhead CDP, New York",4167,5295
+791,36103,3662066,"Riverside CDP, New York",926,840
+792,36103,3663319,"Rocky Point CDP, New York",3949,5366
+793,36103,3663473,"Ronkonkoma CDP, New York",6660,6724
+794,36103,3664452,"Sagaponack village, New York",734,676
+795,36103,3664485,"Sag Harbor village, New York",1942,1941
+796,36103,3664584,"St. James CDP, New York",4674,4741
+797,36103,3664881,"Saltaire village, New York",401,459
+798,36103,3665409,"Sayville CDP, New York",5721,6220
+799,36103,3666212,"Selden CDP, New York",7083,6739
+800,36103,3666481,"Setauket-East Setauket CDP, New York",5632,5589
+801,36103,3666828,"Shelter Island CDP, New York",964,1136
+802,36103,3666850,"Shelter Island Heights CDP, New York",1374,1583
+803,36103,3667048,"Shinnecock Hills CDP, New York",928,1500
+804,36103,3667070,"Shirley CDP, New York",7774,9022
+805,36103,3667191,"Shoreham village, New York",163,229
+806,36103,3667851,"Smithtown CDP, New York",8956,9031
+807,36103,3668374,"Sound Beach CDP, New York",3640,3001
+808,36103,3668462,"Southampton village, New York",2936,3314
+809,36103,3669254,"South Huntington CDP, New York",3379,3500
+810,36103,3669452,"Southold CDP, New York",3710,3996
+811,36103,3670387,"Springs CDP, New York",3878,4340
+812,36103,3671608,"Stony Brook CDP, New York",4970,5042
+813,36103,3671620,"Stony Brook University CDP, New York",0,26
+814,36103,3673352,"Terryville CDP, New York",3437,3971
+815,36103,3675572,"Tuckahoe CDP, New York",1092,865
+816,36103,3677519,"Village of the Branch village, New York",611,645
+817,36103,3677772,"Wading River CDP, New York",2713,3090
+818,36103,3677805,"Wainscott CDP, New York",764,876
+819,36103,3678575,"Water Mill CDP, New York",1461,2085
+820,36103,3679246,"West Babylon CDP, New York",14571,15091
+821,36103,3679301,"West Bay Shore CDP, New York",1789,1818
+822,36103,3680170,"Westhampton CDP, New York",1601,2120
+823,36103,3680181,"Westhampton Beach village, New York",2279,2376
+824,36103,3680186,"West Hampton Dunes village, New York",172,272
+825,36103,3680258,"West Hills CDP, New York",2008,2037
+826,36103,3680302,"West Islip CDP, New York",9044,9266
+827,36103,3680885,"West Sayville CDP, New York",2014,2124
+828,36103,3681419,"Wheatley Heights CDP, New York",1494,1517
+829,36103,3683294,"Wyandanch CDP, New York",2776,3157
+830,36103,3683426,"Yaphank CDP, New York",1650,1961
+831,36103,3610304000,"Babylon town, Suffolk County, New York",71186,74233
+832,36103,3610310000,"Brookhaven town, Suffolk County, New York",155406,175026
+833,36103,3610322194,"East Hampton town, Suffolk County, New York",19640,21038
+834,36103,3610337000,"Huntington town, Suffolk County, New York",67708,71948
+835,36103,3610338000,"Islip town, Suffolk County, New York",104278,110665
+836,36103,3610359106,"Poospatuck Reservation, Suffolk County, New York",100,124
+837,36103,3610361984,"Riverhead town, Suffolk County, New York",12479,15424
+838,36103,3610366839,"Shelter Island town, Suffolk County, New York",2370,2754
+839,36103,3610367059,"Shinnecock Reservation, Suffolk County, New York",194,256
+840,36103,3610368000,"Smithtown town, Suffolk County, New York",39357,41381
+841,36103,3610368473,"Southampton town, Suffolk County, New York",35836,41759
+842,36103,3610369463,"Southold town, Suffolk County, New York",13769,15377
+843,36105,3610506310,"Bethel town, Sullivan County, New York",3641,3954
+844,36105,3610511759,"Callicoon town, Sullivan County, New York",1797,2003
+845,36105,3610516661,"Cochecton town, Sullivan County, New York",955,1114
+846,36105,3610520104,"Delaware town, Sullivan County, New York",1337,1535
+847,36105,3610525241,"Fallsburg town, Sullivan County, New York",6661,8497
+848,36105,3610526528,"Forestburgh town, Sullivan County, New York",500,550
+849,36105,3610527573,"Fremont town, Sullivan County, New York",1182,1323
+850,36105,3610534473,"Highland town, Sullivan County, New York",1558,1766
+851,36105,3610542235,"Liberty town, Sullivan County, New York",5350,5495
+852,36105,3610543786,"Lumberland town, Sullivan County, New York",1419,1630
+853,36105,3610544809,"Mamakating town, Sullivan County, New York",5629,6251
+854,36105,3610549847,"Neversink town, Sullivan County, New York",1960,2045
+855,36105,3610563176,"Rockland town, Sullivan County, New York",2475,2755
+856,36105,3610573627,"Thompson town, Sullivan County, New York",9258,9130
+857,36105,3610575759,"Tusten town, Sullivan County, New York",1008,1138
+858,36111,3611120247,"Denning town, Ulster County, New York",517,531
+859,36111,3611124691,"Esopus town, Ulster County, New York",3724,3969
+860,36111,3611128255,"Gardiner town, Ulster County, New York",2255,2610
+861,36111,3611132116,"Hardenburgh town, Ulster County, New York",275,344
+862,36111,3611137143,"Hurley town, Ulster County, New York",2946,3069
+863,36111,3611139727,"Kingston city, Ulster County, New York",10637,11147
+864,36111,3611139738,"Kingston town, Ulster County, New York",398,432
+865,36111,3611142994,"Lloyd town, Ulster County, New York",3818,4419
+866,36111,3611145458,"Marbletown town, Ulster County, New York",2846,2989
+867,36111,3611145722,"Marlborough town, Ulster County, New York",3176,3644
+868,36111,3611150562,"New Paltz town, Ulster County, New York",4679,4877
+869,36111,3611154749,"Olive town, Ulster County, New York",2306,2498
+870,36111,3611158552,"Plattekill town, Ulster County, New York",3888,4242
+871,36111,3611163011,"Rochester town, Ulster County, New York",3750,4019
+872,36111,3611163737,"Rosendale town, Ulster County, New York",2857,2897
+873,36111,3611165299,"Saugerties town, Ulster County, New York",8257,9106
+874,36111,3611166597,"Shandaken town, Ulster County, New York",2666,2776
+875,36111,3611166674,"Shawangunk town, Ulster County, New York",3754,4333
+876,36111,3611175935,"Ulster town, Ulster County, New York",5239,5368
+877,36111,3611178828,"Wawarsing town, Ulster County, New York",5821,6211
+878,36111,3611183052,"Woodstock town, Ulster County, New York",3847,4157
+879,36119,3611905320,"Bedford town, Westchester County, New York",6020,6326
+880,36119,3611918410,"Cortlandt town, Westchester County, New York",14065,15962
+881,36119,3611921820,"Eastchester town, Westchester County, New York",13035,13747
+882,36119,3611930367,"Greenburgh town, Westchester County, New York",34084,35452
+883,36119,3611932413,"Harrison town, Westchester County, New York",8680,8956
+884,36119,3611942136,"Lewisboro town, Westchester County, New York",4465,4854
+885,36119,3611944842,"Mamaroneck town, Westchester County, New York",11255,11562
+886,36119,3611948895,"Mount Kisco town, Westchester County, New York",4103,4289
+887,36119,3611949011,"Mount Pleasant town, Westchester County, New York",13985,14826
+888,36119,3611949121,"Mount Vernon city, Westchester County, New York",27048,28990
+889,36119,3611950078,"New Castle town, Westchester County, New York",5843,6037
+890,36119,3611950617,"New Rochelle city, Westchester County, New York",26995,29586
+891,36119,3611951693,"North Castle town, Westchester County, New York",3706,4135
+892,36119,3611953517,"North Salem town, Westchester County, New York",1979,2082
+893,36119,3611955541,"Ossining town, Westchester County, New York",12733,13386
+894,36119,3611956979,"Peekskill city, Westchester County, New York",9053,9709
+895,36119,3611957012,"Pelham town, Westchester County, New York",4246,4483
+896,36119,3611959685,"Pound Ridge town, Westchester County, New York",1868,2108
+897,36119,3611964309,"Rye city, Westchester County, New York",5559,5957
+898,36119,3611964320,"Rye town, Westchester County, New York",15813,16556
+899,36119,3611965442,"Scarsdale town, Westchester County, New York",5795,5647
+900,36119,3611968308,"Somers town, Westchester County, New York",7098,7982
+901,36119,3611981677,"White Plains city, Westchester County, New York",21576,24382
+902,36119,3611984000,"Yonkers city, Westchester County, New York",77589,80389
+903,36119,3611984077,"Yorktown town, Westchester County, New York",12852,13418

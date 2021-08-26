@@ -12,6 +12,21 @@ stco_fips = ['09001','09005','09009',\
         '36079','36081','36085','36087','36103','36105',\
         '36111','36119']
 
+sub_7 = {'09001':'CT','09005':'CT','09009':'CT',\
+       '34003':'INJ','34013':'INJ','34017':'INJ','34019':'ONJ','34021':'ONJ','34023':'INJ','34025':'ONJ',\
+        '34027':'INJ','34029':'ONJ','34031':'INJ','34035':'INJ','34037':'ONJ','34039':'INJ','34041':'ONJ',\
+        '36005':'NYC','36047':'NYC','36061':'NYC','36081':'NYC','36085':'NYC','36027':'MHV','36071':'MHV',\
+        '36079':'LHV','36087':'LHV','36105':'MHV','36111':'MHV','36119':'LHV','36059':'LI','36103':'LI'}
+
+sub_5 = {'09001':'CT','09005':'CT','09009':'CT',\
+       '34003':'NJ','34013':'NJ','34017':'NJ','34019':'NJ','34021':'NJ','34023':'NJ','34025':'NJ',\
+        '34027':'NJ','34029':'NJ','34031':'NJ','34035':'NJ','34037':'NJ','34039':'NJ','34041':'NJ',\
+        '36005':'NYC','36047':'NYC','36061':'NYC','36081':'NYC','36085':'NYC','36027':'HV','36071':'HV',\
+        '36079':'HV','36087':'HV','36105':'HV','36111':'HV','36119':'HV','36059':'LI','36103':'LI'}
+
+sub_lbl = {'CT':'Connecticut','NJ':'North New Jersey','INJ':'Inner New Jersey','ONJ':'Outer New Jersey',\
+           'NYC':'New York City','LI':'Long Island','HV':'Hudson Valley','LHV':'Lower Hudson Valley',\
+           'MHV':'Mid Hudsonn Valley'}
 
 #full list of alll metro codes we want
 #includes counties (as state-co fips), subdivisions, places for LI and tracts for NYC

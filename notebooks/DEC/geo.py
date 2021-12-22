@@ -26,7 +26,7 @@ sub_5 = {'09001':'CT','09005':'CT','09009':'CT',\
 
 sub_lbl = {'CT':'Connecticut','NJ':'North New Jersey','INJ':'Inner New Jersey','ONJ':'Outer New Jersey',\
            'NYC':'New York City','LI':'Long Island','HV':'Hudson Valley','LHV':'Lower Hudson Valley',\
-           'MHV':'Mid Hudsonn Valley'}
+           'MHV':'Mid Hudson Valley'}
 
 #full list of alll metro codes we want
 #includes counties (as state-co fips), subdivisions, places for LI and tracts for NYC

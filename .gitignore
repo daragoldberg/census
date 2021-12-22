@@ -134,3 +134,4 @@ notebooks/PEP/censusAPI.py
 notebooks/DEC/censusAPI.py
 notebooks/ACS/censusAPI.py
 *.pl
+notebooks/data/cbp/zbp10detail.txt

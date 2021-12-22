@@ -1,0 +1,962 @@
+,id,name,stco,subreg,P_AsianO18,P_BlackO18,P_HispO18,P_NonHispO18,P_O18,P_OtherO18,P_TwoO18,P_WhiteO18,geotype,yr
+0,09001,"Fairfield County, Connecticut",09001,CT,39269,77244,144493,598677,743170,8709,22989,450466,county,2020
+1,09005,"Litchfield County, Connecticut",09005,CT,2719,2342,9635,142244,151879,949,5013,131221,county,2020
+2,09009,"New Haven County, Connecticut",09009,CT,29411,84468,116049,574945,690994,5695,19450,435921,county,2020
+3,36005,"Bronx County, New York",36005,NYC,52705,324265,600336,522739,1123075,13620,21564,110585,county,2020
+4,36027,"Dutchess County, New York",36027,MHV,8800,23827,29630,209993,239623,1836,7787,167743,county,2020
+5,36047,"Kings County, New York",36047,NYC,294905,584397,391547,1748824,2140371,25473,84678,759371,county,2020
+6,36059,"Nassau County, New York",36059,LI,123754,117222,184325,914559,1098884,9509,22902,641172,county,2020
+7,36061,"New York County, New York",36061,NYC,196100,167205,329236,1132504,1461740,12876,45814,710509,county,2020
+8,36071,"Orange County, New York",36071,MHV,9394,31773,61549,237754,299303,6031,8540,182016,county,2020
+9,36079,"Putnam County, New York",36079,LHV,1732,1968,12357,65913,78270,466,1728,60019,county,2020
+10,36081,"Queens County, New York",36081,NYC,538284,308971,516054,1433415,1949469,50589,64694,470877,county,2020
+11,36085,"Richmond County, New York",36085,NYC,46237,35179,68231,321162,389393,2807,7490,229449,county,2020
+12,36087,"Rockland County, New York",36087,LHV,16553,27024,45652,193864,239516,2100,4636,143551,county,2020
+13,36103,"Suffolk County, New York",36103,LI,51719,83946,234093,980319,1214412,8889,25605,810160,county,2020
+14,36105,"Sullivan County, New York",36105,MHV,1345,4939,9582,52204,61786,616,2201,43103,county,2020
+15,36111,"Ulster County, New York",36111,MHV,3129,8327,14859,134598,149457,1269,5504,116369,county,2020
+16,36119,"Westchester County, New York",36119,LHV,50815,104959,193975,588467,782442,6839,19226,406628,county,2020
+17,34003,"Bergen County, New Jersey",34003,INJ,125126,40286,150353,604881,755234,5086,14516,419867,county,2020
+18,34013,"Essex County, New Jersey",34013,INJ,36581,248175,151967,509541,661508,9884,23120,191781,county,2020
+19,34017,"Hudson County, New Jersey",34017,INJ,103391,56632,225167,357584,582751,7478,13958,176125,county,2020
+20,34019,"Hunterdon County, New Jersey",34019,ONJ,4429,2546,7427,96593,104020,451,2434,86733,county,2020
+21,34021,"Mercer County, New Jersey",34021,ONJ,37076,56286,58353,246319,304672,1610,7236,144111,county,2020
+22,34023,"Middlesex County, New Jersey",34023,INJ,174301,62024,138338,541671,680009,5821,13589,285936,county,2020
+23,34025,"Monmouth County, New Jersey",34025,ONJ,28594,31075,55060,456610,511670,3861,13878,379202,county,2020
+24,34027,"Morris County, New Jersey",34027,INJ,44819,12488,55405,348188,403593,1934,8821,280126,county,2020
+25,34029,"Ocean County, New Jersey",34029,ONJ,9363,13619,44406,438194,482600,2664,10710,401838,county,2020
+26,34031,"Passaic County, New Jersey",34031,INJ,23914,40615,162368,241448,403816,2545,6758,167616,county,2020
+27,34035,"Somerset County, New Jersey",34035,INJ,50298,23830,40896,230308,271204,1577,6296,148307,county,2020
+28,34037,"Sussex County, New Jersey",34037,ONJ,2403,2206,9902,106543,116445,630,3183,98121,county,2020
+29,34039,"Union County, New Jersey",34039,INJ,25018,87934,141485,299371,440856,4384,11270,170765,county,2020
+30,34041,"Warren County, New Jersey",34041,ONJ,2304,4018,8260,79559,87819,434,2559,70244,county,2020
+0,CT,Connecticut,,CT,71399,164054,270177,1315866,1586043,15353,47452,1017608,subregion,2020
+1,INJ,Inner New Jersey,,INJ,583448,571984,1065979,3132992,4198971,38709,98328,1840523,subregion,2020
+2,LHV,Lower Hudson Valley,,LHV,69100,133951,251984,848244,1100228,9405,25590,610198,subregion,2020
+3,LI,Long Island,,LI,175473,201168,418418,1894878,2313296,18398,48507,1451332,subregion,2020
+4,MHV,Mid Hudson Valley,,MHV,22668,68866,115620,634549,750169,9752,24032,509231,subregion,2020
+5,NYC,New York City,,NYC,1128231,1420017,1905404,5158644,7064048,105365,224240,2280791,subregion,2020
+6,ONJ,Outer New Jersey,,ONJ,84169,109750,183408,1423818,1607226,9650,40000,1180249,subregion,2020
+0,36005CS,BX Central and South,36005,NYC,28957,93554,205338,164856,370194,5492,7344,29509,municipality,2020
+1,36005NE,BX North and East,36005,NYC,6515,100300,65734,150689,216423,3191,5376,35307,municipality,2020
+2,36005W,BX West,36005,NYC,17233,130411,329264,207194,536458,4937,8844,45769,municipality,2020
+3,36047C,BK Central,36047,NYC,19035,291571,45339,433246,478585,6379,26766,89495,municipality,2020
+4,36047E,BK East,36047,NYC,12320,122985,70734,159111,229845,4197,11276,8333,municipality,2020
+5,36047N,BK North,36047,NYC,24632,74437,107150,265580,372730,4594,14146,147771,municipality,2020
+6,36047S,BK Southern,36047,NYC,172701,58818,94659,626887,721546,7429,21016,366923,municipality,2020
+7,36047W,BK West,36047,NYC,66217,36586,73665,264000,337665,2874,11474,146849,municipality,2020
+8,36061E,MN East Side,36061,NYC,48864,10777,28063,319060,347123,2711,10280,246428,municipality,2020
+9,36061L,MN Lower,36061,NYC,67714,15071,44133,249526,293659,2451,9726,154564,municipality,2020
+10,36061U,MN Upper,36061,NYC,30711,118244,207190,268903,476093,4531,14334,101083,municipality,2020
+11,36061WM,MN West Side and Midtown,36061,NYC,48811,23113,49850,295015,344865,3183,11474,208434,municipality,2020
+12,36081NE,QN Northeast,36081,NYC,227045,23483,73155,384198,457353,4465,8141,121064,municipality,2020
+13,36081NW,QN Northwest,36081,NYC,196688,33911,296743,514002,810745,8390,18199,256814,municipality,2020
+14,36081SE,QN Southeast,36081,NYC,61462,228330,73425,381785,455210,17184,23387,51422,municipality,2020
+15,36081SW,QN Southwest,36081,NYC,53089,23247,72731,153430,226161,20550,14967,41577,municipality,2020
+16,36085C,SI Central,36085,NYC,20472,3932,14825,97866,112691,737,1857,70868,municipality,2020
+17,36085N,SI North,36085,NYC,16490,29868,40920,104527,145447,1475,3746,52948,municipality,2020
+18,36085S,SI South,36085,NYC,9275,1379,12486,118769,131255,595,1887,105633,municipality,2020
+0,900104720,"Bethel town, Fairfield County, Connecticut",9001,CT,913,412,1715,14186,15901,314,746,11801,municipality,2020
+1,900108070,"Bridgeport town, Fairfield County, Connecticut",9001,CT,3243,37393,44748,68968,113716,2312,4037,21983,municipality,2020
+2,900108980,"Brookfield town, Fairfield County, Connecticut",9001,CT,706,227,936,12888,13824,143,533,11279,municipality,2020
+3,900118500,"Danbury town, Fairfield County, Connecticut",9001,CT,4308,4452,20168,48080,68248,2231,4209,32880,municipality,2020
+4,900118850,"Darien town, Fairfield County, Connecticut",9001,CT,821,112,797,13871,14668,67,365,12506,municipality,2020
+5,900123890,"Easton town, Fairfield County, Connecticut",9001,CT,251,80,289,5501,5790,34,147,4989,municipality,2020
+6,900126620,"Fairfield town, Fairfield County, Connecticut",9001,CT,2154,860,3406,44297,47703,313,1195,39775,municipality,2020
+7,900133620,"Greenwich town, Fairfield County, Connecticut",9001,CT,3576,906,5654,42285,47939,479,1587,35737,municipality,2020
+8,900148620,"Monroe town, Fairfield County, Connecticut",9001,CT,477,293,975,13574,14549,81,349,12374,municipality,2020
+9,900150580,"New Canaan town, Fairfield County, Connecticut",9001,CT,809,160,685,13889,14574,59,343,12518,municipality,2020
+10,900150860,"New Fairfield town, Fairfield County, Connecticut",9001,CT,207,111,765,9964,10729,83,249,9314,municipality,2020
+11,900152980,"Newtown town, Fairfield County, Connecticut",9001,CT,583,498,1184,20111,21295,114,556,18360,municipality,2020
+12,900156060,"Norwalk town, Fairfield County, Connecticut",9001,CT,3900,8760,19680,53002,72682,499,1680,38163,municipality,2020
+13,900163480,"Redding town, Fairfield County, Connecticut",9001,CT,191,55,287,6631,6918,47,172,6166,municipality,2020
+14,900163970,"Ridgefield town, Fairfield County, Connecticut",9001,CT,890,181,932,17727,18659,123,452,16081,municipality,2020
+15,900168170,"Shelton town, Fairfield County, Connecticut",9001,CT,1429,1335,2799,30940,33739,240,760,27176,municipality,2020
+16,900168310,"Sherman town, Fairfield County, Connecticut",9001,CT,32,24,102,2823,2925,6,87,2674,municipality,2020
+17,900173070,"Stamford town, Fairfield County, Connecticut",9001,CT,9252,12819,27527,81188,108715,797,2447,55873,municipality,2020
+18,900174190,"Stratford town, Fairfield County, Connecticut",9001,CT,1059,6895,7644,34332,41976,362,1245,24771,municipality,2020
+19,900177200,"Trumbull town, Fairfield County, Connecticut",9001,CT,1728,1148,2237,25530,27767,204,681,21769,municipality,2020
+20,900183430,"Weston town, Fairfield County, Connecticut",9001,CT,409,105,375,7095,7470,44,237,6300,municipality,2020
+21,900183500,"Westport town, Fairfield County, Connecticut",9001,CT,1245,267,1009,18934,19943,93,529,16800,municipality,2020
+22,900186370,"Wilton town, Fairfield County, Connecticut",9001,CT,1086,151,579,12861,13440,64,383,11177,municipality,2020
+23,900502760,"Barkhamsted town, Litchfield County, Connecticut",9005,CT,22,7,56,2908,2964,11,91,2777,municipality,2020
+24,900504930,"Bethlehem town, Litchfield County, Connecticut",9005,CT,20,24,63,2791,2854,15,72,2660,municipality,2020
+25,900508210,"Bridgewater town, Litchfield County, Connecticut",9005,CT,8,14,37,1418,1455,9,54,1333,municipality,2020
+26,900510940,"Canaan town, Litchfield County, Connecticut",9005,CT,1,15,33,865,898,7,12,830,municipality,2020
+27,900516050,"Colebrook town, Litchfield County, Connecticut",9005,CT,2,3,22,1138,1160,8,43,1082,municipality,2020
+28,900517240,"Cornwall town, Litchfield County, Connecticut",9005,CT,17,0,40,1315,1355,6,38,1254,municipality,2020
+29,900532290,"Goshen town, Litchfield County, Connecticut",9005,CT,28,16,88,2519,2607,4,67,2404,municipality,2020
+30,900537280,"Harwinton town, Litchfield County, Connecticut",9005,CT,31,25,114,4257,4371,11,111,4079,municipality,2020
+31,900540290,"Kent town, Litchfield County, Connecticut",9005,CT,65,26,110,2428,2538,23,88,2226,municipality,2020
+32,900543370,"Litchfield town, Litchfield County, Connecticut",9005,CT,93,34,186,6673,6859,23,184,6339,municipality,2020
+33,900549460,"Morris town, Litchfield County, Connecticut",9005,CT,10,8,39,1835,1874,6,49,1762,municipality,2020
+34,900551350,"New Hartford town, Litchfield County, Connecticut",9005,CT,60,18,112,5301,5413,33,156,5034,municipality,2020
+35,900552630,"New Milford town, Litchfield County, Connecticut",9005,CT,761,484,2238,20142,22380,223,1014,17660,municipality,2020
+36,900553470,"Norfolk town, Litchfield County, Connecticut",9005,CT,18,8,27,1302,1329,4,32,1240,municipality,2020
+37,900554030,"North Canaan town, Litchfield County, Connecticut",9005,CT,13,26,192,2462,2654,11,98,2314,municipality,2020
+38,900560750,"Plymouth town, Litchfield County, Connecticut",9005,CT,101,113,454,9165,9619,33,392,8526,municipality,2020
+39,900565930,"Roxbury town, Litchfield County, Connecticut",9005,CT,29,9,48,1882,1930,9,64,1771,municipality,2020
+40,900566420,"Salisbury town, Litchfield County, Connecticut",9005,CT,51,53,138,3293,3431,34,104,3051,municipality,2020
+41,900567960,"Sharon town, Litchfield County, Connecticut",9005,CT,34,34,79,2259,2338,24,63,2104,municipality,2020
+42,900575730,"Thomaston town, Litchfield County, Connecticut",9005,CT,61,52,209,5874,6083,35,194,5532,municipality,2020
+43,900576570,"Torrington town, Litchfield County, Connecticut",9005,CT,707,834,3489,25477,28966,173,1059,22704,municipality,2020
+44,900579510,"Warren town, Litchfield County, Connecticut",9005,CT,8,0,28,1078,1106,9,40,1021,municipality,2020
+45,900579720,"Washington town, Litchfield County, Connecticut",9005,CT,41,22,144,2889,3033,19,73,2734,municipality,2020
+46,900580490,"Watertown town, Litchfield County, Connecticut",9005,CT,331,319,896,17059,17955,105,395,15909,municipality,2020
+47,900586440,"Winchester town, Litchfield County, Connecticut",9005,CT,90,101,463,8090,8553,52,300,7547,municipality,2020
+48,900587910,"Woodbury town, Litchfield County, Connecticut",9005,CT,117,97,330,7824,8154,62,220,7328,municipality,2020
+49,900900000,"County subdivisions not defined, New Haven County, Connecticut",9009,CT,0,0,0,0,0,0,0,0,municipality,2020
+50,900901220,"Ansonia town, New Haven County, Connecticut",9009,CT,294,1773,2982,11962,14944,102,477,9316,municipality,2020
+51,900903250,"Beacon Falls town, New Haven County, Connecticut",9009,CT,68,93,275,4609,4884,37,129,4282,municipality,2020
+52,900904580,"Bethany town, New Haven County, Connecticut",9009,CT,188,80,130,4125,4255,21,109,3727,municipality,2020
+53,900907310,"Branford town, New Haven County, Connecticut",9009,CT,1057,535,1311,22904,24215,125,555,20632,municipality,2020
+54,900914160,"Cheshire town, New Haven County, Connecticut",9009,CT,1303,1053,1266,21477,22743,98,501,18522,municipality,2020
+55,900919550,"Derby town, New Haven County, Connecticut",9009,CT,273,957,1771,8215,9986,65,224,6696,municipality,2020
+56,900922910,"East Haven town, New Haven County, Connecticut",9009,CT,864,995,3487,19806,23293,118,509,17320,municipality,2020
+57,900934950,"Guilford town, New Haven County, Connecticut",9009,CT,591,162,715,16902,17617,51,464,15634,municipality,2020
+58,900935650,"Hamden town, New Haven County, Connecticut",9009,CT,2730,11648,5608,45050,50658,417,1348,28907,municipality,2020
+59,900944560,"Madison town, New Haven County, Connecticut",9009,CT,441,106,418,13752,14170,65,305,12835,municipality,2020
+60,900946520,"Meriden town, New Haven County, Connecticut",9009,CT,1018,4299,15192,32349,47541,263,1341,25428,municipality,2020
+61,900946940,"Middlebury town, New Haven County, Connecticut",9009,CT,274,57,209,5717,5926,18,114,5254,municipality,2020
+62,900947535,"Milford town, New Haven County, Connecticut",9009,CT,2175,1210,2895,40649,43544,279,1214,35771,municipality,2020
+63,900949950,"Naugatuck town, New Haven County, Connecticut",9009,CT,548,1633,3135,21737,24872,420,1133,18003,municipality,2020
+64,900952070,"New Haven town, New Haven County, Connecticut",9009,CT,7869,30963,28498,76512,105010,992,3334,33354,municipality,2020
+65,900953890,"North Branford town, New Haven County, Connecticut",9009,CT,194,123,438,10647,11085,26,199,10105,municipality,2020
+66,900954870,"North Haven town, New Haven County, Connecticut",9009,CT,1144,697,1007,18764,19771,103,343,16477,municipality,2020
+67,900957600,"Orange town, New Haven County, Connecticut",9009,CT,1094,204,452,10787,11239,54,271,9164,municipality,2020
+68,900958300,"Oxford town, New Haven County, Connecticut",9009,CT,164,99,433,9749,10182,41,226,9219,municipality,2020
+69,900962290,"Prospect town, New Haven County, Connecticut",9009,CT,82,150,289,7294,7583,27,198,6837,municipality,2020
+70,900967610,"Seymour town, New Haven County, Connecticut",9009,CT,319,536,1165,12321,13486,78,322,11066,municipality,2020
+71,900969640,"Southbury town, New Haven County, Connecticut",9009,CT,448,144,557,15973,16530,68,359,14954,municipality,2020
+72,900978740,"Wallingford town, New Haven County, Connecticut",9009,CT,1353,642,3242,33014,36256,178,901,29940,municipality,2020
+73,900980070,"Waterbury town, New Haven County, Connecticut",9009,CT,1771,16799,30304,55752,86056,1543,3033,32606,municipality,2020
+74,900982870,"West Haven town, New Haven County, Connecticut",9009,CT,2083,9013,9264,35852,45116,361,1328,23067,municipality,2020
+75,900987560,"Wolcott town, New Haven County, Connecticut",9009,CT,199,290,672,12391,13063,79,349,11474,municipality,2020
+76,900987700,"Woodbridge town, New Haven County, Connecticut",9009,CT,867,207,334,6635,6969,66,164,5331,municipality,2020
+77,3400300700,"Allendale borough, Bergen County, New Jersey",34003,INJ,612,38,326,4893,5219,14,103,4126,municipality,2020
+78,3400301090,"Alpine borough, Bergen County, New Jersey",34003,INJ,459,41,89,1314,1403,3,29,782,municipality,2020
+79,3400305170,"Bergenfield borough, Bergen County, New Jersey",34003,INJ,5993,1529,6721,15235,21956,202,313,7198,municipality,2020
+80,3400306490,"Bogota borough, Bergen County, New Jersey",34003,INJ,613,464,3368,3616,6984,77,132,2330,municipality,2020
+81,3400310480,"Carlstadt borough, Bergen County, New Jersey",34003,INJ,513,95,1155,4047,5202,38,92,3309,municipality,2020
+82,3400313570,"Cliffside Park borough, Bergen County, New Jersey",34003,INJ,3289,540,6801,14305,21106,277,549,9650,municipality,2020
+83,3400313810,"Closter borough, Bergen County, New Jersey",34003,INJ,2184,66,513,5938,6451,25,149,3514,municipality,2020
+84,3400315820,"Cresskill borough, Bergen County, New Jersey",34003,INJ,2012,57,445,6323,6768,15,115,4124,municipality,2020
+85,3400317530,"Demarest borough, Bergen County, New Jersey",34003,INJ,1130,31,186,3506,3692,23,78,2244,municipality,2020
+86,3400318400,"Dumont borough, Bergen County, New Jersey",34003,INJ,2493,370,2732,11519,14251,79,282,8295,municipality,2020
+87,3400319510,"East Rutherford borough, Bergen County, New Jersey",34003,INJ,1270,347,1936,6298,8234,92,157,4432,municipality,2020
+88,3400320020,"Edgewater borough, Bergen County, New Jersey",34003,INJ,4005,622,1501,10116,11617,77,270,5142,municipality,2020
+89,3400321300,"Elmwood Park borough, Bergen County, New Jersey",34003,INJ,1929,1099,4434,12765,17199,201,302,9234,municipality,2020
+90,3400321450,"Emerson borough, Bergen County, New Jersey",34003,INJ,567,81,622,5133,5755,18,101,4366,municipality,2020
+91,3400321480,"Englewood city, Bergen County, New Jersey",34003,INJ,2521,5934,7300,15913,23213,251,553,6654,municipality,2020
+92,3400321510,"Englewood Cliffs borough, Bergen County, New Jersey",34003,INJ,1982,76,260,3969,4229,14,49,1848,municipality,2020
+93,3400322470,"Fair Lawn borough, Bergen County, New Jersey",34003,INJ,3297,600,3758,23254,27012,125,460,18772,municipality,2020
+94,3400322560,"Fairview borough, Bergen County, New Jersey",34003,INJ,618,202,7516,4170,11686,172,234,2944,municipality,2020
+95,3400324420,"Fort Lee borough, Bergen County, New Jersey",34003,INJ,13804,941,4152,29170,33322,195,557,13673,municipality,2020
+96,3400324990,"Franklin Lakes borough, Bergen County, New Jersey",34003,INJ,833,119,539,8024,8563,29,135,6908,municipality,2020
+97,3400325770,"Garfield city, Bergen County, New Jersey",34003,INJ,803,1237,9208,16029,25237,163,305,13521,municipality,2020
+98,3400326640,"Glen Rock borough, Bergen County, New Jersey",34003,INJ,1076,133,519,8172,8691,25,179,6759,municipality,2020
+99,3400328680,"Hackensack city, Bergen County, New Jersey",34003,INJ,4031,7923,14785,23197,37982,362,678,10203,municipality,2020
+100,3400330150,"Harrington Park borough, Bergen County, New Jersey",34003,INJ,743,18,185,3403,3588,14,65,2563,municipality,2020
+101,3400330420,"Hasbrouck Heights borough, Bergen County, New Jersey",34003,INJ,1131,270,1814,7858,9672,58,176,6223,municipality,2020
+102,3400330540,"Haworth borough, Bergen County, New Jersey",34003,INJ,416,38,122,2431,2553,10,54,1913,municipality,2020
+103,3400331920,"Hillsdale borough, Bergen County, New Jersey",34003,INJ,566,78,742,7077,7819,40,125,6268,municipality,2020
+104,3400332310,"Ho-Ho-Kus borough, Bergen County, New Jersey",34003,INJ,236,22,184,2915,3099,19,32,2606,municipality,2020
+105,3400340020,"Leonia borough, Bergen County, New Jersey",34003,INJ,2997,169,1207,6070,7277,26,123,2755,municipality,2020
+106,3400340680,"Little Ferry borough, Bergen County, New Jersey",34003,INJ,2323,390,2666,6386,9052,65,169,3439,municipality,2020
+107,3400341100,"Lodi borough, Bergen County, New Jersey",34003,INJ,1802,1592,8003,13001,21004,137,354,9116,municipality,2020
+108,3400342090,"Lyndhurst township, Bergen County, New Jersey",34003,INJ,1377,505,4506,13882,18388,149,390,11461,municipality,2020
+109,3400342750,"Mahwah township, Bergen County, New Jersey",34003,INJ,2196,592,1637,19726,21363,147,453,16338,municipality,2020
+110,3400344880,"Maywood borough, Bergen County, New Jersey",34003,INJ,1142,450,1897,6183,8080,66,131,4394,municipality,2020
+111,3400346110,"Midland Park borough, Bergen County, New Jersey",34003,INJ,189,59,489,5096,5585,24,88,4736,municipality,2020
+112,3400347610,"Montvale borough, Bergen County, New Jersey",34003,INJ,938,98,436,6056,6492,15,110,4895,municipality,2020
+113,3400347700,"Moonachie borough, Bergen County, New Jersey",34003,INJ,270,15,939,1547,2486,14,33,1215,municipality,2020
+114,3400351660,"New Milford borough, Bergen County, New Jersey",34003,INJ,2824,618,2410,11166,13576,98,276,7350,municipality,2020
+115,3400352320,"North Arlington borough, Bergen County, New Jersey",34003,INJ,956,230,3869,9578,13447,115,341,7936,municipality,2020
+116,3400353430,"Northvale borough, Bergen County, New Jersey",34003,INJ,974,41,411,3350,3761,13,82,2240,municipality,2020
+117,3400353610,"Norwood borough, Bergen County, New Jersey",34003,INJ,1366,51,284,4146,4430,5,68,2656,municipality,2020
+118,3400353850,"Oakland borough, Bergen County, New Jersey",34003,INJ,479,104,791,9160,9951,33,226,8318,municipality,2020
+119,3400354870,"Old Tappan borough, Bergen County, New Jersey",34003,INJ,1183,44,271,4279,4550,7,79,2966,municipality,2020
+120,3400354990,"Oradell borough, Bergen County, New Jersey",34003,INJ,896,51,502,5793,6295,27,101,4718,municipality,2020
+121,3400355770,"Palisades Park borough, Bergen County, New Jersey",34003,INJ,10443,213,3516,13422,16938,64,166,2536,municipality,2020
+122,3400355950,"Paramus borough, Bergen County, New Jersey",34003,INJ,5459,356,2053,19538,21591,114,557,13052,municipality,2020
+123,3400356130,"Park Ridge borough, Bergen County, New Jersey",34003,INJ,501,77,621,6490,7111,27,111,5774,municipality,2020
+124,3400361680,"Ramsey borough, Bergen County, New Jersey",34003,INJ,893,100,905,10517,11422,51,180,9293,municipality,2020
+125,3400362910,"Ridgefield borough, Bergen County, New Jersey",34003,INJ,2781,153,2489,6841,9330,93,156,3658,municipality,2020
+126,3400362940,"Ridgefield Park village, Bergen County, New Jersey",34003,INJ,1207,523,4629,5972,10601,68,225,3949,municipality,2020
+127,3400363000,"Ridgewood village, Bergen County, New Jersey",34003,INJ,3150,266,1309,17149,18458,65,449,13219,municipality,2020
+128,3400363360,"River Edge borough, Bergen County, New Jersey",34003,INJ,2427,213,957,8107,9064,33,149,5285,municipality,2020
+129,3400363690,"River Vale township, Bergen County, New Jersey",34003,INJ,736,95,502,7215,7717,27,131,6226,municipality,2020
+130,3400363990,"Rochelle Park township, Bergen County, New Jersey",34003,INJ,510,163,1157,3654,4811,25,99,2857,municipality,2020
+131,3400364170,"Rockleigh borough, Bergen County, New Jersey",34003,INJ,27,9,15,335,350,1,7,291,municipality,2020
+132,3400365280,"Rutherford borough, Bergen County, New Jersey",34003,INJ,2115,551,2537,12507,15044,126,418,9297,municipality,2020
+133,3400365340,"Saddle Brook township, Bergen County, New Jersey",34003,INJ,1015,361,1967,9619,11586,42,173,8028,municipality,2020
+134,3400365400,"Saddle River borough, Bergen County, New Jersey",34003,INJ,367,54,156,2645,2801,23,55,2146,municipality,2020
+135,3400368970,"South Hackensack township, Bergen County, New Jersey",34003,INJ,148,102,895,1229,2124,13,29,937,municipality,2020
+136,3400372360,"Teaneck township, Bergen County, New Jersey",34003,INJ,3579,7636,6554,25214,31768,441,917,12641,municipality,2020
+137,3400372420,"Tenafly borough, Bergen County, New Jersey",34003,INJ,3216,162,756,10107,10863,59,234,6436,municipality,2020
+138,3400372480,"Teterboro borough, Bergen County, New Jersey",34003,INJ,1,5,16,28,44,0,1,21,municipality,2020
+139,3400375140,"Upper Saddle River borough, Bergen County, New Jersey",34003,INJ,898,94,354,5898,6252,21,145,4740,municipality,2020
+140,3400376400,"Waldwick borough, Bergen County, New Jersey",34003,INJ,488,86,870,6810,7680,19,124,6093,municipality,2020
+141,3400376490,"Wallington borough, Bergen County, New Jersey",34003,INJ,576,271,1677,8035,9712,81,120,6987,municipality,2020
+142,3400377135,"Washington township, Bergen County, New Jersey",34003,INJ,461,68,526,6826,7352,13,112,6172,municipality,2020
+143,3400380270,"Westwood borough, Bergen County, New Jersey",34003,INJ,724,373,1160,7822,8982,26,202,6497,municipality,2020
+144,3400382300,"Woodcliff Lake borough, Bergen County, New Jersey",34003,INJ,402,46,282,4413,4695,14,89,3862,municipality,2020
+145,3400382570,"Wood-Ridge borough, Bergen County, New Jersey",34003,INJ,1310,266,1264,6867,8131,62,127,5102,municipality,2020
+146,3400383050,"Wyckoff township, Bergen County, New Jersey",34003,INJ,654,63,955,11612,12567,19,242,10634,municipality,2020
+147,3401304695,"Belleville township, Essex County, New Jersey",34013,INJ,3584,2512,14399,16333,30732,411,626,9200,municipality,2020
+148,3401306260,"Bloomfield township, Essex County, New Jersey",34013,INJ,3817,8009,11794,30956,42750,598,1347,17185,municipality,2020
+149,3401309250,"Caldwell borough, Essex County, New Jersey",34013,INJ,468,388,968,6511,7479,45,140,5470,municipality,2020
+150,3401311200,"Cedar Grove township, Essex County, New Jersey",34013,INJ,837,268,1078,9432,10510,63,219,8045,municipality,2020
+151,3401313045,"City of Orange township, Essex County, New Jersey",34013,INJ,251,16778,6973,19097,26070,209,943,916,municipality,2020
+152,3401319390,"East Orange city, Essex County, New Jersey",34013,INJ,428,42375,6278,47318,53596,613,2643,1259,municipality,2020
+153,3401321840,"Essex Fells borough, Essex County, New Jersey",34013,INJ,72,18,83,1594,1677,4,35,1465,municipality,2020
+154,3401322385,"Fairfield township, Essex County, New Jersey",34013,INJ,275,24,475,5704,6179,19,99,5287,municipality,2020
+155,3401326610,"Glen Ridge borough, Essex County, New Jersey",34013,INJ,424,232,329,5112,5441,30,202,4224,municipality,2020
+156,3401334450,"Irvington township, Essex County, New Jersey",34013,INJ,361,36682,6168,39947,46115,373,1646,885,municipality,2020
+157,3401340890,"Livingston township, Essex County, New Jersey",34013,INJ,6348,693,1094,22229,23323,140,384,14664,municipality,2020
+158,3401343800,"Maplewood township, Essex County, New Jersey",34013,INJ,782,6048,1435,17341,18776,140,743,9628,municipality,2020
+159,3401346380,"Millburn township, Essex County, New Jersey",34013,INJ,4627,332,652,14635,15287,92,369,9215,municipality,2020
+160,3401347500,"Montclair township, Essex County, New Jersey",34013,INJ,1633,7432,3062,28318,31380,360,1255,17638,municipality,2020
+161,3401351000,"Newark city, Essex County, New Jersey",34013,INJ,4188,111203,82955,152171,235126,5934,9609,21237,municipality,2020
+162,3401352620,"North Caldwell borough, Essex County, New Jersey",34013,INJ,381,57,285,4758,5043,8,93,4219,municipality,2020
+163,3401353680,"Nutley township, Essex County, New Jersey",34013,INJ,2755,761,4083,19989,24072,147,472,15854,municipality,2020
+164,3401364590,"Roseland borough, Essex County, New Jersey",34013,INJ,421,152,278,4859,5137,26,93,4167,municipality,2020
+165,3401369274,"South Orange Village township, Essex County, New Jersey",34013,INJ,1036,3172,1227,13333,14560,228,512,8385,municipality,2020
+166,3401375815,"Verona township, Essex County, New Jersey",34013,INJ,552,273,921,10398,11319,44,229,9300,municipality,2020
+167,3401378510,"West Caldwell township, Essex County, New Jersey",34013,INJ,376,111,647,7950,8597,44,188,7231,municipality,2020
+168,3401379800,"West Orange township, Essex County, New Jersey",34013,INJ,2965,10655,6783,31556,38339,356,1273,16307,municipality,2020
+169,3401703580,"Bayonne city, Hudson County, New Jersey",34017,INJ,5505,5500,15855,39992,55847,494,1314,27179,municipality,2020
+170,3401719360,"East Newark borough, Hudson County, New Jersey",34017,INJ,231,49,1228,829,2057,58,57,434,municipality,2020
+171,3401728650,"Guttenberg town, Hudson County, New Jersey",34017,INJ,921,304,6067,3526,9593,67,124,2110,municipality,2020
+172,3401730210,"Harrison town, Hudson County, New Jersey",34017,INJ,4391,642,5864,10240,16104,401,646,4160,municipality,2020
+173,3401732250,"Hoboken city, Hudson County, New Jersey",34017,INJ,5513,1885,6738,44284,51022,411,1291,35184,municipality,2020
+174,3401736000,"Jersey City city, Hudson County, New Jersey",34017,INJ,68293,42352,55476,180269,235745,3750,6586,59288,municipality,2020
+175,3401736510,"Kearny town, Hudson County, New Jersey",34017,INJ,1761,1118,15360,18139,33499,1038,1610,12612,municipality,2020
+176,3401752470,"North Bergen township, Hudson County, New Jersey",34017,INJ,3692,1231,35685,15580,51265,409,658,9590,municipality,2020
+177,3401766570,"Secaucus town, Hudson County, New Jersey",34017,INJ,5635,760,3643,14475,18118,107,316,7657,municipality,2020
+178,3401774630,"Union City city, Hudson County, New Jersey",34017,INJ,2082,1149,43377,9723,53100,343,520,5629,municipality,2020
+179,3401777930,"Weehawken township, Hudson County, New Jersey",34017,INJ,2216,571,4531,9831,14362,99,346,6599,municipality,2020
+180,3401779610,"West New York town, Hudson County, New Jersey",34017,INJ,3151,1071,31343,10696,42039,301,490,5683,municipality,2020
+181,3401900550,"Alexandria township, Hunterdon County, New Jersey",34019,ONJ,78,55,191,3674,3865,31,104,3406,municipality,2020
+182,3401905650,"Bethlehem township, Hunterdon County, New Jersey",34019,ONJ,72,28,129,2844,2973,8,71,2665,municipality,2020
+183,3401906370,"Bloomsbury borough, Hunterdon County, New Jersey",34019,ONJ,11,18,36,622,658,4,16,573,municipality,2020
+184,3401909280,"Califon borough, Hunterdon County, New Jersey",34019,ONJ,11,1,27,770,797,6,26,726,municipality,2020
+185,3401913720,"Clinton town, Hunterdon County, New Jersey",34019,ONJ,175,42,198,1964,2162,14,45,1688,municipality,2020
+186,3401913750,"Clinton township, Hunterdon County, New Jersey",34019,ONJ,588,723,814,10126,10940,49,262,8504,municipality,2020
+187,3401917170,"Delaware township, Hunterdon County, New Jersey",34019,ONJ,44,25,182,3614,3796,17,86,3442,municipality,2020
+188,3401918820,"East Amwell township, Hunterdon County, New Jersey",34019,ONJ,60,31,134,3143,3277,23,71,2958,municipality,2020
+189,3401923700,"Flemington borough, Hunterdon County, New Jersey",34019,ONJ,249,96,1228,2363,3591,11,72,1935,municipality,2020
+190,3401924870,"Franklin township, Hunterdon County, New Jersey",34019,ONJ,51,21,145,2526,2671,19,91,2344,municipality,2020
+191,3401925350,"Frenchtown borough, Hunterdon County, New Jersey",34019,ONJ,17,13,69,1041,1110,13,31,967,municipality,2020
+192,3401926550,"Glen Gardner borough, Hunterdon County, New Jersey",34019,ONJ,15,44,100,1264,1364,13,32,1160,municipality,2020
+193,3401929460,"Hampton borough, Hunterdon County, New Jersey",34019,ONJ,31,22,99,1070,1169,7,34,976,municipality,2020
+194,3401931320,"High Bridge borough, Hunterdon County, New Jersey",34019,ONJ,88,28,217,2568,2785,7,65,2380,municipality,2020
+195,3401932460,"Holland township, Hunterdon County, New Jersey",34019,ONJ,40,24,154,4027,4181,9,102,3852,municipality,2020
+196,3401937065,"Kingwood township, Hunterdon County, New Jersey",34019,ONJ,33,33,89,3009,3098,7,87,2849,municipality,2020
+197,3401938610,"Lambertville city, Hunterdon County, New Jersey",34019,ONJ,55,64,356,3207,3563,14,76,2998,municipality,2020
+198,3401939630,"Lebanon borough, Hunterdon County, New Jersey",34019,ONJ,56,49,91,1289,1380,1,35,1148,municipality,2020
+199,3401939660,"Lebanon township, Hunterdon County, New Jersey",34019,ONJ,100,44,224,4787,5011,30,125,4488,municipality,2020
+200,3401946260,"Milford borough, Hunterdon County, New Jersey",34019,ONJ,5,9,55,941,996,6,20,901,municipality,2020
+201,3401961920,"Raritan township, Hunterdon County, New Jersey",34019,ONJ,1594,450,1269,17142,18411,79,427,14592,municipality,2020
+202,3401962250,"Readington township, Hunterdon County, New Jersey",34019,ONJ,615,166,825,12225,13050,25,275,11144,municipality,2020
+203,3401970980,"Stockton borough, Hunterdon County, New Jersey",34019,ONJ,8,0,9,421,430,1,12,400,municipality,2020
+204,3401972510,"Tewksbury township, Hunterdon County, New Jersey",34019,ONJ,181,49,223,4542,4765,31,116,4165,municipality,2020
+205,3401974420,"Union township, Hunterdon County, New Jersey",34019,ONJ,195,459,443,5110,5553,20,106,4330,municipality,2020
+206,3401978230,"West Amwell township, Hunterdon County, New Jersey",34019,ONJ,57,52,120,2304,2424,6,47,2142,municipality,2020
+207,3402119780,"East Windsor township, Mercer County, New Jersey",34021,ONJ,5501,2075,5442,18254,23696,141,464,10073,municipality,2020
+208,3402122185,"Ewing township, Mercer County, New Jersey",34021,ONJ,1681,9278,3668,28042,31710,232,860,15991,municipality,2020
+209,3402129310,"Hamilton township, Mercer County, New Jersey",34021,ONJ,3435,9068,12512,62046,74558,292,1658,47593,municipality,2020
+210,3402131620,"Hightstown borough, Mercer County, New Jersey",34021,ONJ,272,327,1462,3090,4552,24,134,2333,municipality,2020
+211,3402133150,"Hopewell borough, Mercer County, New Jersey",34021,ONJ,27,27,67,1444,1511,8,44,1338,municipality,2020
+212,3402133180,"Hopewell township, Mercer County, New Jersey",34021,ONJ,1459,486,713,12928,13641,61,347,10575,municipality,2020
+213,3402139510,"Lawrence township, Mercer County, New Jersey",34021,ONJ,4681,3065,2651,24380,27031,145,743,15746,municipality,2020
+214,3402157600,"Pennington borough, Mercer County, New Jersey",34021,ONJ,68,37,43,2066,2109,4,46,1911,municipality,2020
+215,3402160900,"Princeton borough, Mercer County, New Jersey",34021,ONJ,5540,1459,2277,22927,25204,151,960,14817,municipality,2020
+216,3402163850,"Robbinsville township, Mercer County, New Jersey",34021,ONJ,2887,371,527,10922,11449,58,246,7360,municipality,2020
+217,3402174000,"Trenton city, Mercer County, New Jersey",34021,ONJ,493,29219,27944,39145,67089,399,1284,7750,municipality,2020
+218,3402180240,"West Windsor township, Mercer County, New Jersey",34021,ONJ,11032,874,1047,21075,22122,95,450,8624,municipality,2020
+219,3402310750,"Carteret borough, Middlesex County, New Jersey",34023,INJ,4407,2906,6802,12773,19575,162,377,4921,municipality,2020
+220,3402315550,"Cranbury township, Middlesex County, New Jersey",34023,INJ,593,77,119,2821,2940,11,47,2093,municipality,2020
+221,3402318490,"Dunellen borough, Middlesex County, New Jersey",34023,INJ,322,510,1956,3846,5802,63,156,2795,municipality,2020
+222,3402319000,"East Brunswick township, Middlesex County, New Jersey",34023,INJ,10436,1617,3274,35453,38727,254,815,22331,municipality,2020
+223,3402320230,"Edison township, Middlesex County, New Jersey",34023,INJ,42389,5973,7768,75082,82850,518,1407,24795,municipality,2020
+224,3402330840,"Helmetta borough, Middlesex County, New Jersey",34023,INJ,103,81,191,1832,2023,12,61,1575,municipality,2020
+225,3402331470,"Highland Park borough, Middlesex County, New Jersey",34023,INJ,2144,1020,1626,10397,12023,132,335,6766,municipality,2020
+226,3402334890,"Jamesburg borough, Middlesex County, New Jersey",34023,INJ,223,314,1265,3232,4497,36,126,2533,municipality,2020
+227,3402345690,"Metuchen borough, Middlesex County, New Jersey",34023,INJ,2109,531,1009,10591,11600,67,342,7542,municipality,2020
+228,3402345900,"Middlesex borough, Middlesex County, New Jersey",34023,INJ,913,667,2666,8832,11498,61,240,6951,municipality,2020
+229,3402346620,"Milltown borough, Middlesex County, New Jersey",34023,INJ,202,133,557,4903,5460,25,122,4421,municipality,2020
+230,3402347280,"Monroe township, Middlesex County, New Jersey",34023,INJ,9052,1408,2029,38139,40168,147,559,26973,municipality,2020
+231,3402351210,"New Brunswick city, Middlesex County, New Jersey",34023,INJ,5521,5248,21332,21683,43015,651,587,9676,municipality,2020
+232,3402352560,"North Brunswick township, Middlesex County, New Jersey",34023,INJ,8926,5971,7502,27193,34695,403,761,11132,municipality,2020
+233,3402354705,"Old Bridge township, Middlesex County, New Jersey",34023,INJ,8182,3752,6811,47381,54192,353,1220,33874,municipality,2020
+234,3402358200,"Perth Amboy city, Middlesex County, New Jersey",34023,INJ,534,2709,33672,7377,41049,239,360,3535,municipality,2020
+235,3402359010,"Piscataway township, Middlesex County, New Jersey",34023,INJ,19869,9462,6154,44088,50242,837,1042,12878,municipality,2020
+236,3402359280,"Plainsboro township, Middlesex County, New Jersey",34023,INJ,9898,1296,1113,17702,18815,99,364,6045,municipality,2020
+237,3402365790,"Sayreville borough, Middlesex County, New Jersey",34023,INJ,5880,4298,5535,30310,35845,312,840,18980,municipality,2020
+238,3402368550,"South Amboy city, Middlesex County, New Jersey",34023,INJ,400,388,1442,6123,7565,43,175,5117,municipality,2020
+239,3402368790,"South Brunswick township, Middlesex County, New Jersey",34023,INJ,16470,2651,2463,33857,36320,149,688,13899,municipality,2020
+240,3402369390,"South Plainfield borough, Middlesex County, New Jersey",34023,INJ,3597,1976,3225,16104,19329,277,476,9778,municipality,2020
+241,3402369420,"South River borough, Middlesex County, New Jersey",34023,INJ,728,787,2887,9813,12700,321,597,7380,municipality,2020
+242,3402369810,"Spotswood borough, Middlesex County, New Jersey",34023,INJ,420,204,645,6001,6646,19,183,5175,municipality,2020
+243,3402382000,"Woodbridge township, Middlesex County, New Jersey",34023,INJ,20983,8045,16295,66138,82433,630,1709,34771,municipality,2020
+244,3402500000,"County subdivisions not defined, Monmouth County, New Jersey",34025,ONJ,0,0,0,0,0,0,0,0,municipality,2020
+245,3402500070,"Aberdeen township, Monmouth County, New Jersey",34025,ONJ,919,1505,1871,13720,15591,110,451,10735,municipality,2020
+246,3402500730,"Allenhurst borough, Monmouth County, New Jersey",34025,ONJ,3,2,14,388,402,0,6,377,municipality,2020
+247,3402500760,"Allentown borough, Monmouth County, New Jersey",34025,ONJ,23,51,69,1305,1374,3,42,1186,municipality,2020
+248,3402501960,"Asbury Park city, Monmouth County, New Jersey",34025,ONJ,144,3853,2805,9449,12254,79,363,5010,municipality,2020
+249,3402502110,"Atlantic Highlands borough, Monmouth County, New Jersey",34025,ONJ,73,41,256,3381,3637,5,95,3167,municipality,2020
+250,3402502440,"Avon-by-the-Sea borough, Monmouth County, New Jersey",34025,ONJ,19,22,104,1586,1690,1,33,1511,municipality,2020
+251,3402504930,"Belmar borough, Monmouth County, New Jersey",34025,ONJ,61,80,637,4468,5105,32,89,4206,municipality,2020
+252,3402506970,"Bradley Beach borough, Monmouth County, New Jersey",34025,ONJ,45,72,609,3122,3731,14,85,2906,municipality,2020
+253,3402507750,"Brielle borough, Monmouth County, New Jersey",34025,ONJ,30,63,151,3843,3994,20,83,3647,municipality,2020
+254,3402514560,"Colts Neck township, Monmouth County, New Jersey",34025,ONJ,403,63,379,7272,7651,37,123,6646,municipality,2020
+255,3402516660,"Deal borough, Monmouth County, New Jersey",34025,ONJ,5,6,88,635,723,12,17,595,municipality,2020
+256,3402519840,"Eatontown borough, Monmouth County, New Jersey",34025,ONJ,1053,1310,1453,9706,11159,174,607,6562,municipality,2020
+257,3402521570,"Englishtown borough, Monmouth County, New Jersey",34025,ONJ,154,57,237,1572,1809,5,37,1319,municipality,2020
+258,3402522440,"Fair Haven borough, Monmouth County, New Jersey",34025,ONJ,76,65,136,4167,4303,13,93,3920,municipality,2020
+259,3402522950,"Farmingdale borough, Monmouth County, New Jersey",34025,ONJ,38,52,106,1095,1201,1,50,954,municipality,2020
+260,3402525200,"Freehold borough, Monmouth County, New Jersey",34025,ONJ,290,908,4487,4993,9480,65,188,3542,municipality,2020
+261,3402525230,"Freehold township, Monmouth County, New Jersey",34025,ONJ,2091,1295,2502,25648,28150,140,619,21503,municipality,2020
+262,3402530690,"Hazlet township, Monmouth County, New Jersey",34025,ONJ,590,257,1611,14634,16245,75,344,13368,municipality,2020
+263,3402531500,"Highlands borough, Monmouth County, New Jersey",34025,ONJ,49,63,263,3813,4076,29,121,3551,municipality,2020
+264,3402532640,"Holmdel township, Monmouth County, New Jersey",34025,ONJ,2818,138,628,12746,13374,56,288,9446,municipality,2020
+265,3402533300,"Howell township, Monmouth County, New Jersey",34025,ONJ,2075,1544,4236,37644,41880,227,1046,32752,municipality,2020
+266,3402534200,"Interlaken borough, Monmouth County, New Jersey",34025,ONJ,4,0,14,693,707,7,16,666,municipality,2020
+267,3402536480,"Keansburg borough, Monmouth County, New Jersey",34025,ONJ,206,623,1263,6280,7543,34,262,5155,municipality,2020
+268,3402536810,"Keyport borough, Monmouth County, New Jersey",34025,ONJ,205,315,1108,4819,5927,17,155,4127,municipality,2020
+269,3402537560,"Lake Como borough, Monmouth County, New Jersey",34025,ONJ,28,58,234,1195,1429,8,31,1070,municipality,2020
+270,3402540770,"Little Silver borough, Monmouth County, New Jersey",34025,ONJ,114,23,163,4425,4588,11,96,4181,municipality,2020
+271,3402541010,"Loch Arbour village, Monmouth County, New Jersey",34025,ONJ,5,0,5,185,190,1,2,177,municipality,2020
+272,3402541310,"Long Branch city, Monmouth County, New Jersey",34025,ONJ,526,2529,7096,17613,24709,1195,2139,11224,municipality,2020
+273,3402542990,"Manalapan township, Monmouth County, New Jersey",34025,ONJ,2714,715,2137,29972,32109,133,598,25812,municipality,2020
+274,3402543050,"Manasquan borough, Monmouth County, New Jersey",34025,ONJ,43,5,287,4578,4865,5,76,4449,municipality,2020
+275,3402544070,"Marlboro township, Monmouth County, New Jersey",34025,ONJ,6772,577,1576,30428,32004,112,512,22455,municipality,2020
+276,3402544520,"Matawan borough, Monmouth County, New Jersey",34025,ONJ,473,560,956,6641,7597,66,224,5318,municipality,2020
+277,3402545990,"Middletown township, Monmouth County, New Jersey",34025,ONJ,1548,650,3424,49293,52717,221,1075,45799,municipality,2020
+278,3402546560,"Millstone township, Monmouth County, New Jersey",34025,ONJ,503,330,565,7558,8123,44,208,6473,municipality,2020
+279,3402547130,"Monmouth Beach borough, Monmouth County, New Jersey",34025,ONJ,36,6,95,2594,2689,25,43,2484,municipality,2020
+280,3402549890,"Neptune township, Monmouth County, New Jersey",34025,ONJ,633,7548,2789,20384,23173,138,764,11301,municipality,2020
+281,3402549920,"Neptune City borough, Monmouth County, New Jersey",34025,ONJ,72,482,455,3488,3943,17,150,2767,municipality,2020
+282,3402554270,"Ocean township, Monmouth County, New Jersey",34025,ONJ,1350,1999,2158,20092,22250,234,634,15875,municipality,2020
+283,3402554570,"Oceanport borough, Monmouth County, New Jersey",34025,ONJ,59,63,463,4464,4927,37,116,4189,municipality,2020
+284,3402562430,"Red Bank borough, Monmouth County, New Jersey",34025,ONJ,215,785,3127,7083,10210,43,237,5803,municipality,2020
+285,3402564410,"Roosevelt borough, Monmouth County, New Jersey",34025,ONJ,12,20,68,609,677,7,24,546,municipality,2020
+286,3402565130,"Rumson borough, Monmouth County, New Jersey",34025,ONJ,69,16,184,5000,5184,24,111,4780,municipality,2020
+287,3402566240,"Sea Bright borough, Monmouth County, New Jersey",34025,ONJ,34,13,61,1265,1326,3,34,1181,municipality,2020
+288,3402566330,"Sea Girt borough, Monmouth County, New Jersey",34025,ONJ,1,5,45,1578,1623,7,15,1550,municipality,2020
+289,3402567350,"Shrewsbury borough, Monmouth County, New Jersey",34025,ONJ,78,43,95,3112,3207,21,67,2903,municipality,2020
+290,3402567365,"Shrewsbury township, Monmouth County, New Jersey",34025,ONJ,80,127,146,747,893,5,38,497,municipality,2020
+291,3402570110,"Spring Lake borough, Monmouth County, New Jersey",34025,ONJ,30,11,61,2338,2399,9,30,2258,municipality,2020
+292,3402570140,"Spring Lake Heights borough, Monmouth County, New Jersey",34025,ONJ,40,15,170,4000,4170,13,66,3866,municipality,2020
+293,3402573020,"Tinton Falls borough, Monmouth County, New Jersey",34025,ONJ,859,1350,1213,14798,16011,87,384,12118,municipality,2020
+294,3402574540,"Union Beach borough, Monmouth County, New Jersey",34025,ONJ,106,83,506,4059,4565,32,126,3712,municipality,2020
+295,3402574900,"Upper Freehold township, Monmouth County, New Jersey",34025,ONJ,330,118,300,5286,5586,26,127,4685,municipality,2020
+296,3402576460,"Wall township, Monmouth County, New Jersey",34025,ONJ,365,309,1056,20439,21495,75,431,19259,municipality,2020
+297,3402579310,"West Long Branch borough, Monmouth County, New Jersey",34025,ONJ,125,250,598,6407,7005,106,307,5619,municipality,2020
+298,3402706610,"Boonton town, Morris County, New Jersey",34027,INJ,728,314,983,6062,7045,36,221,4763,municipality,2020
+299,3402706640,"Boonton township, Morris County, New Jersey",34027,INJ,222,41,194,3272,3466,5,79,2925,municipality,2020
+300,3402709040,"Butler borough, Morris County, New Jersey",34027,INJ,220,87,979,5531,6510,10,126,5088,municipality,2020
+301,3402712100,"Chatham borough, Morris County, New Jersey",34027,INJ,589,68,458,6055,6513,43,170,5185,municipality,2020
+302,3402712130,"Chatham township, Morris County, New Jersey",34027,INJ,943,63,325,7653,7978,42,135,6470,municipality,2020
+303,3402712580,"Chester borough, Morris County, New Jersey",34027,INJ,44,1,188,1114,1302,0,36,1033,municipality,2020
+304,3402712610,"Chester township, Morris County, New Jersey",34027,INJ,290,67,350,5524,5874,16,161,4990,municipality,2020
+305,3402717650,"Denville township, Morris County, New Jersey",34027,INJ,1055,238,847,12702,13549,52,352,11005,municipality,2020
+306,3402718070,"Dover town, Morris County, New Jersey",34027,INJ,345,655,10976,3568,14544,43,133,2392,municipality,2020
+307,3402719210,"East Hanover township, Morris County, New Jersey",34027,INJ,1187,119,601,8501,9102,24,106,7065,municipality,2020
+308,3402723910,"Florham Park borough, Morris County, New Jersey",34027,INJ,846,586,727,9638,10365,47,238,7921,municipality,2020
+309,3402729550,"Hanover township, Morris County, New Jersey",34027,INJ,1571,244,742,11153,11895,40,249,9049,municipality,2020
+310,3402729700,"Harding township, Morris County, New Jersey",34027,INJ,142,28,126,2980,3106,10,84,2716,municipality,2020
+311,3402734980,"Jefferson township, Morris County, New Jersey",34027,INJ,657,277,1395,15158,16553,114,381,13729,municipality,2020
+312,3402737110,"Kinnelon borough, Morris County, New Jersey",34027,INJ,464,64,458,7264,7722,39,167,6530,municipality,2020
+313,3402740290,"Lincoln Park borough, Morris County, New Jersey",34027,INJ,614,304,1040,7973,9013,61,181,6813,municipality,2020
+314,3402741362,"Long Hill township, Morris County, New Jersey",34027,INJ,554,58,622,6124,6746,52,151,5309,municipality,2020
+315,3402742510,"Madison borough, Morris County, New Jersey",34027,INJ,995,405,1510,11536,13046,61,309,9766,municipality,2020
+316,3402745330,"Mendham borough, Morris County, New Jersey",34027,INJ,126,23,197,3661,3858,16,70,3426,municipality,2020
+317,3402745360,"Mendham township, Morris County, New Jersey",34027,INJ,264,60,203,4266,4469,31,133,3778,municipality,2020
+318,3402746860,"Mine Hill township, Morris County, New Jersey",34027,INJ,177,155,963,2330,3293,21,84,1893,municipality,2020
+319,3402747670,"Montville township, Morris County, New Jersey",34027,INJ,3636,248,1060,16513,17573,76,327,12226,municipality,2020
+320,3402748090,"Morris township, Morris County, New Jersey",34027,INJ,1155,856,1725,16632,18357,89,431,14101,municipality,2020
+321,3402748210,"Morris Plains borough, Morris County, New Jersey",34027,INJ,375,172,425,4450,4875,8,103,3792,municipality,2020
+322,3402748300,"Morristown town, Morris County, New Jersey",34027,INJ,878,1632,5383,11287,16670,123,368,8286,municipality,2020
+323,3402748480,"Mountain Lakes borough, Morris County, New Jersey",34027,INJ,478,11,133,3008,3141,11,86,2422,municipality,2020
+324,3402748690,"Mount Arlington borough, Morris County, New Jersey",34027,INJ,273,157,505,4545,5050,23,119,3973,municipality,2020
+325,3402749080,"Mount Olive township, Morris County, New Jersey",34027,INJ,2247,1371,3100,19374,22474,115,614,15027,municipality,2020
+326,3402750130,"Netcong borough, Morris County, New Jersey",34027,INJ,98,114,576,2160,2736,23,62,1863,municipality,2020
+327,3402756460,"Parsippany-Troy Hills township, Morris County, New Jersey",34027,INJ,16700,1581,4146,41138,45284,274,969,21614,municipality,2020
+328,3402758110,"Pequannock township, Morris County, New Jersey",34027,INJ,328,81,817,11878,12695,27,210,11232,municipality,2020
+329,3402761890,"Randolph township, Morris County, New Jersey",34027,INJ,2404,586,2720,17527,20247,93,508,13936,municipality,2020
+330,3402763300,"Riverdale borough, Morris County, New Jersey",34027,INJ,183,61,302,3179,3481,10,62,2863,municipality,2020
+331,3402764050,"Rockaway borough, Morris County, New Jersey",34027,INJ,455,144,991,4335,5326,30,104,3602,municipality,2020
+332,3402764080,"Rockaway township, Morris County, New Jersey",34027,INJ,1560,588,2853,17488,20341,83,446,14811,municipality,2020
+333,3402764980,"Roxbury township, Morris County, New Jersey",34027,INJ,1063,496,2316,15952,18268,78,402,13913,municipality,2020
+334,3402775890,"Victory Gardens borough, Morris County, New Jersey",34027,INJ,32,129,854,335,1189,6,14,154,municipality,2020
+335,3402777240,"Washington township, Morris County, New Jersey",34027,INJ,586,228,896,13237,14133,63,301,12059,municipality,2020
+336,3402780390,"Wharton borough, Morris County, New Jersey",34027,INJ,335,176,2719,3085,5804,39,129,2406,municipality,2020
+337,3402900000,"County subdivisions not defined, Ocean County, New Jersey",34029,ONJ,0,0,0,0,0,0,0,0,municipality,2020
+338,3402903050,"Barnegat township, Ocean County, New Jersey",34029,ONJ,380,687,1637,18161,19798,67,523,16504,municipality,2020
+339,3402903130,"Barnegat Light borough, Ocean County, New Jersey",34029,ONJ,1,0,21,575,596,2,9,563,municipality,2020
+340,3402903520,"Bay Head borough, Ocean County, New Jersey",34029,ONJ,10,4,23,780,803,0,11,755,municipality,2020
+341,3402903940,"Beach Haven borough, Ocean County, New Jersey",34029,ONJ,0,2,72,855,927,1,9,843,municipality,2020
+342,3402904180,"Beachwood borough, Ocean County, New Jersey",34029,ONJ,132,176,812,7508,8320,35,204,6961,municipality,2020
+343,3402905305,"Berkeley township, Ocean County, New Jersey",34029,ONJ,547,828,2608,35609,38217,113,721,33400,municipality,2020
+344,3402907420,"Brick township, Ocean County, New Jersey",34029,ONJ,1094,1494,5604,55342,60946,236,1513,51005,municipality,2020
+345,3402918670,"Eagleswood township, Ocean County, New Jersey",34029,ONJ,10,2,81,1303,1384,9,32,1250,municipality,2020
+346,3402930390,"Harvey Cedars borough, Ocean County, New Jersey",34029,ONJ,2,0,6,345,351,0,2,341,municipality,2020
+347,3402934530,"Island Heights borough, Ocean County, New Jersey",34029,ONJ,14,8,36,1337,1373,13,36,1266,municipality,2020
+348,3402934680,"Jackson township, Ocean County, New Jersey",34029,ONJ,1286,2204,5061,39591,44652,255,1190,34656,municipality,2020
+349,3402937380,"Lacey township, Ocean County, New Jersey",34029,ONJ,266,160,1315,21811,23126,99,563,20723,municipality,2020
+350,3402937770,"Lakehurst borough, Ocean County, New Jersey",34029,ONJ,63,166,347,1697,2044,8,70,1390,municipality,2020
+351,3402938550,"Lakewood township, Ocean County, New Jersey",34029,ONJ,612,2756,9992,60401,70393,1006,1006,55021,municipality,2020
+352,3402939390,"Lavallette borough, Ocean County, New Jersey",34029,ONJ,6,6,55,1587,1642,4,37,1534,municipality,2020
+353,3402940560,"Little Egg Harbor township, Ocean County, New Jersey",34029,ONJ,187,258,1038,16237,17275,72,467,15253,municipality,2020
+354,3402941250,"Long Beach township, Ocean County, New Jersey",34029,ONJ,28,2,82,2826,2908,8,43,2745,municipality,2020
+355,3402943140,"Manchester township, Ocean County, New Jersey",34029,ONJ,883,1540,2623,38487,41110,144,854,35066,municipality,2020
+356,3402943380,"Mantoloking borough, Ocean County, New Jersey",34029,ONJ,3,0,12,284,296,2,3,276,municipality,2020
+357,3402954300,"Ocean township, Ocean County, New Jersey",34029,ONJ,58,60,285,7374,7659,23,158,7075,municipality,2020
+358,3402954450,"Ocean Gate borough, Ocean County, New Jersey",34029,ONJ,5,34,108,1505,1613,2,76,1388,municipality,2020
+359,3402958590,"Pine Beach borough, Ocean County, New Jersey",34029,ONJ,29,10,68,1665,1733,8,55,1563,municipality,2020
+360,3402959790,"Plumsted township, Ocean County, New Jersey",34029,ONJ,53,86,472,6040,6512,33,244,5624,municipality,2020
+361,3402959880,"Point Pleasant borough, Ocean County, New Jersey",34029,ONJ,119,37,876,14177,15053,63,244,13714,municipality,2020
+362,3402959910,"Point Pleasant Beach borough, Ocean County, New Jersey",34029,ONJ,40,28,355,3688,4043,12,83,3525,municipality,2020
+363,3402966450,"Seaside Heights borough, Ocean County, New Jersey",34029,ONJ,32,88,372,1599,1971,14,80,1385,municipality,2020
+364,3402966480,"Seaside Park borough, Ocean County, New Jersey",34029,ONJ,8,4,43,1285,1328,6,26,1241,municipality,2020
+365,3402967110,"Ship Bottom borough, Ocean County, New Jersey",34029,ONJ,9,1,43,939,982,2,11,916,municipality,2020
+366,3402969510,"South Toms River borough, Ocean County, New Jersey",34029,ONJ,57,395,652,2000,2652,13,112,1423,municipality,2020
+367,3402970320,"Stafford township, Ocean County, New Jersey",34029,ONJ,348,236,1638,21248,22886,41,513,20110,municipality,2020
+368,3402971640,"Surf City borough, Ocean County, New Jersey",34029,ONJ,8,1,20,1101,1121,0,8,1084,municipality,2020
+369,3402973125,"Toms River township, Ocean County, New Jersey",34029,ONJ,3036,2312,7845,68068,75913,358,1729,60633,municipality,2020
+370,3402974210,"Tuckerton borough, Ocean County, New Jersey",34029,ONJ,37,34,204,2769,2973,15,78,2605,municipality,2020
+371,3403106340,"Bloomingdale borough, Passaic County, New Jersey",34031,INJ,230,82,847,5610,6457,47,159,5092,municipality,2020
+372,3403113690,"Clifton city, Passaic County, New Jersey",34031,INJ,7111,3178,27087,44468,71555,445,1255,32479,municipality,2020
+373,3403129070,"Haledon borough, Passaic County, New Jersey",34031,INJ,470,794,3293,3680,6973,55,134,2227,municipality,2020
+374,3403130570,"Hawthorne borough, Passaic County, New Jersey",34031,INJ,469,462,3313,12475,15788,84,294,11166,municipality,2020
+375,3403140620,"Little Falls township, Passaic County, New Jersey",34031,INJ,615,809,1760,9594,11354,44,237,7889,municipality,2020
+376,3403153040,"North Haledon borough, Passaic County, New Jersey",34031,INJ,290,247,845,6602,7447,14,137,5914,municipality,2020
+377,3403156550,"Passaic city, Passaic County, New Jersey",34031,INJ,2209,3238,36039,13226,49265,417,499,6863,municipality,2020
+378,3403157000,"Paterson city, Passaic County, New Jersey",34031,INJ,5622,28246,72337,45948,118285,787,1560,9733,municipality,2020
+379,3403160090,"Pompton Lakes borough, Passaic County, New Jersey",34031,INJ,480,136,1487,7390,8877,40,195,6539,municipality,2020
+380,3403161170,"Prospect Park borough, Passaic County, New Jersey",34031,INJ,220,734,2725,1965,4690,20,56,935,municipality,2020
+381,3403163150,"Ringwood borough, Passaic County, New Jersey",34031,INJ,158,127,754,8602,9356,131,274,7912,municipality,2020
+382,3403173140,"Totowa borough, Passaic County, New Jersey",34031,INJ,664,187,1802,7214,9016,35,152,6176,municipality,2020
+383,3403176730,"Wanaque borough, Passaic County, New Jersey",34031,INJ,455,236,1180,8219,9399,64,221,7243,municipality,2020
+384,3403177840,"Wayne township, Passaic County, New Jersey",34031,INJ,4038,1450,4637,39404,44041,160,810,32946,municipality,2020
+385,3403179460,"West Milford township, Passaic County, New Jersey",34031,INJ,320,246,1524,18830,20354,159,565,17540,municipality,2020
+386,3403182423,"Woodland Park borough, Passaic County, New Jersey",34031,INJ,563,443,2738,8221,10959,43,210,6962,municipality,2020
+387,3403504450,"Bedminster township, Somerset County, New Jersey",34035,INJ,725,129,591,6475,7066,29,152,5440,municipality,2020
+388,3403505560,"Bernards township, Somerset County, New Jersey",34035,INJ,4697,362,1095,20053,21148,74,492,14428,municipality,2020
+389,3403505590,"Bernardsville borough, Somerset County, New Jersey",34035,INJ,261,43,874,5012,5886,14,113,4581,municipality,2020
+390,3403506790,"Bound Brook borough, Somerset County, New Jersey",34035,INJ,408,732,4665,4620,9285,113,170,3197,municipality,2020
+391,3403507180,"Branchburg township, Somerset County, New Jersey",34035,INJ,1260,345,764,11184,11948,52,290,9237,municipality,2020
+392,3403507720,"Bridgewater township, Somerset County, New Jersey",34035,INJ,8108,996,3191,32735,35926,173,714,22744,municipality,2020
+393,3403522890,"Far Hills borough, Somerset County, New Jersey",34035,INJ,37,8,85,683,768,2,11,625,municipality,2020
+394,3403524900,"Franklin township, Somerset County, New Jersey",34035,INJ,12828,13000,8507,46958,55465,429,1396,19305,municipality,2020
+395,3403527510,"Green Brook township, Somerset County, New Jersey",34035,INJ,1331,223,566,5150,5716,28,116,3452,municipality,2020
+396,3403531890,"Hillsborough township, Somerset County, New Jersey",34035,INJ,6951,1611,2716,30640,33356,154,781,21143,municipality,2020
+397,3403543620,"Manville borough, Somerset County, New Jersey",34035,INJ,280,342,2547,6158,8705,49,195,5292,municipality,2020
+398,3403546590,"Millstone borough, Somerset County, New Jersey",34035,INJ,7,7,18,316,334,1,6,295,municipality,2020
+399,3403547580,"Montgomery township, Somerset County, New Jersey",34035,INJ,6466,550,843,16799,17642,64,419,9300,municipality,2020
+400,3403553280,"North Plainfield borough, Somerset County, New Jersey",34035,INJ,851,3441,8441,9165,17606,152,417,4304,municipality,2020
+401,3403557300,"Peapack and Gladstone borough, Somerset County, New Jersey",34035,INJ,49,44,212,1755,1967,0,20,1642,municipality,2020
+402,3403561980,"Raritan borough, Somerset County, New Jersey",34035,INJ,1209,186,1175,5063,6238,32,119,3517,municipality,2020
+403,3403564320,"Rocky Hill borough, Somerset County, New Jersey",34035,INJ,21,1,37,516,553,3,12,479,municipality,2020
+404,3403568460,"Somerville borough, Somerset County, New Jersey",34035,INJ,1184,963,2275,7710,9985,69,286,5208,municipality,2020
+405,3403568730,"South Bound Brook borough, Somerset County, New Jersey",34035,INJ,329,410,1144,2771,3915,25,102,1905,municipality,2020
+406,3403576940,"Warren township, Somerset County, New Jersey",34035,INJ,2538,203,804,11739,12543,70,333,8595,municipality,2020
+407,3403577600,"Watchung borough, Somerset County, New Jersey",34035,INJ,758,234,346,4806,5152,44,152,3618,municipality,2020
+408,3403701330,"Andover borough, Sussex County, New Jersey",34037,ONJ,5,13,45,453,498,2,18,415,municipality,2020
+409,3403701360,"Andover township, Sussex County, New Jersey",34037,ONJ,178,158,366,4610,4976,35,130,4109,municipality,2020
+410,3403707300,"Branchville borough, Sussex County, New Jersey",34037,ONJ,12,6,31,600,631,2,14,566,municipality,2020
+411,3403709160,"Byram township, Sussex County, New Jersey",34037,ONJ,110,85,479,5905,6384,35,171,5504,municipality,2020
+412,3403724810,"Frankford township, Sussex County, New Jersey",34037,ONJ,60,37,204,4197,4401,21,118,3961,municipality,2020
+413,3403724930,"Franklin borough, Sussex County, New Jersey",34037,ONJ,55,82,429,3549,3978,21,140,3251,municipality,2020
+414,3403725140,"Fredon township, Sussex County, New Jersey",34037,ONJ,48,20,117,2512,2629,15,61,2368,municipality,2020
+415,3403727420,"Green township, Sussex County, New Jersey",34037,ONJ,56,47,209,2602,2811,24,63,2412,municipality,2020
+416,3403729220,"Hamburg borough, Sussex County, New Jersey",34037,ONJ,75,76,240,2453,2693,17,84,2201,municipality,2020
+417,3403729490,"Hampton township, Sussex County, New Jersey",34037,ONJ,62,22,189,3832,4021,18,113,3617,municipality,2020
+418,3403729850,"Hardyston township, Sussex County, New Jersey",34037,ONJ,185,186,454,6279,6733,39,176,5693,municipality,2020
+419,3403732910,"Hopatcong borough, Sussex County, New Jersey",34037,ONJ,304,335,1810,10087,11897,91,304,9053,municipality,2020
+420,3403737440,"Lafayette township, Sussex County, New Jersey",34037,ONJ,13,20,109,1815,1924,3,36,1743,municipality,2020
+421,3403747430,"Montague township, Sussex County, New Jersey",34037,ONJ,49,61,280,2830,3110,21,87,2612,municipality,2020
+422,3403751930,"Newton town, Sussex County, New Jersey",34037,ONJ,244,317,912,5819,6731,29,217,5012,municipality,2020
+423,3403754660,"Ogdensburg borough, Sussex County, New Jersey",34037,ONJ,28,11,183,1654,1837,12,53,1550,municipality,2020
+424,3403765700,"Sandyston township, Sussex County, New Jersey",34037,ONJ,22,7,72,1540,1612,8,47,1456,municipality,2020
+425,3403769690,"Sparta township, Sussex County, New Jersey",34037,ONJ,494,241,1061,13927,14988,71,397,12724,municipality,2020
+426,3403770380,"Stanhope borough, Sussex County, New Jersey",34037,ONJ,85,61,335,2555,2890,20,82,2307,municipality,2020
+427,3403770890,"Stillwater township, Sussex County, New Jersey",34037,ONJ,32,18,148,3157,3305,12,68,3027,municipality,2020
+428,3403771670,"Sussex borough, Sussex County, New Jersey",34037,ONJ,23,35,212,1425,1637,4,48,1315,municipality,2020
+429,3403775740,"Vernon township, Sussex County, New Jersey",34037,ONJ,168,247,1442,16553,17995,84,509,15545,municipality,2020
+430,3403776640,"Walpack township, Sussex County, New Jersey",34037,ONJ,0,0,0,4,4,0,0,4,municipality,2020
+431,3403776790,"Wantage township, Sussex County, New Jersey",34037,ONJ,95,121,575,8185,8760,46,247,7676,municipality,2020
+432,3403905320,"Berkeley Heights township, Union County, New Jersey",34039,INJ,1479,196,778,9319,10097,65,195,7384,municipality,2020
+433,3403913150,"Clark township, Union County, New Jersey",34039,INJ,537,192,1331,11093,12424,45,212,10107,municipality,2020
+434,3403915640,"Cranford township, Union County, New Jersey",34039,INJ,698,519,1659,16732,18391,75,440,15000,municipality,2020
+435,3403921000,"Elizabeth city, Union County, New Jersey",34039,INJ,2165,16663,66860,35677,102537,1369,2274,13206,municipality,2020
+436,3403922860,"Fanwood borough, Union County, New Jersey",34039,INJ,530,303,444,5337,5781,11,168,4325,municipality,2020
+437,3403925800,"Garwood borough, Union County, New Jersey",34039,INJ,112,54,451,3212,3663,29,83,2934,municipality,2020
+438,3403931980,"Hillside township, Union County, New Jersey",34039,INJ,437,8916,3918,13706,17624,418,903,3032,municipality,2020
+439,3403936690,"Kenilworth borough, Union County, New Jersey",34039,INJ,349,173,1350,5269,6619,34,196,4517,municipality,2020
+440,3403940350,"Linden city, Union County, New Jersey",34039,INJ,1225,9118,11266,23248,34514,410,806,11689,municipality,2020
+441,3403948510,"Mountainside borough, Union County, New Jersey",34039,INJ,346,106,456,5001,5457,27,108,4414,municipality,2020
+442,3403951810,"New Providence borough, Union County, New Jersey",34039,INJ,1531,191,829,9387,10216,34,220,7411,municipality,2020
+443,3403959190,"Plainfield city, Union County, New Jersey",34039,INJ,419,15342,19703,19878,39581,392,835,2890,municipality,2020
+444,3403961530,"Rahway city, Union County, New Jersey",34039,INJ,1418,7071,6481,17324,23805,189,685,7961,municipality,2020
+445,3403964620,"Roselle borough, Union County, New Jersey",34039,INJ,499,8621,5903,12061,17964,188,510,2243,municipality,2020
+446,3403964650,"Roselle Park borough, Union County, New Jersey",34039,INJ,1067,912,3832,7148,10980,100,232,4837,municipality,2020
+447,3403966060,"Scotch Plains township, Union County, New Jersey",34039,INJ,1915,1910,1698,17062,18760,97,472,12668,municipality,2020
+448,3403970020,"Springfield township, Union County, New Jersey",34039,INJ,1223,1180,1552,12074,13626,94,364,9213,municipality,2020
+449,3403971430,"Summit city, Union County, New Jersey",34039,INJ,1721,705,2399,14183,16582,83,482,11192,municipality,2020
+450,3403974480,"Union township, Union County, New Jersey",34039,INJ,5396,15119,9057,39617,48674,623,1478,17001,municipality,2020
+451,3403979040,"Westfield town, Union County, New Jersey",34039,INJ,1945,633,1419,20932,22351,98,564,17692,municipality,2020
+452,3403981650,"Winfield township, Union County, New Jersey",34039,INJ,6,10,99,1111,1210,3,43,1049,municipality,2020
+453,3404100670,"Allamuchy township, Warren County, New Jersey",34041,ONJ,146,157,323,4094,4417,21,105,3665,municipality,2020
+454,3404101030,"Alpha borough, Warren County, New Jersey",34041,ONJ,33,48,123,1763,1886,4,36,1642,municipality,2020
+455,3404104990,"Belvidere town, Warren County, New Jersey",34041,ONJ,20,20,119,1864,1983,16,58,1750,municipality,2020
+456,3404106160,"Blairstown township, Warren County, New Jersey",34041,ONJ,62,49,229,4440,4669,42,127,4160,municipality,2020
+457,3404124960,"Franklin township, Warren County, New Jersey",34041,ONJ,81,44,117,2289,2406,18,83,2063,municipality,2020
+458,3404125320,"Frelinghuysen township, Warren County, New Jersey",34041,ONJ,9,22,81,1682,1763,1,45,1605,municipality,2020
+459,3404128260,"Greenwich township, Warren County, New Jersey",34041,ONJ,307,333,370,3795,4165,17,123,3015,municipality,2020
+460,3404128710,"Hackettstown town, Warren County, New Jersey",34041,ONJ,317,277,1632,6497,8129,35,189,5679,municipality,2020
+461,3404129820,"Hardwick township, Warren County, New Jersey",34041,ONJ,8,12,77,1219,1296,1,24,1174,municipality,2020
+462,3404130090,"Harmony township, Warren County, New Jersey",34041,ONJ,16,17,34,2009,2043,7,49,1920,municipality,2020
+463,3404133060,"Hope township, Warren County, New Jersey",34041,ONJ,16,4,86,1436,1522,5,42,1369,municipality,2020
+464,3404133930,"Independence township, Warren County, New Jersey",34041,ONJ,102,108,331,4180,4511,15,122,3833,municipality,2020
+465,3404137320,"Knowlton township, Warren County, New Jersey",34041,ONJ,31,18,145,2248,2393,10,104,2085,municipality,2020
+466,3404140110,"Liberty township, Warren County, New Jersey",34041,ONJ,36,31,108,2068,2176,8,59,1934,municipality,2020
+467,3404141490,"Lopatcong township, Warren County, New Jersey",34041,ONJ,337,552,550,6591,7141,45,167,5490,municipality,2020
+468,3404143320,"Mansfield township, Warren County, New Jersey",34041,ONJ,206,327,810,5474,6284,34,225,4682,municipality,2020
+469,3404155530,"Oxford township, Warren County, New Jersey",34041,ONJ,20,35,118,1804,1922,2,84,1663,municipality,2020
+470,3404158350,"Phillipsburg town, Warren County, New Jersey",34041,ONJ,189,1226,1630,9793,11423,48,453,7877,municipality,2020
+471,3404159820,"Pohatcong township, Warren County, New Jersey",34041,ONJ,37,66,147,2506,2653,14,103,2286,municipality,2020
+472,3404177270,"Washington borough, Warren County, New Jersey",34041,ONJ,178,402,684,5094,5778,45,178,4291,municipality,2020
+473,3404177300,"Washington township, Warren County, New Jersey",34041,ONJ,114,179,362,4863,5225,29,125,4416,municipality,2020
+474,3404180570,"White township, Warren County, New Jersey",34041,ONJ,39,91,184,3850,4034,17,58,3645,municipality,2020
+475,3600508510,"Bronx borough, Bronx County, New York",36005,NYC,52705,324265,600336,522739,1123075,13620,21564,110585,municipality,2020
+476,3602701693,"Amenia town, Dutchess County, New York",36027,MHV,63,76,301,2829,3130,29,119,2542,municipality,2020
+477,3602705100,"Beacon city, Dutchess County, New York",36027,MHV,264,1403,1947,9229,11176,132,445,6985,municipality,2020
+478,3602705452,"Beekman town, Dutchess County, New York",36027,MHV,294,1391,1393,10119,11512,56,261,8117,municipality,2020
+479,3602716408,"Clinton town, Dutchess County, New York",36027,MHV,48,54,123,3232,3355,12,127,2991,municipality,2020
+480,3602720819,"Dover town, Dutchess County, New York",36027,MHV,182,304,1107,5503,6610,30,236,4751,municipality,2020
+481,3602721996,"East Fishkill town, Dutchess County, New York",36027,MHV,989,840,2479,20642,23121,145,652,18016,municipality,2020
+482,3602725978,"Fishkill town, Dutchess County, New York",36027,MHV,939,2802,2996,17561,20557,136,509,13175,municipality,2020
+483,3602737209,"Hyde Park town, Dutchess County, New York",36027,MHV,746,1254,1400,16031,17431,120,713,13198,municipality,2020
+484,3602740299,"La Grange town, Dutchess County, New York",36027,MHV,572,636,1197,11332,12529,84,398,9642,municipality,2020
+485,3602747207,"Milan town, Dutchess County, New York",36027,MHV,18,24,95,1776,1871,20,83,1631,municipality,2020
+486,3602751891,"North East town, Dutchess County, New York",36027,MHV,43,41,288,2176,2464,12,92,1988,municipality,2020
+487,3602756825,"Pawling town, Dutchess County, New York",36027,MHV,103,177,828,5690,6518,42,165,5203,municipality,2020
+488,3602758156,"Pine Plains town, Dutchess County, New York",36027,MHV,24,17,89,1728,1817,5,58,1624,municipality,2020
+489,3602758695,"Pleasant Valley town, Dutchess County, New York",36027,MHV,138,298,557,7290,7847,75,277,6502,municipality,2020
+490,3602759641,"Poughkeepsie city, Dutchess County, New York",36027,MHV,428,8384,4831,19845,24676,202,997,9834,municipality,2020
+491,3602759652,"Poughkeepsie town, Dutchess County, New York",36027,MHV,2361,4041,4758,32371,37129,427,1203,24339,municipality,2020
+492,3602760905,"Red Hook town, Dutchess County, New York",36027,MHV,262,107,524,7634,8158,34,240,6991,municipality,2020
+493,3602761357,"Rhinebeck town, Dutchess County, New York",36027,MHV,129,89,380,6173,6553,33,190,5732,municipality,2020
+494,3602770662,"Stanford town, Dutchess County, New York",36027,MHV,38,120,199,2883,3082,14,107,2604,municipality,2020
+495,3602776166,"Union Vale town, Dutchess County, New York",36027,MHV,70,61,211,3478,3689,18,82,3247,municipality,2020
+496,3602778157,"Wappinger town, Dutchess County, New York",36027,MHV,1036,1634,3633,19094,22727,192,695,15537,municipality,2020
+497,3602778388,"Washington town, Dutchess County, New York",36027,MHV,53,74,294,3377,3671,18,138,3094,municipality,2020
+498,3604710022,"Brooklyn borough, Kings County, New York",36047,NYC,294905,584397,391547,1748824,2140371,25473,84678,759371,municipality,2020
+499,3601011,"Albertson CDP, New York",36059,LI,1283,23,339,3862,4201,29,63,2464,municipality,2020
+500,3602968,"Atlantic Beach village, New York",36059,LI,22,1,73,1432,1505,16,29,1364,municipality,2020
+501,3604143,"Baldwin CDP, New York",36059,LI,1284,9959,5503,21425,26928,448,901,8833,municipality,2020
+502,3604550,"Barnum Island CDP, New York",36059,LI,135,58,384,1823,2207,27,47,1556,municipality,2020
+503,3604803,"Baxter Estates village, New York",36059,LI,56,7,121,670,791,0,20,587,municipality,2020
+504,3604891,"Bay Park CDP, New York",36059,LI,22,21,138,1565,1703,5,24,1493,municipality,2020
+505,3605034,"Bayville village, New York",36059,LI,116,29,498,5015,5513,19,90,4761,municipality,2020
+506,3605639,"Bellerose village, New York",36059,LI,46,29,90,828,918,11,24,718,municipality,2020
+507,3605661,"Bellerose Terrace CDP, New York",36059,LI,603,110,494,1323,1817,35,52,523,municipality,2020
+508,3605738,"Bellmore CDP, New York",36059,LI,564,187,1029,11790,12819,41,273,10725,municipality,2020
+509,3606387,"Bethpage CDP, New York",36059,LI,1517,119,1230,12187,13417,49,206,10296,municipality,2020
+510,3610132,"Brookville village, New York",36059,LI,299,37,117,2389,2506,6,45,2002,municipality,2020
+511,3612419,"Carle Place CDP, New York",36059,LI,389,122,524,3519,4043,45,104,2859,municipality,2020
+512,3613233,"Cedarhurst village, New York",36059,LI,159,121,749,4267,5016,33,75,3879,municipality,2020
+513,3613618,"Centre Island village, New York",36059,LI,12,2,19,315,334,0,2,299,municipality,2020
+514,3618597,"Cove Neck village, New York",36059,LI,0,0,13,205,218,0,5,200,municipality,2020
+515,3621578,"East Atlantic Beach CDP, New York",36059,LI,18,6,113,1730,1843,9,18,1679,municipality,2020
+516,3622260,"East Hills village, New York",36059,LI,626,63,205,5069,5274,19,92,4269,municipality,2020
+517,3622480,"East Massapequa CDP, New York",36059,LI,432,1918,2039,14027,16066,108,348,11221,municipality,2020
+518,3622502,"East Meadow CDP, New York",36059,LI,5009,1317,4352,26090,30442,257,554,18953,municipality,2020
+519,3622623,"East Norwich CDP, New York",36059,LI,90,20,136,2069,2205,8,35,1916,municipality,2020
+520,3622876,"East Rockaway village, New York",36059,LI,258,233,1033,7124,8157,24,163,6446,municipality,2020
+521,3623217,"East Williston village, New York",36059,LI,224,0,79,1879,1958,0,40,1615,municipality,2020
+522,3624273,"Elmont CDP, New York",36059,LI,4184,12422,6064,22127,28191,666,985,3870,municipality,2020
+523,3625384,"Farmingdale village, New York",36059,LI,524,223,966,6230,7196,61,136,5286,municipality,2020
+524,3626264,"Floral Park village, New York",36059,LI,1422,202,1431,11283,12714,63,186,9410,municipality,2020
+525,3626352,"Flower Hill village, New York",36059,LI,671,22,186,3370,3556,22,68,2587,municipality,2020
+526,3627309,"Franklin Square CDP, New York",36059,LI,3028,1062,4360,20578,24938,266,420,15802,municipality,2020
+527,3627485,"Freeport village, New York",36059,LI,657,10281,15719,19160,34879,432,899,6891,municipality,2020
+528,3628178,"Garden City village, New York",36059,LI,1144,165,953,16724,17677,88,255,15072,municipality,2020
+529,3628189,"Garden City Park CDP, New York",36059,LI,2849,195,734,5662,6396,62,148,2408,municipality,2020
+530,3628200,"Garden City South CDP, New York",36059,LI,275,30,335,2947,3282,10,48,2584,municipality,2020
+531,3629113,"Glen Cove city, New York",36059,LI,1292,1276,7056,16103,23159,158,367,13010,municipality,2020
+532,3629245,"Glen Head CDP, New York",36059,LI,240,30,372,3402,3774,27,66,3039,municipality,2020
+533,3629421,"Glenwood Landing CDP, New York",36059,LI,175,21,222,2865,3087,21,50,2598,municipality,2020
+534,3630169,"Great Neck village, New York",36059,LI,1062,126,857,7285,8142,60,343,5694,municipality,2020
+535,3630191,"Great Neck Estates village, New York",36059,LI,410,9,90,2105,2195,20,73,1593,municipality,2020
+536,3630202,"Great Neck Gardens CDP, New York",36059,LI,253,3,16,871,887,5,19,591,municipality,2020
+537,3630213,"Great Neck Plaza village, New York",36059,LI,1458,118,496,5722,6218,27,119,4000,municipality,2020
+538,3630598,"Greenvale CDP, New York",36059,LI,218,8,85,764,849,5,20,513,municipality,2020
+539,3632094,"Harbor Hills CDP, New York",36059,LI,24,0,4,391,395,3,14,350,municipality,2020
+540,3632105,"Harbor Isle CDP, New York",36059,LI,22,22,92,1047,1139,5,22,976,municipality,2020
+541,3633139,"Hempstead village, New York",36059,LI,1056,18402,20900,23664,44564,477,1117,2612,municipality,2020
+542,3634198,"Herricks CDP, New York",36059,LI,1876,21,155,3346,3501,44,73,1332,municipality,2020
+543,3634286,"Hewlett CDP, New York",36059,LI,460,231,785,4797,5582,38,118,3950,municipality,2020
+544,3634297,"Hewlett Bay Park village, New York",36059,LI,32,3,17,341,358,3,14,289,municipality,2020
+545,3634308,"Hewlett Harbor village, New York",36059,LI,50,11,45,964,1009,4,26,873,municipality,2020
+546,3634319,"Hewlett Neck village, New York",36059,LI,19,12,24,371,395,6,3,331,municipality,2020
+547,3634374,"Hicksville CDP, New York",36059,LI,11244,924,5842,29960,35802,272,730,16790,municipality,2020
+548,3637583,"Inwood CDP, New York",36059,LI,368,1517,4192,3967,8159,78,129,1875,municipality,2020
+549,3637847,"Island Park village, New York",36059,LI,165,110,1221,2762,3983,53,77,2357,municipality,2020
+550,3638539,"Jericho CDP, New York",36059,LI,4814,216,412,10728,11140,52,150,5496,municipality,2020
+551,3639309,"Kensington village, New York",36059,LI,182,0,13,926,939,7,28,709,municipality,2020
+552,3639694,"Kings Point village, New York",36059,LI,237,88,192,4189,4381,20,243,3601,municipality,2020
+553,3640937,"Lake Success village, New York",36059,LI,1109,12,66,2059,2125,10,29,899,municipality,2020
+554,3641003,"Lakeview CDP, New York",36059,LI,124,3395,803,3929,4732,91,196,123,municipality,2020
+555,3641432,"Lattingtown village, New York",36059,LI,62,2,73,1372,1445,8,42,1258,municipality,2020
+556,3641487,"Laurel Hollow village, New York",36059,LI,137,10,61,1365,1426,2,39,1177,municipality,2020
+557,3641553,"Lawrence village, New York",36059,LI,80,70,236,4700,4936,71,71,4408,municipality,2020
+558,3642081,"Levittown CDP, New York",36059,LI,4441,527,6022,35192,41214,235,852,29137,municipality,2020
+559,3642279,"Lido Beach CDP, New York",36059,LI,47,10,122,2178,2300,0,32,2089,municipality,2020
+560,3643192,"Locust Valley CDP, New York",36059,LI,102,70,597,2156,2753,13,37,1934,municipality,2020
+561,3643335,"Long Beach city, New York",36059,LI,924,1426,4144,25586,29730,258,588,22390,municipality,2020
+562,3643874,"Lynbrook village, New York",36059,LI,1004,984,2726,13375,16101,115,338,10934,municipality,2020
+563,3644787,"Malverne village, New York",36059,LI,385,350,816,6113,6929,70,111,5197,municipality,2020
+564,3644792,"Malverne Park Oaks CDP, New York",36059,LI,38,54,51,385,436,15,11,267,municipality,2020
+565,3644897,"Manhasset CDP, New York",36059,LI,1325,500,636,5671,6307,18,126,3702,municipality,2020
+566,3644908,"Manhasset Hills CDP, New York",36059,LI,1486,22,150,2692,2842,26,47,1111,municipality,2020
+567,3645106,"Manorhaven village, New York",36059,LI,714,83,1783,3536,5319,29,62,2648,municipality,2020
+568,3645986,"Massapequa CDP, New York",36059,LI,336,98,1045,15840,16885,45,307,15054,municipality,2020
+569,3645997,"Massapequa Park village, New York",36059,LI,243,58,834,12607,13441,63,158,12085,municipality,2020
+570,3646107,"Matinecock village, New York",36059,LI,40,1,58,622,680,0,10,571,municipality,2020
+571,3646668,"Merrick CDP, New York",36059,LI,722,263,1398,15741,17139,90,246,14420,municipality,2020
+572,3647405,"Mill Neck village, New York",36059,LI,53,13,95,743,838,0,19,658,municipality,2020
+573,3647636,"Mineola village, New York",36059,LI,2282,435,3046,14103,17149,165,419,10802,municipality,2020
+574,3649231,"Munsey Park village, New York",36059,LI,259,18,94,1866,1960,5,48,1536,municipality,2020
+575,3649330,"Muttontown village, New York",36059,LI,939,45,100,2686,2786,13,49,1640,municipality,2020
+576,3650067,"New Cassel CDP, New York",36059,LI,356,3890,5470,5029,10499,67,144,572,municipality,2020
+577,3650397,"New Hyde Park village, New York",36059,LI,3068,143,1031,7136,8167,93,123,3709,municipality,2020
+578,3651517,"North Bellmore CDP, New York",36059,LI,1111,514,1610,14631,16241,92,304,12610,municipality,2020
+579,3653022,"North Hills village, New York",36059,LI,1498,43,110,4600,4710,15,65,2979,municipality,2020
+580,3653231,"North Lynbrook CDP, New York",36059,LI,57,47,86,525,611,4,19,398,municipality,2020
+581,3653253,"North Massapequa CDP, New York",36059,LI,355,86,1037,13255,14292,33,177,12604,municipality,2020
+582,3653264,"North Merrick CDP, New York",36059,LI,503,220,916,8551,9467,58,149,7621,municipality,2020
+583,3653275,"North New Hyde Park CDP, New York",36059,LI,5447,82,945,11613,12558,156,175,5753,municipality,2020
+584,3653748,"North Valley Stream CDP, New York",36059,LI,2680,6663,2066,12755,14821,362,606,2444,municipality,2020
+585,3653792,"North Wantagh CDP, New York",36059,LI,308,110,980,8513,9493,38,110,7947,municipality,2020
+586,3654441,"Oceanside CDP, New York",36059,LI,903,511,3152,22643,25795,168,434,20627,municipality,2020
+587,3654551,"Old Bethpage CDP, New York",36059,LI,443,17,239,4929,5168,17,52,4400,municipality,2020
+588,3654562,"Old Brookville village, New York",36059,LI,223,22,76,1524,1600,13,27,1239,municipality,2020
+589,3654705,"Old Westbury village, New York",36059,LI,761,575,289,3316,3605,20,100,1860,municipality,2020
+590,3655992,"Oyster Bay CDP, New York",36059,LI,193,187,945,4756,5701,24,122,4230,municipality,2020
+591,3656011,"Oyster Bay Cove village, New York",36059,LI,216,21,78,1704,1782,7,39,1421,municipality,2020
+592,3658409,"Plainedge CDP, New York",36059,LI,614,141,808,6883,7691,46,132,5950,municipality,2020
+593,3658442,"Plainview CDP, New York",36059,LI,3918,117,1136,19752,20888,84,307,15326,municipality,2020
+594,3658475,"Plandome village, New York",36059,LI,106,9,47,984,1031,4,10,855,municipality,2020
+595,3658486,"Plandome Heights village, New York",36059,LI,126,0,47,687,734,10,10,541,municipality,2020
+596,3658497,"Plandome Manor village, New York",36059,LI,73,2,33,587,620,4,2,506,municipality,2020
+597,3658849,"Point Lookout CDP, New York",36059,LI,14,5,54,1259,1313,1,22,1217,municipality,2020
+598,3659520,"Port Washington CDP, New York",36059,LI,1160,245,1851,10882,12733,61,259,9157,municipality,2020
+599,3659531,"Port Washington North village, New York",36059,LI,238,22,214,2295,2509,18,46,1971,municipality,2020
+600,3663264,"Rockville Centre village, New York",36059,LI,518,1071,2184,18137,20321,100,322,16126,municipality,2020
+601,3663506,"Roosevelt CDP, New York",36059,LI,131,6907,5883,7795,13678,153,350,254,municipality,2020
+602,3663770,"Roslyn village, New York",36059,LI,349,35,435,2061,2496,12,61,1604,municipality,2020
+603,3663792,"Roslyn Estates village, New York",36059,LI,117,8,30,980,1010,5,24,826,municipality,2020
+604,3663803,"Roslyn Harbor village, New York",36059,LI,142,2,44,801,845,3,31,623,municipality,2020
+605,3663814,"Roslyn Heights CDP, New York",36059,LI,1596,283,482,4592,5074,47,104,2562,municipality,2020
+606,3664232,"Russell Gardens village, New York",36059,LI,292,3,26,750,776,9,14,432,municipality,2020
+607,3664430,"Saddle Rock village, New York",36059,LI,77,1,18,690,708,5,13,594,municipality,2020
+608,3664441,"Saddle Rock Estates CDP, New York",36059,LI,32,3,1,305,306,5,11,254,municipality,2020
+609,3664842,"Salisbury CDP, New York",36059,LI,1817,236,1802,8213,10015,66,197,5897,municipality,2020
+610,3665035,"Sands Point village, New York",36059,LI,232,27,72,1971,2043,9,27,1676,municipality,2020
+611,3666047,"Sea Cliff village, New York",36059,LI,121,65,310,3692,4002,17,87,3402,municipality,2020
+612,3666058,"Seaford CDP, New York",36059,LI,338,88,870,11278,12148,47,213,10592,municipality,2020
+613,3666102,"Searingtown CDP, New York",36059,LI,1965,51,142,3831,3973,16,78,1721,municipality,2020
+614,3669001,"South Farmingdale CDP, New York",36059,LI,632,223,1456,10112,11568,58,186,9013,municipality,2020
+615,3669023,"South Floral Park village, New York",36059,LI,172,687,284,1086,1370,25,68,134,municipality,2020
+616,3669188,"South Hempstead CDP, New York",36059,LI,64,388,610,1952,2562,28,58,1414,municipality,2020
+617,3669892,"South Valley Stream CDP, New York",36059,LI,1013,1271,586,4371,4957,134,191,1762,municipality,2020
+618,3671267,"Stewart Manor village, New York",36059,LI,124,30,168,1409,1577,6,31,1218,municipality,2020
+619,3672554,"Syosset CDP, New York",36059,LI,4753,86,665,13708,14373,65,218,8586,municipality,2020
+620,3673605,"Thomaston village, New York",36059,LI,900,27,100,2024,2124,21,32,1044,municipality,2020
+621,3676089,"Uniondale CDP, New York",36059,LI,1038,9403,9445,16791,26236,274,685,5391,municipality,2020
+622,3676287,"University Gardens CDP, New York",36059,LI,1560,49,248,3231,3479,16,77,1529,municipality,2020
+623,3676331,"Upper Brookville village, New York",36059,LI,218,26,68,1336,1404,9,25,1058,municipality,2020
+624,3676705,"Valley Stream village, New York",36059,LI,4991,7118,7848,24067,31915,781,1067,10110,municipality,2020
+625,3678146,"Wantagh CDP, New York",36059,LI,392,46,930,13516,14446,53,218,12807,municipality,2020
+626,3679444,"Westbury village, New York",36059,LI,1263,2309,3633,9144,12777,128,323,5121,municipality,2020
+627,3680225,"West Hempstead CDP, New York",36059,LI,1173,1732,2888,12406,15294,202,333,8966,municipality,2020
+628,3682117,"Williston Park village, New York",36059,LI,1058,65,538,5514,6052,48,129,4214,municipality,2020
+629,3682744,"Woodbury CDP, New York",36059,LI,1187,117,460,7050,7510,28,58,5660,municipality,2020
+630,3682942,"Woodmere CDP, New York",36059,LI,513,601,710,11757,12467,150,195,10298,municipality,2020
+631,3682986,"Woodsburgh village, New York",36059,LI,30,3,21,644,665,6,9,596,municipality,2020
+632,3605929113,"Glen Cove city, Nassau County, New York",36059,LI,1292,1276,7056,16103,23159,158,367,13010,municipality,2020
+633,3605934000,"Hempstead town, Nassau County, New York",36059,LI,46175,99885,125615,495295,620910,6566,13922,328747,municipality,2020
+634,3605943335,"Long Beach city, Nassau County, New York",36059,LI,924,1426,4144,25586,29730,258,588,22390,municipality,2020
+635,3605953000,"North Hempstead town, Nassau County, New York",36059,LI,40899,9207,25241,160261,185502,1350,4014,104791,municipality,2020
+636,3605956000,"Oyster Bay town, Nassau County, New York",36059,LI,34464,5428,22269,217314,239583,1177,4011,172234,municipality,2020
+637,3606144919,"Manhattan borough, New York County, New York",36061,NYC,196100,167205,329236,1132504,1461740,12876,45814,710509,municipality,2020
+638,3607107003,"Blooming Grove town, Orange County, New York",36071,MHV,336,1068,2723,11327,14050,225,433,9265,municipality,2020
+639,3607115308,"Chester town, Orange County, New York",36071,MHV,399,802,1653,8140,9793,84,286,6569,municipality,2020
+640,3607118300,"Cornwall town, Orange County, New York",36071,MHV,313,317,1099,8959,10058,91,319,7919,municipality,2020
+641,3607118916,"Crawford town, Orange County, New York",36071,MHV,107,272,939,6221,7160,50,221,5571,municipality,2020
+642,3607119961,"Deerpark town, Orange County, New York",36071,MHV,296,165,440,5679,6119,62,263,4893,municipality,2020
+643,3607129553,"Goshen town, Orange County, New York",36071,MHV,373,768,2325,9270,11595,54,242,7833,municipality,2020
+644,3607130631,"Greenville town, Orange County, New York",36071,MHV,54,116,398,3223,3621,37,108,2908,municipality,2020
+645,3607131907,"Hamptonburgh town, Orange County, New York",36071,MHV,165,129,565,3735,4300,30,134,3277,municipality,2020
+646,3607134550,"Highlands town, Orange County, New York",36071,MHV,528,1139,1474,8782,10256,132,330,6653,municipality,2020
+647,3607147042,"Middletown city, Orange County, New York",36071,MHV,963,4783,8976,14052,23028,253,673,7380,municipality,2020
+648,3607147713,"Minisink town, Orange County, New York",36071,MHV,42,101,422,3110,3532,25,78,2864,municipality,2020
+649,3607147999,"Monroe town, Orange County, New York",36071,MHV,894,1141,3692,25740,29432,3435,689,19581,municipality,2020
+650,3607148153,"Montgomery town, Orange County, New York",36071,MHV,342,1283,2933,15201,18134,127,588,12861,municipality,2020
+651,3607148857,"Mount Hope town, Orange County, New York",36071,MHV,231,688,857,4444,5301,55,120,3350,municipality,2020
+652,3607150034,"Newburgh city, Orange County, New York",36071,MHV,211,5582,10089,10756,20845,165,545,4253,municipality,2020
+653,3607150045,"Newburgh town, Orange County, New York",36071,MHV,774,3238,5038,20704,25742,198,751,15743,municipality,2020
+654,3607150848,"New Windsor town, Orange County, New York",36071,MHV,829,2994,4999,16836,21835,162,640,12211,municipality,2020
+655,3607159388,"Port Jervis city, Orange County, New York",36071,MHV,138,506,796,5894,6690,122,299,4829,municipality,2020
+656,3607175781,"Tuxedo town, Orange County, New York",36071,MHV,157,134,338,2826,3164,20,56,2459,municipality,2020
+657,3607177992,"Wallkill town, Orange County, New York",36071,MHV,1005,4440,6029,18174,24203,291,727,11711,municipality,2020
+658,3607178366,"Warwick town, Orange County, New York",36071,MHV,489,1015,3107,22701,25808,189,679,20329,municipality,2020
+659,3607178839,"Wawayanda town, Orange County, New York",36071,MHV,152,332,896,4967,5863,47,155,4281,municipality,2020
+660,3607182755,"Woodbury town, Orange County, New York",36071,MHV,596,760,1761,7013,8774,177,204,5276,municipality,2020
+661,3607912529,"Carmel town, Putnam County, New York",36079,LHV,563,590,3604,23070,26674,138,522,21257,municipality,2020
+662,3607939331,"Kent town, Putnam County, New York",36079,LHV,209,282,1946,8449,10395,80,240,7638,municipality,2020
+663,3607956748,"Patterson town, Putnam County, New York",36079,LHV,208,394,1921,7579,9500,42,240,6695,municipality,2020
+664,3607957584,"Philipstown town, Putnam County, New York",36079,LHV,182,117,639,7249,7888,38,220,6692,municipality,2020
+665,3607960147,"Putnam Valley town, Putnam County, New York",36079,LHV,210,227,1317,8037,9354,68,242,7290,municipality,2020
+666,3607968924,"Southeast town, Putnam County, New York",36079,LHV,360,358,2930,11529,14459,100,264,10447,municipality,2020
+667,3608160323,"Queens borough, Queens County, New York",36081,NYC,538284,308971,516054,1433415,1949469,50589,64694,470877,municipality,2020
+668,3608570915,"Staten Island borough, Richmond County, New York",36085,NYC,46237,35179,68231,321162,389393,2807,7490,229449,municipality,2020
+669,3608715968,"Clarkstown town, Rockland County, New York",36087,LHV,8114,6615,10983,57471,68454,472,1307,40963,municipality,2020
+670,3608732765,"Haverstraw town, Rockland County, New York",36087,LHV,1411,4221,13053,16576,29629,162,506,10276,municipality,2020
+671,3608755211,"Orangetown town, Rockland County, New York",36087,LHV,2925,2146,4621,34619,39240,211,769,28568,municipality,2020
+672,3608760510,"Ramapo town, Rockland County, New York",36087,LHV,3697,13378,14842,75518,90360,1179,1788,55476,municipality,2020
+673,3608771674,"Stony Point town, Rockland County, New York",36087,LHV,406,664,2153,9680,11833,76,266,8268,municipality,2020
+674,3601594,"Amagansett CDP, New York",36103,LI,18,32,141,1370,1511,17,29,1274,municipality,2020
+675,3602044,"Amityville village, New York",36103,LI,137,728,1249,6856,8105,53,149,5789,municipality,2020
+676,3602374,"Aquebogue CDP, New York",36103,LI,25,51,335,1744,2079,8,43,1617,municipality,2020
+677,3602737,"Asharoken village, New York",36103,LI,6,1,25,487,512,10,4,466,municipality,2020
+678,3603408,"Babylon village, New York",36103,LI,245,161,748,8993,9741,48,208,8331,municipality,2020
+679,3604055,"Baiting Hollow CDP, New York",36103,LI,17,48,208,2075,2283,8,35,1967,municipality,2020
+680,3604913,"Bayport CDP, New York",36103,LI,110,123,511,6335,6846,23,140,5939,municipality,2020
+681,3604935,"Bay Shore CDP, New York",36103,LI,946,3835,7852,14709,22561,266,523,9139,municipality,2020
+682,3605039,"Baywood CDP, New York",36103,LI,224,791,2519,3541,6060,65,184,2277,municipality,2020
+683,3605672,"Belle Terre village, New York",36103,LI,35,8,44,616,660,5,25,543,municipality,2020
+684,3605771,"Bellport village, New York",36103,LI,34,43,81,1759,1840,9,54,1619,municipality,2020
+685,3607069,"Blue Point CDP, New York",36103,LI,66,33,190,3990,4180,20,64,3807,municipality,2020
+686,3607157,"Bohemia CDP, New York",36103,LI,261,126,724,7183,7907,14,122,6660,municipality,2020
+687,3608026,"Brentwood CDP, New York",36103,LI,920,5423,33972,12327,46299,463,533,4988,municipality,2020
+688,3608136,"Bridgehampton CDP, New York",36103,LI,47,175,289,2067,2356,11,44,1790,municipality,2020
+689,3608323,"Brightwaters village, New York",36103,LI,43,59,163,2288,2451,0,47,2139,municipality,2020
+690,3609000,"Brookhaven CDP, New York",36103,LI,27,122,199,2555,2754,19,55,2332,municipality,2020
+691,3611781,"Calverton CDP, New York",36103,LI,43,284,721,4265,4986,21,100,3817,municipality,2020
+692,3613376,"Centereach CDP, New York",36103,LI,2100,725,3597,21070,24667,115,568,17562,municipality,2020
+693,3613420,"Center Moriches CDP, New York",36103,LI,92,187,747,5502,6249,26,148,5049,municipality,2020
+694,3613442,"Centerport CDP, New York",36103,LI,84,19,222,4455,4677,29,97,4226,municipality,2020
+695,3613552,"Central Islip CDP, New York",36103,LI,905,5618,15531,12304,27835,322,602,4857,municipality,2020
+696,3616958,"Cold Spring Harbor CDP, New York",36103,LI,90,10,129,2157,2286,5,51,2001,municipality,2020
+697,3617530,"Commack CDP, New York",36103,LI,1892,424,1921,26877,28798,140,455,23966,municipality,2020
+698,3618146,"Copiague CDP, New York",36103,LI,445,1413,6975,11816,18791,143,345,9470,municipality,2020
+699,3618157,"Coram CDP, New York",36103,LI,1841,3672,5277,27229,32506,213,868,20635,municipality,2020
+700,3619466,"Cutchogue CDP, New York",36103,LI,23,36,302,2608,2910,3,35,2511,municipality,2020
+701,3619972,"Deer Park CDP, New York",36103,LI,2510,2943,3628,19198,22826,247,477,13021,municipality,2020
+702,3620379,"Dering Harbor village, New York",36103,LI,4,0,14,25,39,1,1,19,municipality,2020
+703,3620687,"Dix Hills CDP, New York",36103,LI,3365,1055,1515,18831,20346,176,444,13791,municipality,2020
+704,3621985,"East Farmingdale CDP, New York",36103,LI,403,650,1221,4155,5376,48,111,2943,municipality,2020
+705,3622183,"East Hampton village, New York",36103,LI,17,24,123,1170,1293,5,21,1103,municipality,2020
+706,3622200,"East Hampton North CDP, New York",36103,LI,62,184,1741,2476,4217,32,70,2128,municipality,2020
+707,3622315,"East Islip CDP, New York",36103,LI,221,152,971,10110,11081,53,227,9457,municipality,2020
+708,3622447,"East Marion CDP, New York",36103,LI,11,11,85,842,927,8,22,790,municipality,2020
+709,3622546,"East Moriches CDP, New York",36103,LI,68,88,375,4338,4713,27,74,4081,municipality,2020
+710,3622612,"East Northport CDP, New York",36103,LI,489,161,1469,14476,15945,59,276,13491,municipality,2020
+711,3622733,"East Patchogue CDP, New York",36103,LI,441,797,3526,14049,17575,94,416,12301,municipality,2020
+712,3622810,"Eastport CDP, New York",36103,LI,12,22,220,1673,1893,12,41,1586,municipality,2020
+713,3622832,"East Quogue CDP, New York",36103,LI,62,28,715,3705,4420,19,67,3529,municipality,2020
+714,3622980,"East Shoreham CDP, New York",36103,LI,149,100,420,4887,5307,24,134,4480,municipality,2020
+715,3623316,"Eatons Neck CDP, New York",36103,LI,22,5,39,1071,1110,5,13,1026,municipality,2020
+716,3624405,"Elwood CDP, New York",36103,LI,771,443,925,8190,9115,32,193,6751,municipality,2020
+717,3625417,"Farmingville CDP, New York",36103,LI,532,382,1837,9955,11792,87,313,8641,municipality,2020
+718,3625839,"Fire Island CDP, New York",36103,LI,11,22,78,590,668,15,23,519,municipality,2020
+719,3625923,"Fishers Island CDP, New York",36103,LI,11,3,17,335,352,2,16,303,municipality,2020
+720,3626121,"Flanders CDP, New York",36103,LI,33,337,1866,1944,3810,31,79,1464,municipality,2020
+721,3626946,"Fort Salonga CDP, New York",36103,LI,194,67,425,7380,7805,26,150,6943,municipality,2020
+722,3628997,"Gilgo-Oak Beach-Captree CDP, New York",36103,LI,16,4,20,418,438,2,4,392,municipality,2020
+723,3629509,"Gordon Heights CDP, New York",36103,LI,65,1112,987,1945,2932,72,119,577,municipality,2020
+724,3630235,"Great River CDP, New York",36103,LI,33,25,115,1576,1691,1,11,1506,municipality,2020
+725,3630543,"Greenlawn CDP, New York",36103,LI,568,1312,1655,9022,10677,60,222,6860,municipality,2020
+726,3630576,"Greenport village, New York",36103,LI,23,158,606,1392,1998,14,63,1134,municipality,2020
+727,3630581,"Greenport West CDP, New York",36103,LI,29,74,263,1725,1988,8,28,1586,municipality,2020
+728,3631445,"Halesite CDP, New York",36103,LI,55,38,125,1972,2097,18,40,1821,municipality,2020
+729,3631896,"Hampton Bays CDP, New York",36103,LI,132,152,4078,8173,12251,79,168,7642,municipality,2020
+730,3632732,"Hauppauge CDP, New York",36103,LI,1106,385,1449,14715,16164,94,256,12874,municipality,2020
+731,3632963,"Head of the Harbor village, New York",36103,LI,39,4,145,1090,1235,5,37,1005,municipality,2020
+732,3635056,"Holbrook CDP, New York",36103,LI,970,542,2237,19037,21274,118,300,17107,municipality,2020
+733,3635254,"Holtsville CDP, New York",36103,LI,826,359,1961,13229,15190,67,278,11699,municipality,2020
+734,3636233,"Huntington CDP, New York",36103,LI,472,311,1039,15315,16354,77,317,14138,municipality,2020
+735,3637022,"Huntington Bay village, New York",36103,LI,28,4,39,1210,1249,13,30,1135,municipality,2020
+736,3637044,"Huntington Station CDP, New York",36103,LI,1273,2376,10800,15842,26642,164,493,11536,municipality,2020
+737,3637840,"Islandia village, New York",36103,LI,191,352,845,2136,2981,22,60,1511,municipality,2020
+738,3637869,"Islip CDP, New York",36103,LI,471,680,2492,12209,14701,101,322,10635,municipality,2020
+739,3638022,"Islip Terrace CDP, New York",36103,LI,96,113,576,3629,4205,28,82,3310,municipality,2020
+740,3638253,"Jamesport CDP, New York",36103,LI,5,17,125,1259,1384,1,15,1221,municipality,2020
+741,3639672,"Kings Park CDP, New York",36103,LI,461,150,938,12986,13924,50,230,12095,municipality,2020
+742,3640530,"Lake Grove village, New York",36103,LI,775,209,927,8140,9067,30,193,6933,municipality,2020
+743,3640838,"Lake Ronkonkoma CDP, New York",36103,LI,853,494,1824,13128,14952,126,320,11335,municipality,2020
+744,3641465,"Laurel CDP, New York",36103,LI,13,5,185,1040,1225,9,22,991,municipality,2020
+745,3642554,"Lindenhurst village, New York",36103,LI,595,490,3118,18874,21992,112,418,17259,municipality,2020
+746,3643005,"Lloyd Harbor village, New York",36103,LI,106,9,134,2566,2700,11,58,2382,municipality,2020
+747,3645139,"Manorville CDP, New York",36103,LI,203,263,1009,10242,11251,47,249,9480,municipality,2020
+748,3646074,"Mastic CDP, New York",36103,LI,299,1011,3103,8555,11658,122,370,6753,municipality,2020
+749,3646085,"Mastic Beach CDP, New York",36103,LI,173,1160,2066,8684,10750,109,423,6819,municipality,2020
+750,3646140,"Mattituck CDP, New York",36103,LI,37,58,347,3288,3635,7,68,3118,municipality,2020
+751,3646404,"Medford CDP, New York",36103,LI,635,1217,4170,15232,19402,116,462,12802,municipality,2020
+752,3646514,"Melville CDP, New York",36103,LI,1567,615,922,14882,15804,67,278,12355,municipality,2020
+753,3646976,"Middle Island CDP, New York",36103,LI,225,999,908,7784,8692,77,213,6270,municipality,2020
+754,3647306,"Miller Place CDP, New York",36103,LI,268,138,587,8509,9096,33,157,7913,municipality,2020
+755,3648054,"Montauk CDP, New York",36103,LI,49,81,641,2997,3638,27,94,2746,municipality,2020
+756,3648450,"Moriches CDP, New York",36103,LI,43,202,267,2223,2490,23,73,1882,municipality,2020
+757,3649066,"Mount Sinai CDP, New York",36103,LI,459,134,679,8498,9177,43,139,7723,municipality,2020
+758,3649424,"Napeague CDP, New York",36103,LI,11,7,19,284,303,4,7,255,municipality,2020
+759,3649825,"Nesconset CDP, New York",36103,LI,621,170,803,9673,10476,70,189,8623,municipality,2020
+760,3650727,"New Suffolk CDP, New York",36103,LI,0,1,19,312,331,1,3,307,municipality,2020
+761,3651286,"Nissequogue village, New York",36103,LI,31,6,59,1228,1287,13,29,1149,municipality,2020
+762,3651396,"North Amityville CDP, New York",36103,LI,241,7016,4729,9501,14230,265,436,1543,municipality,2020
+763,3651418,"Northampton CDP, New York",36103,LI,10,119,197,376,573,3,10,234,municipality,2020
+764,3651440,"North Babylon CDP, New York",36103,LI,775,1263,2369,12122,14491,103,315,9666,municipality,2020
+765,3651495,"North Bay Shore CDP, New York",36103,LI,689,2087,9744,4873,14617,156,227,1714,municipality,2020
+766,3651528,"North Bellport CDP, New York",36103,LI,263,1947,3032,5912,8944,143,297,3262,municipality,2020
+767,3652078,"North Great River CDP, New York",36103,LI,77,106,507,2952,3459,14,56,2699,municipality,2020
+768,3652188,"North Haven village, New York",36103,LI,15,7,39,908,947,5,18,863,municipality,2020
+769,3653198,"North Lindenhurst CDP, New York",36103,LI,365,574,2411,7095,9506,85,193,5878,municipality,2020
+770,3653319,"North Patchogue CDP, New York",36103,LI,103,152,1264,4116,5380,24,94,3743,municipality,2020
+771,3653396,"Northport village, New York",36103,LI,119,46,263,5796,6059,24,91,5516,municipality,2020
+772,3653561,"North Sea CDP, New York",36103,LI,102,54,727,3665,4392,58,120,3331,municipality,2020
+773,3653775,"Northville CDP, New York",36103,LI,15,17,153,1196,1349,2,26,1136,municipality,2020
+774,3653852,"Northwest Harbor CDP, New York",36103,LI,96,72,641,3225,3866,49,84,2924,municipality,2020
+775,3654056,"Noyack CDP, New York",36103,LI,58,52,412,3161,3573,19,65,2967,municipality,2020
+776,3654144,"Oakdale CDP, New York",36103,LI,82,73,362,5857,6219,9,91,5602,municipality,2020
+777,3654430,"Ocean Beach village, New York",36103,LI,0,2,5,132,137,1,4,125,municipality,2020
+778,3654617,"Old Field village, New York",36103,LI,71,2,24,722,746,9,14,626,municipality,2020
+779,3655321,"Orient CDP, New York",36103,LI,10,2,30,845,875,5,15,813,municipality,2020
+780,3656660,"Patchogue village, New York",36103,LI,205,528,2556,7746,10302,54,201,6758,municipality,2020
+781,3656968,"Peconic CDP, New York",36103,LI,6,12,57,539,596,5,9,507,municipality,2020
+782,3659157,"Poquott village, New York",36103,LI,77,8,36,711,747,0,10,616,municipality,2020
+783,3659355,"Port Jefferson village, New York",36103,LI,438,82,490,6100,6590,40,196,5344,municipality,2020
+784,3659377,"Port Jefferson Station CDP, New York",36103,LI,420,237,1099,5194,6293,17,132,4388,municipality,2020
+785,3660408,"Quiogue CDP, New York",36103,LI,18,34,200,585,785,11,23,499,municipality,2020
+786,3660422,"Quogue village, New York",36103,LI,45,34,94,1281,1375,23,21,1158,municipality,2020
+787,3661142,"Remsenburg-Speonk CDP, New York",36103,LI,32,28,244,2254,2498,9,36,2149,municipality,2020
+788,3661665,"Ridge CDP, New York",36103,LI,273,521,762,10443,11205,48,212,9389,municipality,2020
+789,3661973,"Riverhead CDP, New York",36103,LI,174,1396,3854,8026,11880,86,258,6112,municipality,2020
+790,3662066,"Riverside CDP, New York",36103,LI,22,488,847,1570,2417,23,46,991,municipality,2020
+791,3663319,"Rocky Point CDP, New York",36103,LI,197,128,1050,9512,10562,25,285,8877,municipality,2020
+792,3663473,"Ronkonkoma CDP, New York",36103,LI,844,432,1944,13152,15096,206,353,11317,municipality,2020
+793,3664452,"Sagaponack village, New York",36103,LI,27,5,42,585,627,10,11,532,municipality,2020
+794,3664485,"Sag Harbor village, New York",36103,LI,23,190,219,2077,2296,28,65,1771,municipality,2020
+795,3664584,"St. James CDP, New York",36103,LI,391,94,713,10158,10871,31,181,9461,municipality,2020
+796,3664881,"Saltaire village, New York",36103,LI,2,0,3,96,99,0,3,91,municipality,2020
+797,3665409,"Sayville CDP, New York",36103,LI,218,150,756,12513,13269,45,240,11860,municipality,2020
+798,3666212,"Selden CDP, New York",36103,LI,1120,675,2876,13911,16787,122,336,11658,municipality,2020
+799,3666481,"Setauket-East Setauket CDP, New York",36103,LI,1260,149,749,11168,11917,59,253,9447,municipality,2020
+800,3666828,"Shelter Island CDP, New York",36103,LI,17,12,130,1224,1354,2,49,1144,municipality,2020
+801,3666850,"Shelter Island Heights CDP, New York",36103,LI,24,4,57,1351,1408,1,38,1284,municipality,2020
+802,3667048,"Shinnecock Hills CDP, New York",36103,LI,37,39,483,1313,1796,15,42,1180,municipality,2020
+803,3667070,"Shirley CDP, New York",36103,LI,566,1314,4244,16172,20416,174,623,13495,municipality,2020
+804,3667191,"Shoreham village, New York",36103,LI,12,8,30,423,453,0,15,388,municipality,2020
+805,3667851,"Smithtown CDP, New York",36103,LI,776,260,1776,18683,20459,98,416,17133,municipality,2020
+806,3668374,"Sound Beach CDP, New York",36103,LI,113,93,513,5332,5845,34,150,4942,municipality,2020
+807,3668462,"Southampton village, New York",36103,LI,106,200,546,3219,3765,42,81,2790,municipality,2020
+808,3669254,"South Huntington CDP, New York",36103,LI,629,164,985,6805,7790,31,155,5826,municipality,2020
+809,3669452,"Southold CDP, New York",36103,LI,70,57,535,4597,5132,18,109,4343,municipality,2020
+810,3670387,"Springs CDP, New York",36103,LI,114,107,2012,4462,6474,21,144,4076,municipality,2020
+811,3671608,"Stony Brook CDP, New York",36103,LI,1375,179,574,10352,10926,57,213,8528,municipality,2020
+812,3671620,"Stony Brook University CDP, New York",36103,LI,1820,3484,1718,8584,10302,117,532,2631,municipality,2020
+813,3673352,"Terryville CDP, New York",36103,LI,355,310,1640,7476,9116,44,181,6586,municipality,2020
+814,3675572,"Tuckahoe CDP, New York",36103,LI,33,77,261,998,1259,19,27,842,municipality,2020
+815,3677519,"Village of the Branch village, New York",36103,LI,39,18,71,1288,1359,3,25,1203,municipality,2020
+816,3677772,"Wading River CDP, New York",36103,LI,83,114,442,5659,6101,24,144,5294,municipality,2020
+817,3677805,"Wainscott CDP, New York",36103,LI,18,16,113,642,755,9,12,587,municipality,2020
+818,3678575,"Water Mill CDP, New York",36103,LI,71,17,142,1915,2057,7,54,1766,municipality,2020
+819,3679246,"West Babylon CDP, New York",36103,LI,1142,4039,5677,28955,34632,202,801,22771,municipality,2020
+820,3679301,"West Bay Shore CDP, New York",36103,LI,110,100,327,3423,3750,15,78,3120,municipality,2020
+821,3680170,"Westhampton CDP, New York",36103,LI,39,69,440,2492,2932,23,53,2308,municipality,2020
+822,3680181,"Westhampton Beach village, New York",36103,LI,37,26,217,1538,1755,8,26,1441,municipality,2020
+823,3680186,"West Hampton Dunes village, New York",36103,LI,2,0,2,103,105,0,0,101,municipality,2020
+824,3680258,"West Hills CDP, New York",36103,LI,309,89,386,4081,4467,20,62,3601,municipality,2020
+825,3680302,"West Islip CDP, New York",36103,LI,413,138,1872,19575,21447,51,340,18633,municipality,2020
+826,3680885,"West Sayville CDP, New York",36103,LI,59,39,217,3731,3948,11,72,3550,municipality,2020
+827,3681419,"Wheatley Heights CDP, New York",36103,LI,312,2014,618,3324,3942,64,141,793,municipality,2020
+828,3683294,"Wyandanch CDP, New York",36103,LI,132,4799,3721,5651,9372,130,254,336,municipality,2020
+829,3683426,"Yaphank CDP, New York",36103,LI,132,225,548,4352,4900,44,155,3796,municipality,2020
+830,3610304000,"Babylon town, Suffolk County, New York",36103,LI,7322,26102,36522,136992,173514,1503,3855,98210,municipality,2020
+831,3610310000,"Brookhaven town, Suffolk County, New York",36103,LI,18962,23621,58329,330329,388658,2499,9623,275624,municipality,2020
+832,3610322194,"East Hampton town, Suffolk County, New York",36103,LI,402,698,5574,17585,23159,181,498,15806,municipality,2020
+833,3610337000,"Huntington town, Suffolk County, New York",36103,LI,10691,6834,21554,141028,162582,860,3074,119569,municipality,2020
+834,3610338000,"Islip town, Suffolk County, New York",36103,LI,8498,21216,84928,180215,265143,2047,4729,143725,municipality,2020
+835,3610359106,"Poospatuck Reservation, Suffolk County, New York",36103,LI,0,51,61,261,322,163,22,25,municipality,2020
+836,3610361984,"Riverhead town, Suffolk County, New York",36103,LI,352,1774,5607,23563,29170,148,592,20697,municipality,2020
+837,3610366839,"Shelter Island town, Suffolk County, New York",36103,LI,45,16,201,2600,2801,4,88,2447,municipality,2020
+838,3610367059,"Shinnecock Reservation, Suffolk County, New York",36103,LI,0,29,25,591,616,522,15,25,municipality,2020
+839,3610368000,"Smithtown town, Suffolk County, New York",36103,LI,4275,1227,6845,86018,92863,450,1672,78394,municipality,2020
+840,3610368473,"Southampton town, Suffolk County, New York",36103,LI,939,1961,12001,43610,55611,432,1044,39234,municipality,2020
+841,3610369463,"Southold town, Suffolk County, New York",36103,LI,233,417,2446,17527,19973,80,393,16404,municipality,2020
+842,3610506310,"Bethel town, Sullivan County, New York",36105,MHV,32,72,365,2997,3362,26,103,2764,municipality,2020
+843,3610511759,"Callicoon town, Sullivan County, New York",36105,MHV,57,28,164,2344,2508,14,74,2171,municipality,2020
+844,3610516661,"Cochecton town, Sullivan County, New York",36105,MHV,7,15,56,1128,1184,7,44,1055,municipality,2020
+845,3610520104,"Delaware town, Sullivan County, New York",36105,MHV,20,98,113,1683,1796,11,43,1511,municipality,2020
+846,3610525241,"Fallsburg town, Sullivan County, New York",36105,MHV,275,1585,2729,8263,10992,149,299,5955,municipality,2020
+847,3610526528,"Forestburgh town, Sullivan County, New York",36105,MHV,15,13,26,664,690,4,17,615,municipality,2020
+848,3610527573,"Fremont town, Sullivan County, New York",36105,MHV,10,20,49,941,990,8,23,880,municipality,2020
+849,3610534473,"Highland town, Sullivan County, New York",36105,MHV,17,27,108,1758,1866,10,48,1656,municipality,2020
+850,3610542235,"Liberty town, Sullivan County, New York",36105,MHV,140,554,1797,5996,7793,58,305,4939,municipality,2020
+851,3610543786,"Lumberland town, Sullivan County, New York",36105,MHV,24,30,141,1676,1817,16,78,1528,municipality,2020
+852,3610544809,"Mamakating town, Sullivan County, New York",36105,MHV,165,332,1030,8591,9621,112,428,7554,municipality,2020
+853,3610549847,"Neversink town, Sullivan County, New York",36105,MHV,36,34,144,2569,2713,10,71,2418,municipality,2020
+854,3610563176,"Rockland town, Sullivan County, New York",36105,MHV,48,39,208,2426,2634,16,97,2226,municipality,2020
+855,3610573627,"Thompson town, Sullivan County, New York",36105,MHV,475,2066,2582,10074,12656,170,534,6829,municipality,2020
+856,3610575759,"Tusten town, Sullivan County, New York",36105,MHV,24,26,70,1094,1164,5,37,1002,municipality,2020
+857,3611120247,"Denning town, Ulster County, New York",36111,MHV,3,12,21,405,426,6,28,356,municipality,2020
+858,3611124691,"Esopus town, Ulster County, New York",36111,MHV,91,307,413,7443,7856,45,304,6696,municipality,2020
+859,3611128255,"Gardiner town, Ulster County, New York",36111,MHV,84,63,315,4248,4563,29,189,3883,municipality,2020
+860,3611132116,"Hardenburgh town, Ulster County, New York",36111,MHV,13,1,11,175,186,0,0,161,municipality,2020
+861,3611137143,"Hurley town, Ulster County, New York",36111,MHV,104,92,256,4910,5166,52,152,4510,municipality,2020
+862,3611139727,"Kingston city, Ulster County, New York",36111,MHV,462,2272,2687,16530,19217,141,933,12722,municipality,2020
+863,3611139738,"Kingston town, Ulster County, New York",36111,MHV,9,6,36,734,770,8,35,676,municipality,2020
+864,3611142994,"Lloyd town, Ulster County, New York",36111,MHV,261,531,799,8197,8996,77,267,7061,municipality,2020
+865,3611145458,"Marbletown town, Ulster County, New York",36111,MHV,85,62,206,4576,4782,33,195,4201,municipality,2020
+866,3611145722,"Marlborough town, Ulster County, New York",36111,MHV,76,367,674,6295,6969,24,185,5643,municipality,2020
+867,3611150562,"New Paltz town, Ulster County, New York",36111,MHV,702,666,1508,10833,12341,229,366,8870,municipality,2020
+868,3611154749,"Olive town, Ulster County, New York",36111,MHV,50,40,165,3400,3565,36,155,3119,municipality,2020
+869,3611158552,"Plattekill town, Ulster County, New York",36111,MHV,82,405,1464,6808,8272,75,331,5915,municipality,2020
+870,3611163011,"Rochester town, Ulster County, New York",36111,MHV,95,97,333,5569,5902,49,260,5068,municipality,2020
+871,3611163737,"Rosendale town, Ulster County, New York",36111,MHV,56,88,254,4591,4845,41,192,4214,municipality,2020
+872,3611165299,"Saugerties town, Ulster County, New York",36111,MHV,224,305,970,14743,15713,72,605,13537,municipality,2020
+873,3611166597,"Shandaken town, Ulster County, New York",36111,MHV,40,33,152,2284,2436,39,95,2077,municipality,2020
+874,3611166674,"Shawangunk town, Ulster County, New York",36111,MHV,151,1028,1507,9806,11313,70,268,8289,municipality,2020
+875,3611175935,"Ulster town, Ulster County, New York",36111,MHV,255,455,795,9643,10438,84,383,8466,municipality,2020
+876,3611178828,"Wawarsing town, Ulster County, New York",36111,MHV,145,1410,2037,8203,10240,106,394,6148,municipality,2020
+877,3611183052,"Woodstock town, Ulster County, New York",36111,MHV,141,87,256,5205,5461,53,167,4757,municipality,2020
+878,3611905320,"Bedford town, Westchester County, New York",36119,LHV,467,657,2028,11361,13389,86,291,9860,municipality,2020
+879,3611918410,"Cortlandt town, Westchester County, New York",36119,LHV,1333,2004,5995,27700,33695,218,945,23200,municipality,2020
+880,3611921820,"Eastchester town, Westchester County, New York",36119,LHV,2298,837,2216,24169,26385,144,549,20341,municipality,2020
+881,3611930367,"Greenburgh town, Westchester County, New York",36119,LHV,8967,8315,12003,62936,74939,605,1994,43055,municipality,2020
+882,3611932413,"Harrison town, Westchester County, New York",36119,LHV,2003,621,3221,18380,21601,143,556,15057,municipality,2020
+883,3611942136,"Lewisboro town, Westchester County, New York",36119,LHV,362,168,657,8905,9562,61,269,8045,municipality,2020
+884,3611944842,"Mamaroneck town, Westchester County, New York",36119,LHV,1229,711,3956,19406,23362,196,584,16686,municipality,2020
+885,3611948895,"Mount Kisco town, Westchester County, New York",36119,LHV,444,383,3318,5402,8720,45,161,4369,municipality,2020
+886,3611949011,"Mount Pleasant town, Westchester County, New York",36119,LHV,2012,1062,6723,27811,34534,187,645,23905,municipality,2020
+887,3611949121,"Mount Vernon city, Westchester County, New York",36119,LHV,1166,35456,10276,48296,58572,1229,2468,7977,municipality,2020
+888,3611950078,"New Castle town, Westchester County, New York",36119,LHV,1511,203,797,12358,13155,58,313,10273,municipality,2020
+889,3611950617,"New Rochelle city, Westchester County, New York",36119,LHV,3194,11715,19039,44150,63189,698,1592,26951,municipality,2020
+890,3611951693,"North Castle town, Westchester County, New York",36119,LHV,598,150,1029,8306,9335,33,192,7333,municipality,2020
+891,3611953517,"North Salem town, Westchester County, New York",36119,LHV,91,56,392,3799,4191,24,89,3539,municipality,2020
+892,3611955541,"Ossining town, Westchester County, New York",36119,LHV,1745,3468,10325,21460,31785,175,643,15429,municipality,2020
+893,3611956979,"Peekskill city, Westchester County, New York",36119,LHV,626,3822,7915,12189,20104,155,567,7019,municipality,2020
+894,3611957012,"Pelham town, Westchester County, New York",36119,LHV,633,530,1087,8244,9331,132,293,6656,municipality,2020
+895,3611959685,"Pound Ridge town, Westchester County, New York",36119,LHV,128,58,244,3765,4009,15,129,3435,municipality,2020
+896,3611964309,"Rye city, Westchester County, New York",36119,LHV,820,151,936,10746,11682,48,312,9415,municipality,2020
+897,3611964320,"Rye town, Westchester County, New York",36119,LHV,1477,1426,17427,20631,38058,293,837,16598,municipality,2020
+898,3611965442,"Scarsdale town, Westchester County, New York",36119,LHV,2571,168,594,12009,12603,82,380,8808,municipality,2020
+899,3611968308,"Somers town, Westchester County, New York",36119,LHV,637,220,1313,16077,17390,44,340,14836,municipality,2020
+900,3611981677,"White Plains city, Westchester County, New York",36119,LHV,4131,5644,14424,33814,48238,427,1154,22458,municipality,2020
+901,3611984000,"Yonkers city, Westchester County, New York",36119,LHV,10843,26163,64473,101530,166003,1582,3358,59584,municipality,2020
+902,3611984077,"Yorktown town, Westchester County, New York",36119,LHV,1529,971,3587,25023,28610,159,565,21799,municipality,2020
+0,0.0,United States,,,15713740,30266080,43322792,215020489,258343281,3290299,8631797,157118573,nation,2020

@@ -57,6 +57,21 @@ def get_nyc_tract(proxy,source,year,col):
         frames.append(df)
     return pd.concat(frames)
 
+def get_tract(proxy,source,year,col):
+    base_url = f'https://api.census.gov/data/{year}/acs/{source}'
+    states = ['09','34','36']
+    frames = []
+    for st in states:
+        url = f'{base_url}?get={col}&for=tract:*&in=state:{st}&in=county:*&key={census_key}'
+        resp = requests.request('GET',url,proxies=proxy).content
+        df = pd.DataFrame(json.loads(resp)[1:])
+        df.columns = json.loads(resp)[0]
+        df['stco']=df.state+df.county
+        df['GEO_ID'] = df.GEO_ID.str[-11:]
+        df = df[df.stco.isin(stco_fips)].drop(['state','county','tract','stco'],axis=1)
+        frames.append(df)
+    return pd.concat(frames)
+
 
 #def get_nyc_nta(proxy,source,year,col):
 #    pass

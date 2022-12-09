@@ -36,8 +36,16 @@ def calculate_sumgeo(df,sumgeo):
 
 def calc_muni_agg(df,sumgeo):
     variables = list(df.columns[1:])
-    var = list(set([i.replace('E', '')\
-                .replace('M', '') for i in variables]))
+    var = set()
+    for i in variables:
+        if i[-1] == 'E' or i[-1] == 'M':
+            i = i[:-1]
+            var.add(i)
+        else:
+            var.add(i)
+    
+    #var = list(set([i.replace('_E', '')\
+    #            .replace('_M', '') for i in variables]))
     results = []
     for i in df[sumgeo].unique():
         dff = df[df[sumgeo] == i]
